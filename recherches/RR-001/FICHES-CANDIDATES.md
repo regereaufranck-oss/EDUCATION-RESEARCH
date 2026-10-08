@@ -1,4 +1,4 @@
-# RR-001 — Sept fiches candidates : numération et addition CP–CE2
+# RR-001 — Douze sections candidates : numération et pédagogie (cible CP–CM2)
 
 **Date :** 2026-10-08  
 **Statut global : NEEDS_REVISION.** Notices provisoires issues d'une capitalisation partielle des runs 1–4. Les statuts indiquent une **maturité documentaire**, pas un niveau de preuve expérimentale. [Bibliographie](BIBLIOGRAPHIE.md).
@@ -129,3 +129,18 @@ PED-01/02/03/04/05/06 → NUM-01…NUM-06 selon tâche effectivement travaillée
 **Contradictions apparentes à auditer** : jeu guidé versus enseignement explicite selon les définitions et comparateurs (P12/P13) ; résultats dans le jeu versus transfert (P14). Aucun classement universel des pédagogies ni prédiction individuelle.
 
 **Statut** : NEEDS_REVISION / NEED_MORE_INFORMATION ; pas de nouvelle fiche canonique ni de preuve directe d'efficacité d'une caisse numérique CP–CM2.
+
+
+## Complément PED-06 / PED-04 / PED-05 — remédiation adaptée (2026-10-08)
+
+**Question :** comment sélectionner et ajuster une intervention à partir de la compétence effectivement maîtrisée, de la nature des erreurs et de la réponse à l'enseignement, plutôt que de la seule classe ou du support utilisé ?
+
+**Appui vérifié P15 (WWC 2021)** : enseignement systématique, langage mathématique explicite et représentations soigneusement choisies disposent de recommandations classées Strong Evidence pour les élèves du primaire en difficulté. **Appui P16 (WWC 2009)** : dépistage des élèves à risque et organisation d'interventions progressives. Ce sont des recommandations de pratiques générales, **pas une validation d'une règle automatique « erreur → remédiation »**.
+
+**Modèle de travail à éprouver, NON VALIDÉ comme protocole complet** : 1. définir la compétence et les prérequis ; 2. recueillir plusieurs réponses et distinguer erreur conceptuelle, procédure, compréhension de consigne et fluctuation ; 3. choisir une intervention explicitement ciblée ; 4. mesurer la réponse sur des tâches comparables ; 5. ajuster la représentation, le guidage ou le niveau ; 6. contrôler une tâche non entraînée et un test différé. Une erreur isolée ne permet pas un diagnostic.
+
+**Support ≠ mécanisme** : matériel concret, papier ou application numérique peuvent varier en accessibilité, quantité de pratique, guidage, feedback et possibilité de révision. L'utilité pratique d'une application ne prouve pas à elle seule son efficacité causale ni son transfert. L'espacement, la fréquence, la durée, l'adaptation et le feedback sont des **variables à auditer séparément** pour PED-04/05/06.
+
+**Mesures distinctes** : accès/assiduité ; réussite entraînée ; explication ; autonomie ; transfert hors support ; maintien différé ; charge et effets indésirables. Les données individuelles d'enfants ne doivent pas figurer dans le dépôt public.
+
+**Statut :** NEEDS_REVISION / NEED_MORE_INFORMATION ; P15/P16 soutiennent les principes généraux mais pas une prescription individuelle automatique. Prochaine RR : essais de remédiation adaptative et règles de décision, effets modérateurs du niveau initial, suivi des progrès, transfert et maintien.
