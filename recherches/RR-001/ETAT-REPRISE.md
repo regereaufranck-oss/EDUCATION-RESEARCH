@@ -125,3 +125,16 @@ Ajout des références institutionnelles **P15 WWC 2021** et **P16 WWC 2009**, a
 **Inventaire courant : 12 sections candidates (NUM-01 à NUM-06 ; PED-01 à PED-06), 0 fiche canonique validée, RR global NEED_MORE_INFORMATION.** La mention « sept » conservée dans certains checkpoints historiques correspond à un état antérieur.
 
 **Priorités :** P1 études sur décision et ajustement de remédiation selon prérequis/erreurs ; P2 essais sur guidage et représentations dans NUM-06 ; P3 suivi du progrès, transfert et maintien ; P4 études primaires sur espacement, feedback et dosage ; P5 audit de l'effet propre des applications par rapport au contenu et à l'assiduité. Préserver les frontières CONNAISSANCES/PEDAGOGIE/EVALUATIONS et la confidentialité.
+
+
+## Checkpoint — 2026-10-08 : grandes RR sur individualisation et décision
+
+**Nouveautés depuis le checkpoint précédent :** pistes P17–P23 (ISI-Math, devoirs adaptés aux erreurs, acquisition/fluence, DBI, Getting on Track, étude de cas conceptuel/procédural, BEA) et renvoi P24 vers V01 Jensen et al. (2024), **sans double comptage**. Sources et réserves inscrites dans BIBLIOGRAPHIE.md ; modèle de décision provisoire enrichi dans FICHES-CANDIDATES.md.
+
+**Constat différentiel :** l'individualisation évaluée expérimentalement et la boucle « évaluer → enseigner → mesurer → ajuster » disposent d'appuis ; la sélection automatique d'une remédiation par erreur n'est pas validée. Les résultats nuls ou non significatifs rapportés sur certains systèmes de données et adaptations de difficulté sont conservés comme **pistes contradictoires à auditer**, non comme réfutations établies. La distinction regroupement/valeur positionnelle (V01) soutient une grille d'observation, pas un traitement démontré.
+
+**Porte scientifique :** NEED_MORE_INFORMATION. Références nouvelles non toutes recontrôlées en texte intégral ; aucune fiche canonique validée. **Inventaire courant : 12 sections candidates, 0 fiche canonique, 3 documents de recherche RR-001**.
+
+**Priorités discriminantes :** (P1) vérifier les textes et tableaux des études P17/P18/P19/P20/P22/P23 ; (P2) trouver un essai contrôlé isolant la valeur du diagnostic d'erreur, par rapport au score global à durée identique ; (P3) comparer décisions adaptatives et parcours fixe, avec suivi ; (P4) mesurer transfert et maintien sur NUM-06 ; (P5) contrôler les études contradictoires et les données de didactique française.
+
+**Publication :** capitalisation documentaire seulement, sans validation scientifique automatique ni données individuelles d'enfants.
