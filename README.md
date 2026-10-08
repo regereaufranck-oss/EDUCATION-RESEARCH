@@ -4,6 +4,8 @@ Recherches scientifiques sur les apprentissages, les difficultés scolaires et l
 ## Explorer la bibliothèque
 
 - [Connaissances — fiches canoniques](CONNAISSANCES/README.md)
+- [Pédagogie — approches, médiation, remédiations](PEDAGOGIE/README.md)
+- [Évaluations — observations, méthodes et outils](EVALUATIONS/README.md)
 - [Ressources et outils](RESSOURCES/README.md)
 - [Sources et provenance](SOURCES/README.md)
 - [Synthèses](SYNTHESES/README.md)
@@ -13,5 +15,7 @@ Recherches scientifiques sur les apprentissages, les difficultés scolaires et l
 ### Recherche en cours
 
 [RR-001 — bibliographie réconciliée](recherches/RR-001/BIBLIOGRAPHIE.md) · [Sept fiches candidates](recherches/RR-001/FICHES-CANDIDATES.md) — **NEEDS_REVISION**, non validées scientifiquement.
+
+**Architecture corrigée après contrôle historique :** [voir la séparation des familles](DOCUMENTATION/architecture.md).
 
 **Principe :** une fiche canonique par objet, des liens plutôt que des copies, des sources traçables et des statuts distincts pour la preuve, la maturité documentaire et la publication. Les données individuelles et méthodes privées sont exclues du dépôt public.
