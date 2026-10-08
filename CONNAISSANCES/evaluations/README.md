@@ -1,5 +1,5 @@
-# evaluations — evaluations
+# Ancien emplacement — évaluations
 
-Évaluations : compétence mesurée, validité, fidélité, conditions et limites.
+**Emplacement canonique actuel : [EVALUATIONS](../../EVALUATIONS/README.md).**
 
-**État :** aucune fiche canonique validée dans cette catégorie. Voir [modèle de fiche](../../DOCUMENTATION/modele-fiche.md).
+Ce fichier reste en place pour préserver les liens historiques. Ne pas créer de nouvelles fiches ici.
