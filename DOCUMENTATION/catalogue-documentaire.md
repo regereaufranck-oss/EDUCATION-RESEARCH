@@ -47,3 +47,8 @@ Les identifiants **NUM-01 à NUM-06** et **PED-01** sont actuellement des sectio
 `ID | titre | lien canonique | type | domaine | niveau | maturité documentaire | date de vérification | source/étude | relations`
 
 Les champs inconnus restent `UNKNOWN`. L'index peut être scindé par famille lorsqu'il grandira, tout en gardant ici les pointeurs vers les index détaillés.
+
+
+## Élargissement du corpus RR-001 — 2026-10-08
+
+Le fichier [FICHES-CANDIDATES.md](../recherches/RR-001/FICHES-CANDIDATES.md) contient désormais **12 sections candidates** (6 NUM et 6 PED) : elles ne sont pas des fiches canoniques indépendantes. Les références P08–P11 sont des ajouts bibliographiques provisoires et les autres études pédagogiques signalées restent des pistes à auditer. **Aucune fiche canonique validée** ; statut des trois documents RR-001 : NEEDS_REVISION. La séparation CONNAISSANCES / PEDAGOGIE / EVALUATIONS de l'architecture reste inchangée.
