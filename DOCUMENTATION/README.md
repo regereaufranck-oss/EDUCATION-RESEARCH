@@ -2,6 +2,7 @@
 
 - [Périmètre](perimetre.md)
 - [Architecture documentaire corrigée et historique](architecture.md)
+- [Catalogue documentaire vivant](catalogue-documentaire.md)
 - [Modèle de fiche](modele-fiche.md)
 - [Relations](relations.md)
 - [Statuts et révisions](statuts-et-revisions.md)
