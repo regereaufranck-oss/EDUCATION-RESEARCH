@@ -10,6 +10,7 @@
 |---|---|---|---|
 | RR-001-BIB | [Bibliographie RR-001](../recherches/RR-001/BIBLIOGRAPHIE.md) | Références et limites | NEEDS_REVISION |
 | RR-001-STATE | [État de reprise RR-001](../recherches/RR-001/ETAT-REPRISE.md) | Point de reprise et lacunes | NEEDS_REVISION |
+| RR-001-GROUP-NUM | [Numération : valeur, échanges et calcul](../recherches/RR-001/REGROUPEMENT-NUMERATION.md) | Synthèse de regroupement NUM-02/03/06, non canonique | NEEDS_REVISION |
 | RR-001-CAND | [Douze sections candidates RR-001](../recherches/RR-001/FICHES-CANDIDATES.md) | Archive de capitalisation, non canonique | NEEDS_REVISION |
 
 Les identifiants **NUM-01 à NUM-06** et **PED-01 à PED-06** sont actuellement **12 sections** du document RR-001-CAND, et non des fiches canoniques indépendantes. Aucune fiche canonique validée n'est enregistrée dans ce catalogue.
@@ -62,3 +63,8 @@ Le dossier RR-001 contient toujours **12 sections candidates dans un seul docume
 ## Capitalisation complémentaire — 2026-10-08
 
 Le corpus RR-001 intègre les **pistes P17–P23** sur l'individualisation mathématique, le diagnostic d'erreur, les ajustements fondés sur des données et l'analyse expérimentale brève ; **P24 est un renvoi vers V01** (pas une étude supplémentaire). Leurs réserves d'admissibilité et les résultats contradictoires sont conservés. Aucune nouvelle fiche canonique ni nouveau document indépendant ; **12 sections candidates, 0 fiche canonique validée, 3 documents RR-001, statut NEEDS_REVISION / NEED_MORE_INFORMATION**. Les anciennes mentions « sept » dans l'historique de reprise sont des états datés, non l'inventaire courant.
+
+
+## Regroupement documentaire — 2026-10-08
+
+Le document [REGROUPEMENT-NUMERATION.md](../recherches/RR-001/REGROUPEMENT-NUMERATION.md) regroupe les sections **NUM-02, NUM-03, NUM-06** comme un seul objet documentaire avec trois dimensions explicitement conservées. **12 sections historiques** restent dans l'archive ; **10 objets conceptuels provisoires** après ce premier regroupement ; **0 fiche canonique validée**. Les documents de recherche RR-001 référencés ici sont désormais **4**. Ne pas confondre réduction du nombre d'objets avec réduction des sources ou validation des interventions.
