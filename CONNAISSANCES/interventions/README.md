@@ -1,5 +1,5 @@
-# interventions — interventions
+# Ancien emplacement — interventions
 
-Interventions et remédiations : cible, comparateur, durée, effets, maintien et transfert.
+**Emplacement canonique actuel : [PEDAGOGIE/remediations](../../PEDAGOGIE/remediations/README.md).**
 
-**État :** aucune fiche canonique validée dans cette catégorie. Voir [modèle de fiche](../../DOCUMENTATION/modele-fiche.md).
+Ce fichier reste en place pour préserver les liens historiques. Ne pas créer de nouvelles fiches ici.
