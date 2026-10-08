@@ -78,3 +78,10 @@ Dépôt public : seulement références, synthèses originales et états de preu
 - **Contraste obligatoire** : V04 n'a pas montré d'effet significatif sur la mesure de calcul procédural. Les trois études diffèrent par dispositif, échantillon et critère.
 
 **État actuel : 7 sections candidates ; 0 fiche canonique validée ; V01–V07 répertoriées ; RR global NEED_MORE_INFORMATION.** Priorité : récupérer les données originales de V06, contrôler les tableaux de V07, puis identifier essais avec maintien et transfert. Ne pas créer de nouvelle fiche sans revue humaine et autorisation.
+
+
+## Passe ciblée — 2026-10-08, suivi V06/V07
+
+**V06** : effet favorable annoncé dans le résumé sur valeur positionnelle et addition, mais **pas de données vérifiées** pour effectifs, tailles d'effet, durée de maintien ou transfert. **V07** : effectifs distincts vérifiés dans le résumé (169 ; 75 pour soustraction initiale ; 783 addition ; 707 soustraction), ne pas les sommer ni en déduire une causalité randomisée. **Piste maternelle** : entraînement au comptage sur les doigts, suivi à six semaines, hors cible directe CP–CM2 ; prérequis seulement.
+
+**Prochaine action discriminante** : acquisition du texte intégral V06 et contrôle de la mesure de transfert ; extraction des tableaux de V07 et recherche d'études comparatives de maintien sur échanges décimaux. **Verdict NUM-06 : NEED_MORE_INFORMATION ; 7 sections provisoires ; 0 fiche canonique validée.**
