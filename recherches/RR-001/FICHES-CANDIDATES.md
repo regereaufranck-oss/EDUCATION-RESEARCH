@@ -44,3 +44,13 @@ Pour progresser : rattacher chaque affirmation à un passage original, qualifier
 - **PED-01** : V02 réfute toute formulation universelle « matériel d'abord toujours meilleur ». Séparer matériel, représentation, guidage, stratégie et intervention. **REFINE**.
 
 **Verdict RR global : NEED_MORE_INFORMATION.** Les sept rubriques restent des sections candidates, non des fiches canoniques. Prochaine passe : matrice affirmation → passage original → population/compétence → mesure → corroboration/contradiction → transférabilité → verdict. Priorité NUM-02, NUM-03, PED-01, puis NUM-06 et NUM-04. Références V01/V02 détaillées dans BIBLIOGRAPHIE.md.
+
+
+## Révision après contrôle contradictoire — 2026-10-08
+
+- **NUM-04** : V03 (Lafay et al., 2024) documente une difficulté de transcription liée aux dizaines complexes 70–99 chez 49 élèves de 7–9 ans, sur des nombres de 3 à 7 chiffres. **DOCUMENTED pour cette affirmation descriptive précise** ; pas de preuve d'efficacité de remédiation, pas de généralisation automatique aux nombres isolés à deux chiffres ni à tout CP–CM2.
+- **NUM-06** : V04 (Fuchs et al.) est un **essai randomisé à résultat non significatif sur le calcul procédural**, malgré une intervention multicomposante avec logiciel et feedback. V05 (1986) rapporte des gains de réponses correctes sur la soustraction avec échange dans une étude, sans réduction significative des catégories d'erreurs. **CONFLICTING/MIXED à l'échelle des approches et mesures** ; ne pas prétendre que V04 démontre une amélioration procédurale. Les deux études ne testent pas la même intervention ni les mêmes résultats.
+- **PED-01** : V02 indique un effet conditionnel du guidage et de l'ordre des représentations ; V04 ne permet pas d'attribuer des effets au seul logiciel ou au seul matériel. **DOCUMENTED WITH RESERVATIONS**.
+- **NUM-01 / NUM-05** : toujours **EXPLORATORY**. **NUM-02 / NUM-03** : mécanismes étayés, remédiations non validées globalement.
+
+**Statuts par affirmation ≠ validation des fiches. Verdict RR global : NEED_MORE_INFORMATION.** Sources et restrictions détaillées dans BIBLIOGRAPHIE.md.
