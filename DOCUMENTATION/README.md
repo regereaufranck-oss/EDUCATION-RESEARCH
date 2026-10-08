@@ -1,11 +1,11 @@
 # Documentation publique
 
-- [Périmètre et limites](perimetre.md)
-- [Architecture et conventions](architecture.md)
-- [Modèle de fiche canonique](modele-fiche.md)
-- [Relations et liens](relations.md)
+- [Périmètre](perimetre.md)
+- [Architecture documentaire corrigée et historique](architecture.md)
+- [Modèle de fiche](modele-fiche.md)
+- [Relations](relations.md)
 - [Statuts et révisions](statuts-et-revisions.md)
 - [Preuves et sources](preuves-et-sources.md)
-- [Publication, droits et confidentialité](publication.md)
+- [Publication et confidentialité](publication.md)
 
-Ces documents exposent des conventions éditoriales publiques, **pas** les instructions privées du plugin ou ses méthodes internes.
+Conventions éditoriales publiques uniquement ; ni prompts ni protocoles privés du plugin.
