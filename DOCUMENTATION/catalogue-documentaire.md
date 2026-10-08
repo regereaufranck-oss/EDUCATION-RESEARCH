@@ -9,6 +9,7 @@
 | Identifiant | Document | Nature | État |
 |---|---|---|---|
 | RR-001-BIB | [Bibliographie RR-001](../recherches/RR-001/BIBLIOGRAPHIE.md) | Références et limites | NEEDS_REVISION |
+| RR-001-STATE | [État de reprise RR-001](../recherches/RR-001/ETAT-REPRISE.md) | Point de reprise et lacunes | NEEDS_REVISION |
 | RR-001-CAND | [Sept fiches candidates RR-001](../recherches/RR-001/FICHES-CANDIDATES.md) | Archive de capitalisation, non canonique | NEEDS_REVISION |
 
 Les identifiants **NUM-01 à NUM-06** et **PED-01** sont actuellement des sections du document RR-001-CAND, **pas sept fichiers indépendants**. Aucune fiche canonique validée n'est enregistrée dans ce catalogue.
