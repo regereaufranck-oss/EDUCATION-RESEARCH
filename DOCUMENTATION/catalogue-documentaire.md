@@ -4,6 +4,18 @@
 
 **Dernière réconciliation manuelle :** 2026-10-08. Ce fichier est un index maintenu lors des changements ; il ne se synchronise pas automatiquement avec GitHub.
 
+## Fiches provisoires soumises à revue humaine — 2026-10-08
+
+Ces trois fiches sont des objets canoniques **en version provisoire**, non scientifiquement validés et non approuvés par un humain. Statut documentaire : NEEDS_REVIEW ; porte : READY_FOR_HUMAN_REVIEW. Elles ne remplacent pas les archives RR-001.
+
+| ID | Fiche | Famille | État |
+|---|---|---|---|
+| NUM-DEC-001 | [Position, échanges et calcul](../CONNAISSANCES/competences/NUM-DEC-001.md) | CONNAISSANCES / compétence | NEEDS_REVIEW |
+| EVAL-NUM-001 | [Observation des trois dimensions](../EVALUATIONS/observations/EVAL-NUM-001.md) | EVALUATIONS / observation | NEEDS_REVIEW, non validée psychométriquement |
+| PED-NUM-001 | [Interventions et réserves](../PEDAGOGIE/remediations/PED-NUM-001.md) | PEDAGOGIE / remédiations | NEEDS_REVIEW, efficacité individualisée non établie |
+
+**Contrôle humain à effectuer le 2026-10-09** : précision des affirmations et des passages sources ; adéquation des trois tâches ; limites de transfert ; contradictions ; liens et statuts. Aucune approbation présumée.
+
 ## Documents de recherche présents
 
 | Identifiant | Document | Nature | État |
