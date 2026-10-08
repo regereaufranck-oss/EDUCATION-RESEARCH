@@ -85,3 +85,14 @@ Dépôt public : seulement références, synthèses originales et états de preu
 **V06** : effet favorable annoncé dans le résumé sur valeur positionnelle et addition, mais **pas de données vérifiées** pour effectifs, tailles d'effet, durée de maintien ou transfert. **V07** : effectifs distincts vérifiés dans le résumé (169 ; 75 pour soustraction initiale ; 783 addition ; 707 soustraction), ne pas les sommer ni en déduire une causalité randomisée. **Piste maternelle** : entraînement au comptage sur les doigts, suivi à six semaines, hors cible directe CP–CM2 ; prérequis seulement.
 
 **Prochaine action discriminante** : acquisition du texte intégral V06 et contrôle de la mesure de transfert ; extraction des tableaux de V07 et recherche d'études comparatives de maintien sur échanges décimaux. **Verdict NUM-06 : NEED_MORE_INFORMATION ; 7 sections provisoires ; 0 fiche canonique validée.**
+
+
+## Point de sauvegarde — 2026-10-08 : NUM-06 structuré
+
+**Décision documentaire : ENRICH** la section NUM-06 du fichier FICHES-CANDIDATES.md, sans créer de doublon. La matrice inclut les études V02, V04, V06 et V07, leurs populations, mesures, résultats et réserves ; elle sépare exactitude, justification, transfert et maintien.
+
+**Données chiffrées V07 rapportées au précédent run, mais non recontrôlées dans cette sauvegarde** : 9/169 → 160/169 (page 192) ; 96 % / 53 % / 67 % (tableau 6), sur critères et groupes différents. Vérification directe du tableau et des dénominateurs requise avant toute fiche canonique.
+
+**État** : 7 sections candidates ; 0 fiche canonique validée ; V01–V07 enregistrées ; NUM-06 DOCUMENTED / NEEDS_REVISION ; verdict RR NEED_MORE_INFORMATION.
+
+**Ordre de recherche recommandé** : (1) contrôle original V07 page 192 et tableau 6 ; (2) texte intégral V06 pour effectifs, comparateurs et transfert ; (3) essais indépendants avec suivi différé et tâches non entraînées ; (4) audit de la première fiche NUM-06. Périmètre CP–CM2 maintenu.
