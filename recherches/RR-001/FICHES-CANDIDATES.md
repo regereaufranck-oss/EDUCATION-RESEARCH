@@ -144,3 +144,20 @@ PED-01/02/03/04/05/06 → NUM-01…NUM-06 selon tâche effectivement travaillée
 **Mesures distinctes** : accès/assiduité ; réussite entraînée ; explication ; autonomie ; transfert hors support ; maintien différé ; charge et effets indésirables. Les données individuelles d'enfants ne doivent pas figurer dans le dépôt public.
 
 **Statut :** NEEDS_REVISION / NEED_MORE_INFORMATION ; P15/P16 soutiennent les principes généraux mais pas une prescription individuelle automatique. Prochaine RR : essais de remédiation adaptative et règles de décision, effets modérateurs du niveau initial, suivi des progrès, transfert et maintien.
+
+
+## Complément NUM-06 / PED-02 / PED-05 / PED-06 — règles de décision adaptative (2026-10-08)
+
+**Constat de recherche :** il existe des pistes expérimentales favorables à la différenciation de l'enseignement (P17), à la sélection d'exercices selon les erreurs (P18), au suivi et ajustement fondés sur des données (P20–P21), ainsi qu'une étude de cas comparant profils conceptuel et procédural (P22). Le niveau d'admissibilité des études ajoutées reste **à auditer** ; aucune ne valide une correspondance universelle « type d'erreur → traitement optimal ».
+
+**Modèle provisoire, non prescriptif :**
+1. **Compétence** : définir ce qui est réellement mesuré (échange 10 unités ↔ 1 dizaine, valeur positionnelle, procédure de retenue, automatisation).
+2. **Observation** : recueillir plusieurs tâches, des justifications et des réponses avec/sans représentation ; ne pas déduire la cause d'une erreur isolée.
+3. **Hypothèses concurrentes** : incompréhension conceptuelle, difficulté de procédure, lecture de consigne, surcharge ou variabilité ; une même réponse peut avoir plusieurs causes.
+4. **Intervention candidate** : choisir une explication et un guidage ciblés ; la comparaison brève de plusieurs interventions (BEA, P23) est une piste à tester, surtout pour les compétences complexes.
+5. **Suivi** : comparer les progrès sur tâches équivalentes ; réévaluer la décision et adapter le soutien (DBI, P20).
+6. **Maintien et transfert** : vérifier une tâche nouvelle, hors support, puis différée ; ne pas assimiler fluence immédiate et compréhension.
+
+**Contre-évidence à conserver :** dispositifs de décision à partir de données sans effet global significatif rapporté ; adaptation automatique de difficulté sans bénéfice détecté après une séance ; interactions aptitude × traitement non systématiques. Notices primaires à confirmer dans BIBLIOGRAPHIE.md.
+
+**Statut :** DOCUMENTED_PROVISIONAL / NEED_MORE_INFORMATION. **Interdit d'inférer un diagnostic clinique ou une prescription individuelle automatisée**. Pour NUM-06, priorité à la validation des tâches différenciant regroupement, valeur positionnelle, compréhension de l'échange et procédure.
