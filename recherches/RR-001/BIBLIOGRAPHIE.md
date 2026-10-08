@@ -141,3 +141,26 @@ V06 : appui favorable mais limité par l'accès au résumé. V07 : appui didacti
 ### Pistes de la conversation non promues en preuves vérifiées
 
 Des études et méta-analyses concernant le dosage, l'espacement, le feedback numérique, les applications mobiles et les petits groupes ont été évoquées dans les recherches conversationnelles. **Références bibliographiques complètes, méthodes, résultats et textes originaux non réconciliés ici** : elles restent des pistes et ne justifient pas de chiffres d'efficacité dans les fiches canoniques. Ne pas confondre observation d'une pratique utile, efficacité causale du support, effet du contenu, effet du temps d'exposition et maintien des acquis.
+
+
+## P17–P24 — Remédiation différenciée : pistes issues des passes RR du 2026-10-08
+
+**Précaution d'admissibilité :** références issues de recherches conversationnelles successives. La présence d'un DOI ou d'une notice ne signifie **pas** que les méthodes, tableaux, effets et critères ont été recontrôlés dans cette capitalisation. Les résultats ci-dessous sont des **pistes à auditer dans les textes originaux** avant toute fiche canonique ; pas de méta-synthèse quantitative.
+
+- **P17 — Connor et al., ISI-Math (2018)**, instruction individualisée en mathématiques, deuxième année de primaire, essai randomisé rapporté (370 élèves, 32 enseignants, d annoncé 0,41–0,60). https://pmc.ncbi.nlm.nih.gov/articles/PMC5836503/ . **À auditer :** unité de randomisation, comparateur individualisation lecture, ajustements statistiques, critères et suivi. Une comparaison entre priorités d'enseignement ne démontre pas l'efficacité d'un aiguillage « erreur → remédiation ».
+- **P18 — Rodríguez-Martínez et al. (2023)**, devoirs de fractions différenciés à partir des erreurs, étude quasi expérimentale rapportée (127 élèves). https://doi.org/10.1111/bjet.13292 . **À auditer :** groupes, sélection des exercices, comparabilité des doses, mesures différées et transfert.
+- **P19 — Burns et al. (2010)**, adéquation entre niveau de maîtrise et intervention mathématique, méta-analyse rapportée. https://doi.org/10.1080/02796015.2010.12087791 . **À auditer :** effectifs, définitions acquisition/fluence, qualité des comparaisons, interaction statistique et généralisation.
+- **P20 — Jung et al. (2018)**, méta-analyse de *Data-Based Individualization* (DBI) rapportée (14 études, effets moyens positifs dans plusieurs domaines). https://doi.org/10.1111/ldrp.12172 . **À auditer :** domaine mathématique isolable, comparateurs, dépendance des effets et suivi. Ne pas traiter deux effets issus de comparaisons différentes comme un essai face-à-face.
+- **P21 — Getting on Track (2020)**, système d'évaluation et enseignement ciblé en numération, essai rapporté en maternelle. https://doi.org/10.1073/pnas.2002883117 . **Transférabilité CP–CM2 : INDIRECTLY_RELEVANT**, intervention multicomposante ; ne pas attribuer l'effet à la seule règle d'adaptation.
+- **P22 — Burns (2011)**, *Matching Math Interventions to Students' Skill Deficits*, étude de cas rapportée avec deux élèves et profils conceptuel/procédural. **Référence bibliographique exacte et texte intégral à récupérer** ; aucune inférence causale générale possible avec cette description.
+- **P23 — Brief Experimental Analysis (BEA)**, comparaison brève d'interventions mathématiques : revue de 2021 évoquée (15 études, 63 participants) et étude de généralisation (4 élèves, généralisation limitée). **Identifiants primaires à récupérer**, contrôler les critères de fluence, l'ordre des phases et la stabilité des mesures. Hypothèse prometteuse, non preuve d'un algorithme de remédiation conceptuelle.
+- **P24 — Jensen, Gasteiger & Bruns (2024)**, étude descriptive sur les principes de regroupement et valeur positionnelle, 100 élèves allemands, sept tâches. **Déjà citée comme V01 : renvoi croisé, PAS une nouvelle étude indépendante.** Contrôler tableaux, catégories et comparabilité des tâches avant réutilisation des pourcentages rapportés.
+
+### Contradictions / études de contrôle à identifier précisément
+
+- Essai néerlandais de décision pédagogique fondée sur les données, *van der Scheer & Visscher* (2018) : absence d'effet global significatif rapportée, bénéfice possible d'un sous-groupe ; **notice et protocole exacts à vérifier**.
+- Étude de 2026 comparant adaptation automatique de difficulté et version fixe (132 élèves, une séance de 30 minutes) : résultat non significatif rapporté ; **DOI, date de publication effective et méthode à recontrôler**, aucune conclusion d'inefficacité à long terme.
+- Étude annoncée en 2026 sur interaction compétence × intervention (95 élèves) : **date de publication effective et source primaire à confirmer** avant usage comme contradiction établie ; un résultat non significatif n'établit pas l'équivalence des traitements.
+- Essai de *Cognitive Assessment System* et personnalisation, revue de 2024 évoquée : référence complète, échantillons, comparateurs et incertitude à vérifier.
+
+**Distinction critique :** différenciation selon niveau initial ≠ adaptation aux erreurs ≠ adaptation à la réponse en cours de traitement ≠ modification algorithmique de difficulté. Les preuves ne sont pas transférables automatiquement entre ces mécanismes. Les travaux de synthèse peuvent partager des essais ; éviter le double comptage.
