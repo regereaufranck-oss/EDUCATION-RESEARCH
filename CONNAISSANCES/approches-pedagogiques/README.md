@@ -1,5 +1,5 @@
-# approches-pedagogiques — approches-pedagogiques
+# Ancien emplacement — approches pédagogiques
 
-Approches d'enseignement et conditions d'application ; ne pas confondre avec remédiation validée.
+**Emplacement canonique actuel : [PEDAGOGIE/approches](../../PEDAGOGIE/approches/README.md).**
 
-**État :** aucune fiche canonique validée dans cette catégorie. Voir [modèle de fiche](../../DOCUMENTATION/modele-fiche.md).
+Ce fichier reste en place pour préserver les liens historiques. Ne pas créer de nouvelles fiches ici.
