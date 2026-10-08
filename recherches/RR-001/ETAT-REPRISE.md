@@ -8,7 +8,7 @@
 ## Reprise en 30 secondes
 
 1. Lire [BIBLIOGRAPHIE.md](BIBLIOGRAPHIE.md), notamment V01/V02 et leurs limites.
-2. Lire [FICHES-CANDIDATES.md](FICHES-CANDIDATES.md) : **7 sections provisoires** NUM-01 à NUM-06 et PED-01 ; aucune ne constitue une fiche canonique validée.
+2. Lire [FICHES-CANDIDATES.md](FICHES-CANDIDATES.md) : **12 sections provisoires** NUM-01 à NUM-06 et PED-01 à PED-06 ; aucune ne constitue une fiche canonique validée.
 3. Contrôler [catalogue](../../DOCUMENTATION/catalogue-documentaire.md) et architecture avant toute création de fiche ; rechercher l'existant et éviter les doublons.
 4. Appliquer RR (preuve/affirmation, familles indépendantes, contradiction, suffisance) et EDUCATION RESEARCH (compétence avant classe, transférabilité, compréhension vs performance).
 5. Ne jamais écrire/publier de nouveau sans autorisation spécifique. Cette capitalisation documentaire n'autorise aucune publication scientifique définitive ultérieure.
@@ -116,3 +116,12 @@ Dépôt public : seulement références, synthèses originales et états de preu
 **État scientifique :** résultats favorables ciblés du jeu guidé et de l'exploration mathématique préprimaire ; aucune supériorité générale démontrée du jeu sur l'enseignement intentionnel ; dissociation documentée entre arithmétique de marché et arithmétique scolaire. Ces sources ne prouvent pas l'efficacité d'une caisse numérique ni la transférabilité vers CP–CM2 français. **RR global : NEED_MORE_INFORMATION.**
 
 **Prochaine passe discriminante** : (1) audit P12/P13 sur études communes, comparateurs et risque de biais ; (2) études interventionnelles sur enseignement explicite des liens concret↔symbolique et transfert différé ; (3) essais et revues indépendantes sur tutorat entre pairs, en distinguant coopération informelle et tutorat structuré ; (4) retrouver source primaire et protocole de l'essai français de distribution de jeux ; (5) contrôler les essais directs de marchande/monnaie. Aucun autre commit sans autorisation explicite.
+
+
+## Checkpoint — 2026-10-08 : adaptation de la remédiation et supports
+
+Ajout des références institutionnelles **P15 WWC 2021** et **P16 WWC 2009**, avec provenance officielle et distinction de leurs niveaux de preuve. Les sections candidates PED-04/05/06 sont enrichies sur l'espacement, le feedback, l'évaluation initiale, l'ajustement de l'intervention et le suivi du transfert. **Aucun protocole individualisé ni application numérique n'est déclaré scientifiquement validé.** Les chiffres et résultats de travaux évoqués seulement en conversation restent des pistes tant que leurs textes originaux ne sont pas audités.
+
+**Inventaire courant : 12 sections candidates (NUM-01 à NUM-06 ; PED-01 à PED-06), 0 fiche canonique validée, RR global NEED_MORE_INFORMATION.** La mention « sept » conservée dans certains checkpoints historiques correspond à un état antérieur.
+
+**Priorités :** P1 études sur décision et ajustement de remédiation selon prérequis/erreurs ; P2 essais sur guidage et représentations dans NUM-06 ; P3 suivi du progrès, transfert et maintien ; P4 études primaires sur espacement, feedback et dosage ; P5 audit de l'effet propre des applications par rapport au contenu et à l'assiduité. Préserver les frontières CONNAISSANCES/PEDAGOGIE/EVALUATIONS et la confidentialité.
