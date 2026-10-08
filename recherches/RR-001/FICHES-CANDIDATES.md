@@ -54,3 +54,13 @@ Pour progresser : rattacher chaque affirmation à un passage original, qualifier
 - **NUM-01 / NUM-05** : toujours **EXPLORATORY**. **NUM-02 / NUM-03** : mécanismes étayés, remédiations non validées globalement.
 
 **Statuts par affirmation ≠ validation des fiches. Verdict RR global : NEED_MORE_INFORMATION.** Sources et restrictions détaillées dans BIBLIOGRAPHIE.md.
+
+
+## Extension de preuve — 2026-10-08 (V06–V07)
+
+- **NUM-02** : V06 suggère qu'un entraînement à la valeur positionnelle peut améliorer l'addition chez certains élèves ; effet exact, durée et transfert non vérifiés dans le texte intégral.
+- **NUM-03** : V07 décrit une articulation entre blocs base dix, écriture des nombres et échanges ; résultats d'enseignement descriptifs, pas d'isolement causal du matériel.
+- **NUM-06** : V06 (amélioration rapportée), V07 (résultats descriptifs favorables) et V04 (absence d'effet significatif sur la mesure de calcul procédural) doivent être lus ensemble sans les assimiler à une même intervention. **Compréhension, exactitude procédurale, transfert et maintien restent des critères distincts.**
+- **PED-01** : V07 appuie la pertinence de documenter les représentations et leur mise en correspondance ; V02 montre que guidage et ordre interagissent. Pas de supériorité universelle démontrée.
+
+**Verdict : NEED_MORE_INFORMATION** pour la validation d'une intervention précise ; sept sections candidates, aucune fiche canonique validée.
