@@ -1,7 +1,9 @@
 # RR-001 — Douze sections candidates : numération et pédagogie (cible CP–CM2)
 
 **Date :** 2026-10-08  
-**Statut global : NEEDS_REVISION.** Notices provisoires issues d'une capitalisation partielle des runs 1–4. Les statuts indiquent une **maturité documentaire**, pas un niveau de preuve expérimentale. [Bibliographie](BIBLIOGRAPHIE.md).
+**Statut global : NEEDS_REVISION.**
+
+**Regroupement documentaire courant :** [Numération décimale — NUM-02 + NUM-03 + NUM-06](REGROUPEMENT-NUMERATION.md). Les sections historiques ci-dessous restent des traces et des ancres ; elles ne constituent pas trois fiches canoniques distinctes. Notices provisoires issues d'une capitalisation partielle des runs 1–4. Les statuts indiquent une **maturité documentaire**, pas un niveau de preuve expérimentale. [Bibliographie](BIBLIOGRAPHIE.md).
 
 ## NUM-01 — Dénombrer et former des groupements de dix
 **EXPLORATORY.** Observer le comptage d'une collection, les regroupements de dix et les liens entre quantité et écriture chiffrée. S02/S03 apportent un contexte général ; source spécifique sur le dénombrement encore à rechercher.
