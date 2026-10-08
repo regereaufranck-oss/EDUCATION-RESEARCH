@@ -96,3 +96,14 @@ Dépôt public : seulement références, synthèses originales et états de preu
 **État** : 7 sections candidates ; 0 fiche canonique validée ; V01–V07 enregistrées ; NUM-06 DOCUMENTED / NEEDS_REVISION ; verdict RR NEED_MORE_INFORMATION.
 
 **Ordre de recherche recommandé** : (1) contrôle original V07 page 192 et tableau 6 ; (2) texte intégral V06 pour effectifs, comparateurs et transfert ; (3) essais indépendants avec suivi différé et tâches non entraînées ; (4) audit de la première fiche NUM-06. Périmètre CP–CM2 maintenu.
+
+
+## Checkpoint — 2026-10-08 : élargissement pédagogique capitalisé
+
+**Nouvelles références P08–P11** documentées dans BIBLIOGRAPHIE.md : Pellegrini et al. 2021 (87 études / 66 programmes ; tutorat +0,20), Sokolowski 2018 (13 études / 1 941 élèves ; représentations ES 0,53), Lindström-Sandahl et al. 2024 (essai randomisé suédois ; résultats conceptuels et résolution), Qu & Ansari 2026 (revue conceptuelle de la valeur positionnelle). **S04 Ebner 2025 est déjà présent et ne doit pas être dupliqué.** Autres pistes bibliographiques signalées sans promotion comme sources vérifiées : manipulation, exemples résolus, pratique espacée, rappel, jeu et recommandations WWC.
+
+**Pédagogie** : PED-01 enrichi et cinq nouvelles **sections candidates** PED-02 à PED-06 proposées (guidage ; jeu/exploration/simulation ; espacement ; feedback/exemples ; tutorat). Exemple abstrait de caisse enregistreuse conservé comme **hypothèse pédagogique**, pas comme intervention validée ; aucune donnée familiale dans le dépôt.
+
+**État après ce lot** : 12 sections candidates au total (NUM-01 à NUM-06 ; PED-01 à PED-06) **dans un même fichier d'archives**, 0 fiche canonique validée. 7 références V01–V07 + 4 références transversales P08–P11 documentées à des profondeurs variables ; autres sources S et pistes inchangées. Verdict global **NEED_MORE_INFORMATION**.
+
+**Recherche suivante, sans la lancer automatiquement** : (1) études comparatives jeu libre/guidé/enseignement explicite en mathématiques du primaire, notamment situations de simulation de commerce et monnaie ; (2) comparaisons guidage/matériel/représentations ; (3) maintien et transfert ; (4) contrôle des pistes bibliographiques et de la qualité méthodologique ; (5) vérification spécifique NUM-06 V06/V07. Ne pas assimiler la réussite d'une activité ludique à un apprentissage durable.
