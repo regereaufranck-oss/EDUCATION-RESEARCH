@@ -107,3 +107,12 @@ Dépôt public : seulement références, synthèses originales et états de preu
 **État après ce lot** : 12 sections candidates au total (NUM-01 à NUM-06 ; PED-01 à PED-06) **dans un même fichier d'archives**, 0 fiche canonique validée. 7 références V01–V07 + 4 références transversales P08–P11 documentées à des profondeurs variables ; autres sources S et pistes inchangées. Verdict global **NEED_MORE_INFORMATION**.
 
 **Recherche suivante, sans la lancer automatiquement** : (1) études comparatives jeu libre/guidé/enseignement explicite en mathématiques du primaire, notamment situations de simulation de commerce et monnaie ; (2) comparaisons guidage/matériel/représentations ; (3) maintien et transfert ; (4) contrôle des pistes bibliographiques et de la qualité méthodologique ; (5) vérification spécifique NUM-06 V06/V07. Ne pas assimiler la réussite d'une activité ludique à un apprentissage durable.
+
+
+## Checkpoint — 2026-10-08 : RR jeu guidé, simulation, transfert
+
+**P12–P14 ajoutées** à la bibliographie avec DOI et sources originales : Skene et al. (2022), Sun et al. (2026), Banerjee et al. (2025). PED-03 enrichie dans l'archive candidate, sans création de fiche canonique. **Total : 12 sections candidates dans un seul fichier ; 0 fiche canonique validée.** Les mentions historiques « sept » plus haut décrivent d'anciens checkpoints et ne constituent pas l'état courant.
+
+**État scientifique :** résultats favorables ciblés du jeu guidé et de l'exploration mathématique préprimaire ; aucune supériorité générale démontrée du jeu sur l'enseignement intentionnel ; dissociation documentée entre arithmétique de marché et arithmétique scolaire. Ces sources ne prouvent pas l'efficacité d'une caisse numérique ni la transférabilité vers CP–CM2 français. **RR global : NEED_MORE_INFORMATION.**
+
+**Prochaine passe discriminante** : (1) audit P12/P13 sur études communes, comparateurs et risque de biais ; (2) études interventionnelles sur enseignement explicite des liens concret↔symbolique et transfert différé ; (3) essais et revues indépendantes sur tutorat entre pairs, en distinguant coopération informelle et tutorat structuré ; (4) retrouver source primaire et protocole de l'essai français de distribution de jeux ; (5) contrôler les essais directs de marchande/monnaie. Aucun autre commit sans autorisation explicite.
