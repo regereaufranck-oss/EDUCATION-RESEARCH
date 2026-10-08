@@ -64,3 +64,37 @@ Pour progresser : rattacher chaque affirmation à un passage original, qualifier
 - **PED-01** : V07 appuie la pertinence de documenter les représentations et leur mise en correspondance ; V02 montre que guidage et ordre interagissent. Pas de supériorité universelle démontrée.
 
 **Verdict : NEED_MORE_INFORMATION** pour la validation d'une intervention précise ; sept sections candidates, aucune fiche canonique validée.
+
+
+## NUM-06 — Matrice de preuves et structure de fiche (checkpoint 2026-10-08)
+
+**Objet** : mobiliser et expliquer les échanges décimaux dans les additions et soustractions, du CP au CM2. **État documentaire** : DOCUMENTED / NEEDS_REVISION ; **verdict RR sur l'efficacité durable** : NEED_MORE_INFORMATION ; **publication canonique** : NON AUTORISÉE à ce stade.
+
+### Modèle de compétence (proposition à auditer)
+
+- Relations entre unités : 10 unités = 1 dizaine ; 10 dizaines = 1 centaine ; réversibilité des échanges.
+- Procédure : exemple 28 + 7 = 2 dizaines + 15 unités = 3 dizaines + 5 unités = 35.
+- Justification : expliquer l'échange et relier représentation concrète, écriture en unités et symboles.
+- Évaluations **distinctes** : exactitude procédurale ; justification conceptuelle ; transfert à de nouveaux problèmes ; maintien différé. Une réussite à une tâche ne prouve pas les autres.
+- Relations **candidates, non causalement démontrées** : NUM-02 (valeur positionnelle), NUM-03 (composition/décomposition), PED-01 (représentations/stratégies).
+
+### Matrice affirmation → source → limites
+
+| Affirmation ou mesure | Sources | Population / tâche | Statut scientifique et limite |
+|---|---|---|---|
+| Enseignement valeur positionnelle et amélioration de l'addition | V06 Ho & Cheng 1997 | Enfants chinois en difficulté arithmétique ; entraînement et deux groupes témoins | Résumé favorable ; effectif, taille d'effet, suivi, détails de randomisation non contrôlés |
+| Enseignement blocs base dix + écriture symbolique et progrès | V07 Fuson & Briars 1990 | Primaire années 1–2 ; opérations à plusieurs chiffres | Progrès avant/après ; pas d'effet causal isolé du matériel |
+| Au moins un échange correct dans l'étude 1 | V07 | 9/169 avant et 160/169 après, **chiffres rapportés lors de la précédente lecture du texte** | À recontrôler au tableau/page 192 avant promotion comme donnée vérifiée dans la bibliographie ; ce critère ne mesure pas une maîtrise complète |
+| Addition sans limite de temps / transcription avec échanges / comparaison de nombres | V07, tableau 6, étude 2 | 96 % / 53 % / 67 % **rapportés lors de la précédente lecture** ; critères et échantillons distincts | À recontrôler dans l'original avant usage canonique ; ces pourcentages ne forment pas une échelle commune de maîtrise |
+| Efficacité sur calcul procédural dans essai randomisé | V04 Fuchs et al. | Élèves de troisième année, intervention multicomposante | **Absence d'effet statistiquement significatif** sur le calcul procédural ; ne pas conclure à une preuve d'inefficacité universelle |
+| Ordre des représentations et guidage | V02 Osana et al. | 87 élèves de deuxième année | Interaction selon conditions ; pas d'ordre concret→symbolique universellement supérieur |
+| Maintien durable et transfert large de la compréhension des échanges | V04, V06, V07 | Critères hétérogènes | INSUFFICIENT_EVIDENCE pour une conclusion générale ; chercher mesures différées et tâches non entraînées |
+
+### Questions à résoudre avant audit final
+
+1. V07 : contrôler directement pages 192 et tableau 6, libellés, dénominateurs et conditions de passation ; distinguer mesure de transfert de simple tâche différente.
+2. V06 : obtenir le texte intégral, extraire effectifs, comparateurs, statistiques, mesure de compréhension, délai et transfert.
+3. Rechercher essais indépendants CP–CM2 avec groupe de comparaison, mesure différée et tâches nouvelles ; distinguer addition, soustraction, niveau de compétence initial et langue.
+4. Vérifier que les relations NUM-02/NUM-03 sont des prérequis **proposés** plutôt que causalement validés.
+
+**Décision : ENRICH la section candidate NUM-06, sans nouveau fichier canonique ni validation scientifique.**
