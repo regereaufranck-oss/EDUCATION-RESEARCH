@@ -52,3 +52,8 @@ Les champs inconnus restent `UNKNOWN`. L'index peut être scindé par famille lo
 ## Élargissement du corpus RR-001 — 2026-10-08
 
 Le fichier [FICHES-CANDIDATES.md](../recherches/RR-001/FICHES-CANDIDATES.md) contient désormais **12 sections candidates** (6 NUM et 6 PED) : elles ne sont pas des fiches canoniques indépendantes. Les références P08–P11 sont des ajouts bibliographiques provisoires et les autres études pédagogiques signalées restent des pistes à auditer. **Aucune fiche canonique validée** ; statut des trois documents RR-001 : NEEDS_REVISION. La séparation CONNAISSANCES / PEDAGOGIE / EVALUATIONS de l'architecture reste inchangée.
+
+
+## Actualisation de l'inventaire — 2026-10-08, remédiation adaptative
+
+Le dossier RR-001 contient toujours **12 sections candidates dans un seul document**, sans nouvelle fiche canonique. Les références **P12–P14** concernent jeu, simulation et transfert ; **P15–P16** sont des guides institutionnels sur les interventions mathématiques et la réponse aux difficultés. Le README et le titre du document de candidats ont été harmonisés avec le décompte courant. **Aucune fiche canonique validée** ; état RR-001 : NEEDS_REVISION / NEED_MORE_INFORMATION. Les anciens décomptes des checkpoints historiques restent historiques, non courants.
