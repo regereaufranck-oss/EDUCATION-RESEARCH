@@ -29,3 +29,18 @@
 Runs 1–2 : six familles de numération et premiers appuis ; run 3 : décomposition, comparaison et calcul ; run 4 : compréhension vs performance et représentations multiples. Cette synthèse **ne reconstitue pas les archives intégrales**.
 
 Pour progresser : rattacher chaque affirmation à un passage original, qualifier population et transférabilité, documenter les contradictions, réviser les statuts et réaliser une revue humaine. Aucune donnée d'enfant individualisée ni hypothèse expérimentale privée n'est incluse.
+
+
+## Note de reprise scientifique — 2026-10-08
+
+**Périmètre opérationnel : CP–CM2.** Ne pas étendre les questions de recherche au collège ; conserver comme preuves contextualisées les études mixtes lorsque pertinentes, même sans sous-résultats isolables, avec réserve de transférabilité.
+
+- **NUM-01** : comptage et formation de dizaines à dissocier ; les effets spécifiques du groupement par dix restent à valider.
+- **NUM-02** : V01 distingue la valeur positionnelle du regroupement ; V02 montre que les résultats dépendent du guidage et de l'ordre des représentations. **ENRICH**, non validé globalement.
+- **NUM-03** : V01 fournit des tâches de transcription mobilisant séparément ou conjointement les deux principes ; une performance combinée ne suffit pas à identifier la cause d'une erreur. **ENRICH**.
+- **NUM-04** : rechercher et contrôler directement les études sur la transcription française des nombres 70–99 avant toute conclusion d'efficacité pédagogique.
+- **NUM-05** : comparer des entiers (et non des décimaux) ; identifier précisément les études primaires et leurs tâches.
+- **NUM-06** : distinguer compréhension des échanges et réussite à une addition avec retenue ; manque d'essais comparatifs avec transfert et maintien.
+- **PED-01** : V02 réfute toute formulation universelle « matériel d'abord toujours meilleur ». Séparer matériel, représentation, guidage, stratégie et intervention. **REFINE**.
+
+**Verdict RR global : NEED_MORE_INFORMATION.** Les sept rubriques restent des sections candidates, non des fiches canoniques. Prochaine passe : matrice affirmation → passage original → population/compétence → mesure → corroboration/contradiction → transférabilité → verdict. Priorité NUM-02, NUM-03, PED-01, puis NUM-06 et NUM-04. Références V01/V02 détaillées dans BIBLIOGRAPHIE.md.
