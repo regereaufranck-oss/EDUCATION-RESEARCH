@@ -69,3 +69,12 @@ Dépôt public : seulement références, synthèses originales et états de preu
 4. **PED-01** : comparer guidage et représentation, sans recette universelle.
 
 **Bilan : 7 sections candidates ; 0 fiche canonique scientifiquement validée ; 3 références nouvelles V03–V05 ; 1 contradiction majeure corrigée.** Ne pas confondre état des sources, qualité documentaire et validation scientifique. Périmètre CP–CM2 maintenu. Aucun besoin de créer un nouveau thème pour cette passe.
+
+
+## Checkpoint additionnel — 2026-10-08 : V06 et V07
+
+- **V06 Ho & Cheng (1997)** : notice et résumé originaux contrôlés ; formation à la valeur positionnelle associée à une amélioration de l'addition par comparaison à deux témoins. Texte intégral, effectifs, suivi et tailles d'effet non vérifiés.
+- **V07 Fuson & Briars (1990)** : notice ERIC, résumé éditeur et texte intégral localisé. Études avec 169 élèves (première/deuxième année), puis cohortes de 783 et 707 élèves de deuxième année. Enseignement blocs base dix + symboles ; résultats descriptifs favorables, sans inférence causale isolée.
+- **Contraste obligatoire** : V04 n'a pas montré d'effet significatif sur la mesure de calcul procédural. Les trois études diffèrent par dispositif, échantillon et critère.
+
+**État actuel : 7 sections candidates ; 0 fiche canonique validée ; V01–V07 répertoriées ; RR global NEED_MORE_INFORMATION.** Priorité : récupérer les données originales de V06, contrôler les tableaux de V07, puis identifier essais avec maintien et transfert. Ne pas créer de nouvelle fiche sans revue humaine et autorisation.
