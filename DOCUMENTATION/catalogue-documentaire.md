@@ -10,9 +10,9 @@
 |---|---|---|---|
 | RR-001-BIB | [Bibliographie RR-001](../recherches/RR-001/BIBLIOGRAPHIE.md) | Références et limites | NEEDS_REVISION |
 | RR-001-STATE | [État de reprise RR-001](../recherches/RR-001/ETAT-REPRISE.md) | Point de reprise et lacunes | NEEDS_REVISION |
-| RR-001-CAND | [Sept fiches candidates RR-001](../recherches/RR-001/FICHES-CANDIDATES.md) | Archive de capitalisation, non canonique | NEEDS_REVISION |
+| RR-001-CAND | [Douze sections candidates RR-001](../recherches/RR-001/FICHES-CANDIDATES.md) | Archive de capitalisation, non canonique | NEEDS_REVISION |
 
-Les identifiants **NUM-01 à NUM-06** et **PED-01** sont actuellement des sections du document RR-001-CAND, **pas sept fichiers indépendants**. Aucune fiche canonique validée n'est enregistrée dans ce catalogue.
+Les identifiants **NUM-01 à NUM-06** et **PED-01 à PED-06** sont actuellement **12 sections** du document RR-001-CAND, et non des fiches canoniques indépendantes. Aucune fiche canonique validée n'est enregistrée dans ce catalogue.
 
 ## Entrées par famille
 
@@ -57,3 +57,8 @@ Le fichier [FICHES-CANDIDATES.md](../recherches/RR-001/FICHES-CANDIDATES.md) con
 ## Actualisation de l'inventaire — 2026-10-08, remédiation adaptative
 
 Le dossier RR-001 contient toujours **12 sections candidates dans un seul document**, sans nouvelle fiche canonique. Les références **P12–P14** concernent jeu, simulation et transfert ; **P15–P16** sont des guides institutionnels sur les interventions mathématiques et la réponse aux difficultés. Le README et le titre du document de candidats ont été harmonisés avec le décompte courant. **Aucune fiche canonique validée** ; état RR-001 : NEEDS_REVISION / NEED_MORE_INFORMATION. Les anciens décomptes des checkpoints historiques restent historiques, non courants.
+
+
+## Capitalisation complémentaire — 2026-10-08
+
+Le corpus RR-001 intègre les **pistes P17–P23** sur l'individualisation mathématique, le diagnostic d'erreur, les ajustements fondés sur des données et l'analyse expérimentale brève ; **P24 est un renvoi vers V01** (pas une étude supplémentaire). Leurs réserves d'admissibilité et les résultats contradictoires sont conservés. Aucune nouvelle fiche canonique ni nouveau document indépendant ; **12 sections candidates, 0 fiche canonique validée, 3 documents RR-001, statut NEEDS_REVISION / NEED_MORE_INFORMATION**. Les anciennes mentions « sept » dans l'historique de reprise sont des états datés, non l'inventaire courant.
