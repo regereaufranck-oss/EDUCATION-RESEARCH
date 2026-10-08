@@ -34,3 +34,25 @@ Cette consolidation reprend des synthèses des runs historiques 1 à 4. Le corpu
 Relire S01 et S03 avec pages et passages probants ; contrôler P01–P04 ; retrouver les études historiques non identifiées ; rechercher des études spécifiques sur le français 70–99 et la comparaison d'entiers ; vérifier la transférabilité et les contradictions. Les références seules ne valident pas les fiches.
 
 [Sept fiches candidates](FICHES-CANDIDATES.md).
+
+
+## Complément de vérification — 2026-10-08 (périmètre CP–CM2)
+
+**Périmètre de travail :** école élémentaire française CP à CM2. Les études portant aussi sur d'autres âges restent admissibles comme appuis contextualisés, sans généralisation automatique ; les résultats non isolables sont signalés. Les travaux de maternelle peuvent éclairer les prérequis. Aucun élargissement du programme de recherche au collège.
+
+### Sources primaires contrôlées dans cette passe
+
+- **V01 — Jensen, S., Gasteiger, H. & Bruns, J. (2024).** « Place Value and Regrouping as Helpful Constructs to Diagnose Difficulties in Understanding the Place Value System ». *Journal für Mathematik-Didaktik*, 45, article 11. DOI : https://doi.org/10.1007/s13138-024-00234-8 ; texte éditeur : https://link.springer.com/article/10.1007/s13138-024-00234-8 . Étude sur **100 élèves allemands de troisième année de primaire, 8–10 ans**, avec **sept tâches de transcription** et analyse qualitative des erreurs. Deux construits distingués : principe de position et principe de regroupement. **Appui direct** pour NUM-02/NUM-03 et la conception d'observations ; **pas** une validation clinique ni une démonstration d'efficacité de remédiation. Une tâche réussie ne démontre pas à elle seule une compréhension complète.
+- **V02 — Osana, H. P., Adrien, E. & Duponsel, N. (2017).** « Effects of Instructional Guidance and Sequencing of Manipulatives and Written Symbols on Second Graders’ Numeration Knowledge ». *Education Sciences*, 7(2), 52. DOI : https://doi.org/10.3390/educsci7020052 ; texte éditeur : https://www.mdpi.com/2227-7102/7/2/52 . Expérience en classe auprès de **87 élèves de deuxième année de primaire**. Les gains en valeur positionnelle dépendent de l'interaction entre guidage et ordre matériel/symboles ; progrès en regroupement indépendamment de l'ordre dans les conditions étudiées ; pas d'effet détecté de l'alternance itérative. **Appui conditionnel** pour PED-01 et NUM-02/NUM-03 ; **ne prouve pas** qu'un ordre universel ou un matériel particulier soit toujours supérieur.
+
+### Pistes citées dans les échanges antérieurs — contrôle documentaire à poursuivre
+
+Des études évoquées lors des passes précédentes concernent les dizaines françaises 70–99, les comparaisons d'entiers, le comptage, les représentations de centaines et des interventions sur les additions avec retenue. **Leurs métadonnées et passages originaux ne sont pas suffisamment réconciliés dans ce lot pour les promouvoir comme sources validées**. Rechercher titre, auteurs, DOI, population, tâches, comparateurs, mesures, résultats et limites avant intégration.
+
+### Invariants
+
+- Une étude observationnelle de diagnostic ≠ preuve causale de remédiation.
+- Un résultat de pré-test/post-test ≠ preuve d'acquisition durable sans mesure différée.
+- Un résultat sur la valeur positionnelle ≠ preuve directe pour l'addition 28 + 7.
+- Ne pas confondre qualité de la documentation, suffisance des preuves et autorisation de publication canonique.
+- Aucune donnée individuelle d'enfant, aucun texte intégral tiers reproduit.
