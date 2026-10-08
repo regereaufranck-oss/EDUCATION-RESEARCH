@@ -56,3 +56,17 @@ Des études évoquées lors des passes précédentes concernent les dizaines fra
 - Un résultat sur la valeur positionnelle ≠ preuve directe pour l'addition 28 + 7.
 - Ne pas confondre qualité de la documentation, suffisance des preuves et autorisation de publication canonique.
 - Aucune donnée individuelle d'enfant, aucun texte intégral tiers reproduit.
+
+
+## Contrôle RR complémentaire — 2026-10-08 : résultats positifs et négatifs
+
+- **V03 — Lafay, A. et al. (2024)**. « Transcoding of French numbers for first- and second-language learners in third grade ». *Quarterly Journal of Experimental Psychology*, 77(2), 393–407. DOI : https://doi.org/10.1177/17470218231174339 ; résumé PubMed : https://pubmed.ncbi.nlm.nih.gov/37129448/ ; manuscrit accepté : https://eprints.whiterose.ac.uk/id/eprint/206206/ . **49 élèves de 7 à 9 ans**, première/deuxième langue française, transcription de nombres à **3–7 chiffres**. Les dizaines complexes 70–99, la taille du nombre et le vocabulaire réceptif prédisent les performances ; erreurs plus fréquentes pour les dizaines complexes. **Observation corrélationnelle**, non essai de remédiation. Transférabilité vers CP/CE1 et nombres isolés à deux chiffres : **CONDITIONALLY_RELEVANT**, car les stimuli sont de 3 à 7 chiffres.
+- **V04 — Fuchs et collaborateurs**, « Remediating Computational Deficits at Third Grade: A Randomized Field Trial ». Texte intégral : https://pmc.ncbi.nlm.nih.gov/articles/PMC3121170/ . Essai randomisé d'une intervention multicomposante pour élèves de troisième année en difficulté : logiciel, matériel initial, dizaines/unités, feedback correctif, cartes et révision cumulative. **Résultat contradictoire important : l'intervention procédurale/estimation, seule ou combinée à l'entraînement des faits, n'a PAS eu d'effet significatif sur le résultat de calcul procédural** ; les auteurs évoquent notamment la question du transfert ordinateur→papier. Des résultats sur l'estimation ne doivent pas être extrapolés au calcul procédural. **DIRECTLY_RELEVANT pour NUM-06**, mais ne permet pas d'isoler la contribution du logiciel, des représentations ou des révisions.
+- **V05 — « Identification and remediation of children's subtraction errors: A comparison of practical approaches » (1986)**. *Journal of School Psychology*, 24(2), 163–180. DOI : https://doi.org/10.1016/0022-4405(86)90008-7 ; résumé éditeur : https://www.sciencedirect.com/science/article/pii/0022440586900087 . Trois études : **56 élèves de troisième année** (erreurs), **80 de troisième année** (récompenses ou consignes), **67 de troisième/quatrième année** (entraînement de composants, feedback ou contrôle). Les deux interventions de la troisième étude augmentent les réponses correctes sur problèmes de soustraction avec échange, **sans réduction significative rapportée de chaque catégorie d'erreur**. Résumé consulté, **texte intégral non vérifié** ; niveau de preuve et transférabilité à l'addition à qualifier.
+
+### Contradictions et précautions
+
+- Une amélioration sur des problèmes ciblés ne prouve ni maîtrise conceptuelle des échanges, ni transfert ni maintien.
+- V04 est une **absence d'effet significatif sur le calcul procédural** : ne pas reformuler en « amélioration démontrée de l'addition à retenue ».
+- V03 documente une difficulté linguistique et ses corrélats, pas une efficacité pédagogique.
+- Les références d'interventions finlandaise et allemande évoquées dans un résumé antérieur **restent à identifier bibliographiquement et contrôler avant promotion**.
