@@ -5,6 +5,8 @@
 **Verdict RR global :** NEED_MORE_INFORMATION  
 **Portée :** école élémentaire française **CP–CM2**. Les études de maternelle servent aux prérequis ; les études mixtes primaire/secondaire peuvent servir de contexte même sans résultats isolables, mais ne doivent pas élargir la cible.
 
+**Regroupement documentaire du 2026-10-08 :** [REGROUPEMENT-NUMERATION.md](REGROUPEMENT-NUMERATION.md) réunit NUM-02, NUM-03 et NUM-06 en un objet de synthèse à trois dimensions. Les douze sections historiques restent archivées ; l'inventaire conceptuel provisoire est de **10 objets** (12 moins 2 doublons structurels), et non 10 fiches validées. Les preuves et contradictions restent qualifiées.
+
 ## Reprise en 30 secondes
 
 1. Lire [BIBLIOGRAPHIE.md](BIBLIOGRAPHIE.md), notamment V01/V02 et leurs limites.
