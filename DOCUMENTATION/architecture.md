@@ -47,3 +47,7 @@ Identifiant stable, source et passage probant, population et transférabilité, 
 
 - 2026-10-08 : premier déploiement ayant mélangé approches, interventions et évaluations dans CONNAISSANCES.
 - 2026-10-08 : correction après comparaison avec l'architecture historique ; restauration de PEDAGOGIE et EVALUATIONS, préservation des chemins existants.
+
+## Catalogue et indexation des nouveaux documents
+
+Le [catalogue documentaire vivant](catalogue-documentaire.md) référence les fichiers réellement publiés, avec identifiant, emplacement, type, statut et relations. **Chaque ajout ou révision autorisée** doit mettre à jour le catalogue et les index de NAVIGATION concernés, vérifier les liens et éviter toute duplication. L'architecture reste le schéma de classement, le catalogue l'inventaire des documents. Cette convention n'implémente pas de synchronisation automatique : l'exécuteur de la publication doit effectuer ces mises à jour et signaler les échecs.
