@@ -98,3 +98,23 @@ Pour progresser : rattacher chaque affirmation à un passage original, qualifier
 4. Vérifier que les relations NUM-02/NUM-03 sont des prérequis **proposés** plutôt que causalement validés.
 
 **Décision : ENRICH la section candidate NUM-06, sans nouveau fichier canonique ni validation scientifique.**
+
+
+## Extension pédagogique transversale — candidats PED-02 à PED-06 (2026-10-08)
+
+Ces rubriques sont des **sections de recherche proposées**, non des fiches canoniques. Elles n'ajoutent pas de preuve d'efficacité à elles seules. Le périmètre cible demeure CP–CM2, avec études pré-K utilisées comme contexte/prérequis.
+
+- **PED-01 — ENRICH** : représenter une quantité avec objets, schémas, langage et symboles ; distinguer le support matériel du guidage et des correspondances explicitement enseignées. Sources : V02, V07, P09 ; preuve générale sur représentations, non sur une séquence universelle.
+- **PED-02 — Enseignement explicite et guidage progressif** : démonstration, pratique guidée, feedback, autonomie ; comparer guidage fort/faible et maîtrise initiale. **EXPLORATORY** : recommandations officielles et essais spécifiques à auditer ; ne pas inférer l'efficacité d'un principe à partir d'une intervention multicomposante.
+- **PED-03 — Jeu libre, exploratoire, guidé et simulation de rôle** : distinguer activité auto-initiée, exploration mathématique et jeu à objectif accompagné. **Exemple hypothétique non testé : application de caisse enregistreuse utilisée par deux enfants jouant à acheter/vendre** ; les compétences *potentiellement sollicitées* sont reconnaissance des prix, dénombrement, addition, comparaison, monnaie et justification. Si la caisse calcule tout, activité ludique ≠ exercice du calcul. Évaluer ce que l'enfant fait lui-même, les interactions, les aides et le transfert hors jeu. **EXPLORATORY, aucune efficacité propre à l'application démontrée** ; ne conserver aucune donnée privée des enfants.
+- **PED-04 — Espacement, rappel actif et consolidation** : séparer fréquence des séances, récupération de mémoire, correction et rétention à délai ; **EXPLORATORY** en mathématiques élémentaires, méta-analyses à identifier précisément.
+- **PED-05 — Exemples résolus, erreurs, auto-explication et feedback** : comparer exemples travaillés, explications fournies, explications demandées et feedback ; noter résultats non significatifs et surcharge possible. **EXPLORATORY**, références exactes à auditer.
+- **PED-06 — Individualisation et soutien ciblé** : tutorat individuel/petit groupe, niveau initial, dosage, composantes pédagogiques et coût ; P08 rapporte des résultats moyens favorables en primaire, sans attribuer l'effet au jeu ou au matériel. **DOCUMENTED_WITH_RESERVATIONS**.
+
+### Critères d'évaluation transversaux proposés
+
+Pour chaque activité/intervention : connaissances initiales, âge/classe/langue, initiative de l'enfant, guidage reçu, contenu réellement traité, exactitude immédiate, explication conceptuelle, autonomie, tâches non entraînées (transfert), mesure différée (maintien), engagement et effets indésirables possibles. **Évaluer ces dimensions séparément.**
+
+### Relations candidates, non encore validées
+
+PED-01/02/03/04/05/06 → NUM-01…NUM-06 selon tâche effectivement travaillée ; PED-03 → évaluation du jeu et des apprentissages ; PED-06 → intervention ciblée. Aucun nouveau fichier canonique créé.
