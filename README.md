@@ -14,7 +14,7 @@ Recherches scientifiques sur les apprentissages, les difficultés scolaires et l
 
 ### Recherche en cours
 
-[RR-001 — bibliographie réconciliée](recherches/RR-001/BIBLIOGRAPHIE.md) · [Sept fiches candidates](recherches/RR-001/FICHES-CANDIDATES.md) — **NEEDS_REVISION**, non validées scientifiquement.
+[RR-001 — bibliographie réconciliée](recherches/RR-001/BIBLIOGRAPHIE.md) · [Sept fiches candidates](recherches/RR-001/FICHES-CANDIDATES.md)  · [État de reprise](recherches/RR-001/ETAT-REPRISE.md) — **NEEDS_REVISION**, non validées scientifiquement.
 
 **Architecture corrigée après contrôle historique :** [voir la séparation des familles](DOCUMENTATION/architecture.md).
 
