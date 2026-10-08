@@ -118,3 +118,14 @@ Pour chaque activité/intervention : connaissances initiales, âge/classe/langue
 ### Relations candidates, non encore validées
 
 PED-01/02/03/04/05/06 → NUM-01…NUM-06 selon tâche effectivement travaillée ; PED-03 → évaluation du jeu et des apprentissages ; PED-06 → intervention ciblée. Aucun nouveau fichier canonique créé.
+
+
+## Enrichissement PED-03 — simulation de commerce et transfert (2026-10-08)
+
+**Hypothèse candidate, non méthode validée :** une simulation d'achat/vente peut susciter des calculs, des explications et des échanges entre pairs ; le bénéfice scolaire ne doit pas être présumé. **P12** (Skene 2022) soutient certains effets du jeu guidé chez les jeunes enfants ; **P13** (Sun et al. 2026) rapporte des effets moyens positifs du jeu exploratoire et de l'enseignement intentionnel en préprimaire, sans différence significative entre approches. **P14** (Banerjee et al. 2025) documente une dissociation entre calcul appliqué et scolaire, sans tester une application de caisse éducative. Sources complètes : BIBLIOGRAPHIE.md.
+
+**Dimensions d'évaluation à séparer** : (1) engagement et échanges mathématiques ; (2) exactitude dans le scénario ; (3) explication de la stratégie ; (4) même structure avec autres objets ; (5) exercice abstrait sans caisse ; (6) suivi différé. Mesurer compétences initiales, accompagnement, comparateur et éventuelles interactions entre pairs. Les passerelles objets→schémas→symboles restent une **proposition à tester**, pas un effet causal établi par P14.
+
+**Contradictions apparentes à auditer** : jeu guidé versus enseignement explicite selon les définitions et comparateurs (P12/P13) ; résultats dans le jeu versus transfert (P14). Aucun classement universel des pédagogies ni prédiction individuelle.
+
+**Statut** : NEEDS_REVISION / NEED_MORE_INFORMATION ; pas de nouvelle fiche canonique ni de preuve directe d'efficacité d'une caisse numérique CP–CM2.
