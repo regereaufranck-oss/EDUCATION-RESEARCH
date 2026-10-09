@@ -21,8 +21,8 @@ Dans la numération décimale, la valeur d'un chiffre dépend de sa position. Di
 
 ## Affirmations et preuves
 - **K1 — Deux construits distincts peuvent être observés** : V01 Jensen, Gasteiger & Bruns (2024), 100 élèves allemands, sept tâches de transcription, distingue position et regroupement. Étude descriptive, pas diagnostic clinique ni essai de remédiation.
-- **K2 — Écritures en unités de numération pertinentes pour analyser la décomposition** : S01 Tempier (2016) ; S02 Houdement & Tempier (2023). Analyses didactiques, non preuve d'efficacité causale d'une intervention.
-- **K3 — Les échanges en calcul ne se réduisent pas à la réussite opératoire** : V07 Fuson & Briars (1990), progrès descriptifs sur plusieurs tâches, mesures et cohortes non interchangeables ; V04 Fuchs et al. (2008), absence d'effet statistiquement significatif sur le calcul procédural dans l'essai concerné.
+- **K2 — Écritures en unités de numération pertinentes pour analyser la décomposition** : Houdement & Tempier (2023), texte directement contrôlé dans RR-002 lot 05. Argumentation didactique, non preuve d'efficacité causale. La référence historique Tempier (2016) reste à identifier sans ambiguïté et n'est pas comptée comme appui primaire vérifié.
+- **K3 — Résultats et critères de calcul à distinguer** : Fuson & Briars (1990) rapportent des progrès descriptifs dans un dispositif multicomposant, avec tableaux/cohortes encore à contrôler. Fuchs et al. (2008), RR-002 lot 03, montre des résultats différenciés selon les critères. Cet essai ne mesure pas directement la compréhension des échanges des exemples 43 ou 28+7 ; il ne prouve donc pas à lui seul la distinction conceptuelle ni une maîtrise individuelle.
 
 ## Limites et transférabilité
 V01 : langue allemande et troisième année ; V07 : enseignement anglophone et approche multicomposante ; V04 : élèves en difficulté et intervention multicomposante. Ni une erreur isolée ni une réussite isolée ne suffisent à identifier une cause ou une maîtrise stable. Les résultats sur maintien différé et choix individuel d'intervention ne sont pas établis ici.
@@ -77,3 +77,7 @@ Référence : RR-002, lot 18, C18-01 à C18-04 et C18-10.
 | INSUFFISAMMENT ÉTAYÉ | Déduire maîtrise, cause d'erreur ou remédiation individuelle d'une réponse |
 
 Jensen soutient une distinction descriptive ; les programmes fixent des attendus ; les textes didactiques proposent des interprétations. Ces autorités ne se substituent pas l'une à l'autre. Tempier 2016 et Fuson restent sous leurs réserves. La passe d'analyse est terminée documentairement ; fiche NEEDS_REVIEW, revue humaine non acquise.
+
+## Revue documentaire de cohérence — 2026-10-09
+
+Contrôle du texte courant, de ses liens de provenance et des extractions RR-002 déjà enregistrées ; aucune nouvelle lecture primaire. Corrections : Tempier 2016 retiré de l'assise vérifiée du résumé K2 ; portée de Fuchs explicitée dans K3. Égalités des exemples contrôlées : 40+3=30+13=43 ; 20+15=35. Périmètre CP–CM2 ne signifie pas que chaque exemple convient à chaque classe. Verdict : cohérence améliorée, sous réserves ; NEEDS_REVIEW maintenu. Revue humaine non réalisée.
