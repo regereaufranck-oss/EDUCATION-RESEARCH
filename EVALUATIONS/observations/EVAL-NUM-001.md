@@ -246,3 +246,16 @@ Les observations cardinales et les problèmes dépassent l'objet NUM-DEC de cett
 La cohérence interne, l'ajustement factoriel, l'étalonnage d'une batterie et les seuils institutionnels restent des propriétés distinctes. Les chiffres DEPP historiquement relevés et marqués À RECONTRÔLER ne sont pas promus par cette consolidation. Les items originaux restent non étalonnés, sans seuil de maîtrise ni pouvoir diagnostique établi.
 
 - 2026-10-09 — ENRICH / LINK : rapprochement des dimensions de mesure et des limites RR-002 ; NEEDS_REVIEW maintenu.
+
+## Conclusion de la première passe analytique — 2026-10-09
+
+Référence : RR-002, lot 18, C18-04/05/10/11.
+
+| Classement d'usage | Conclusion |
+| --- | --- |
+| UTILISABLE, provisoire | Séparer réponse, stratégie, explication, aides et contexte ; distinguer immédiat, maintien et transfert |
+| UTILISABLE, provisoire | Conserver plusieurs formats par dimension, en notant les capacités auxiliaires |
+| HYPOTHÈSE DE CONCEPTION | Les tâches originales peuvent guider une observation exploratoire ; adéquation et compréhension des consignes à examiner |
+| INSUFFISAMMENT ÉTAYÉ | Score de maîtrise, fidélité, normes et pouvoir diagnostique des tâches originales |
+
+Les éléments cardinaux/problèmes délimitent des mesures connexes, sans élargissement automatique de cet instrument. Les classements didactiques et chiffres DEPP à recontrôler gardent leur statut historique de travail. Aucun seuil externe transféré. La passe d'analyse est terminée documentairement ; fiche NEEDS_REVIEW, non étalonnée.
