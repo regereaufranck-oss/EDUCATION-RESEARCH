@@ -140,3 +140,25 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 **Interprétation :** distinguer résultat correct, compréhension conceptuelle, stratégie observée et capacité auxiliaire. Les seuils officiels ne constituent pas une validation de nos tâches originales. Prochain contrôle ciblé : cahiers CE1/CM1 et guides CE2/CM2, item par item, sans reproduire les contenus protégés.
 
 **Statut : NEEDS_REVIEW. Décision : ENRICH. Validation empirique propre : NON ÉTABLIE.**
+
+
+## Analyse structurale des items CE2 et CM1 — 2026-10-09
+
+**Périmètre :** exercice de recomposition additive, huit items par niveau, éditions DEPP 2025. Ce classement reprend la lecture des cahiers réalisée lors de la recherche ; les formulations exactes et les distracteurs ne sont pas reproduits. Il s'agit d'une **classification didactique provisoire**, non d'une validation psychométrique. Vérifier les cahiers officiels et les numéros d'exercice lors de la revue humaine.
+
+| Item | CE2 : structure repérée | CM1 : structure repérée | Interprétation principale |
+|---|---|---|---|
+| 1 | Dizaines + unités | Centaines + dizaines + unités | NUM-02 : recomposition canonique |
+| 2 | Unités avant dizaines | Unités avant dizaines et centaines | NUM-02 : ordre de présentation |
+| 3 | Centaines + dizaines + unités | Recomposition jusqu'aux milliers, ordre mélangé | NUM-02 : valeur positionnelle |
+| 4 | Dizaines + unités + centaines | Position absente, zéro à conserver | NUM-02 : ordre ou position vide |
+| 5 | Centaines + unités | Centaines + unités, sans dizaines | NUM-02 : position absente |
+| 6 | Plus de neuf dizaines | Douze dizaines | NUM-03 : conversion dizaines vers centaines |
+| 7 | Plus de neuf unités | Vingt-cinq unités | NUM-03 : conversion unités vers dizaines |
+| 8 | Centaines, dizaines et plus de neuf unités | Quinze dizaines et quinze unités | NUM-03 : échanges multiples |
+
+**Couverture analytique :** CE2 5 items rapprochés de NUM-02 et 3 de NUM-03 ; CM1 même répartition. Cette symétrie ne prouve ni équivalence de difficulté ni invariance de mesure. NUM-06 (stratégies de calcul) n'est pas directement isolée par ces items.
+
+**Limites :** aucune analyse des distracteurs item par item n'est encore achevée ; une mauvaise réponse ne prouve pas une cause unique. Les seuils DEPP publiés concernent les scores globaux des exercices et ne sont pas des seuils validés pour les sous-groupes de trois items. Ne pas transférer les items, barèmes ou normes à ICARIS.
+
+**Prochaine action :** contrôler chaque distracteur dans les cahiers CE2 et CM1 2025, relever les confusions plausibles et les compétences auxiliaires, puis soumettre cette matrice à revue humaine. Statut documentaire : NEEDS_REVIEW ; décision : ENRICH ; validation empirique : NON ÉTABLIE.
