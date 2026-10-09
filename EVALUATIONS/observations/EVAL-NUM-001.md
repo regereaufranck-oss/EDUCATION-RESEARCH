@@ -153,11 +153,11 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 | 1 | Dizaines + unités | Centaines + dizaines + unités | NUM-02 : recomposition canonique |
 | 2 | Unités avant dizaines | Unités avant dizaines et centaines | NUM-02 : ordre de présentation |
 | 3 | Centaines + dizaines + unités | Recomposition jusqu'aux milliers, ordre mélangé | NUM-02 : valeur positionnelle |
-| 4 | Dizaines + unités + centaines | Position absente, zéro à conserver | NUM-02 : ordre ou position vide |
-| 5 | Centaines + unités | Centaines + unités, sans dizaines | NUM-02 : position absente |
-| 6 | Plus de neuf dizaines | Douze dizaines | NUM-03 : conversion dizaines vers centaines |
-| 7 | Plus de neuf unités | Vingt-cinq unités | NUM-03 : conversion unités vers dizaines |
-| 8 | Centaines, dizaines et plus de neuf unités | Quinze dizaines et quinze unités | NUM-03 : échanges multiples |
+| 4 | Dizaines, unités, centaines dans cet ordre | Milliers et dizaines, centaines/unités absentes | NUM-02 : ordre ou positions absentes |
+| 5 | Unités puis centaines, sans dizaines | Unités puis centaines, sans dizaines | NUM-02 : ordre et position absente |
+| 6 | Cinquante dizaines | Centaines, douze dizaines et unités | NUM-03 : conversion dizaines vers centaines |
+| 7 | Dizaines et vingt unités | Vingt-cinq unités puis dizaines | NUM-03 : conversion unités vers dizaines |
+| 8 | Trente-trois unités, dizaines puis centaine | Quinze dizaines et quinze unités | NUM-03 : échange et recomposition ; deux conversions pour CM1 |
 
 **Couverture analytique :** CE2 5 items rapprochés de NUM-02 et 3 de NUM-03 ; CM1 même répartition. Cette symétrie ne prouve ni équivalence de difficulté ni invariance de mesure. NUM-06 (stratégies de calcul) n'est pas directement isolée par ces items.
 
@@ -267,3 +267,21 @@ Le premier exemple de position utilise désormais 43 ; 243 reste une extension s
 **Réserve précise à résoudre avant approbation du volet DEPP :** la matrice structurale décrit des compositions d'items, tandis que l'inventaire de réponses ne fournit pas les énoncés ni leurs pages. Une réponse attendue seule ne permet pas de reconstruire la structure ou de confirmer le classement NUM-02/NUM-03. Les deux tableaux sont donc des relevés de travail à confronter aux mêmes pages/version du cahier ; aucun classement item par item confirmé dans cette revue. Consignes, seuils et temps de passation restent sous leurs réserves existantes. Aucune nouvelle vérification des PDF officiels revendiquée.
 
 Verdict : principes d'observation cohérents ; détails DEPP encore à vérifier avant usage opérationnel. NEEDS_REVIEW maintenu ; revue humaine et validation empirique non réalisées.
+
+## Contrôle primaire ciblé DEPP 2025 — 2026-10-09
+
+**Sources effectivement consultées :**
+- [Guide CE2 2025, 25CE2P](https://eduscol.education.fr/document/65649/download), page imprimée 24 / page PDF 26 : exercice 7, décompositions orales, cahier élève pp.17–19.
+- [Fiche institutionnelle CE2 septembre 2025](https://eduscol.education.gouv.fr/sites/default/files/document/2025evaluationdebutce2mathematiquesficheinterventionreconnaitrenombreentierdecompositionadditivepdf-107925.pdf), pp.1–4 : exercice 7, structures et exemples d'erreurs.
+- [Cahier standard CM1 2025, 25CM1E](https://eduscol.education.gouv.fr/sites/default/files/document/25cm1epdf-112230.pdf), pp.36–38 / pages PDF 39–41 : exercice 18, huit questions et quatre propositions chacune. Texte extrait et pages PDF consultés.
+- [Guide standard CM1 2025, 25CM1P](https://eduscol.education.gouv.fr/sites/default/files/document/25cm1ppdf-112251.pdf), page imprimée 35 / page PDF 37 : exercice 18, quatre minutes, trois pages, cadre de recherche.
+
+### Résultats et granularité
+
+- **CM1 :** les huit réponses attendues de l'inventaire concordent avec les décompositions ; les trois autres propositions par question concordent avec le cahier standard. Contrôle documentaire de 24 distracteurs, pas validation de leur interprétation.
+- **CE2 :** les huit structures et résultats correspondants sont contrôlés par le guide standard. Les exemples d'erreurs sont reliés à la fiche d'intervention p.4. Le contrôle exhaustif des 24 choix du cahier élève standard n'est pas revendiqué ici.
+- **Corrections de la matrice :** ordre unités/centaines précisé à l'item 5 ; CM1 item 4 comporte milliers et dizaines ; items 6–8 décrits plus précisément. Classement NUM-02/NUM-03 conservé comme hypothèse didactique, non sous-score validé.
+- **Passation standard :** CE2, lecture des décompositions par l'enseignant, vingt secondes chacune, total 2 min 40 ; CM1, recherche autonome pendant quatre minutes. Le guide CM1 ne prescrit pas une lecture individuelle de chaque décomposition. Ne pas assimiler versions standard et adaptées.
+- **Versions :** documents explicitement marqués 2025. Les pages de présentation générales désormais relatives à 2026 ne sont pas utilisées pour attribuer une édition 2025.
+
+Les demandes antérieures de rattachement des structures et du relevé CM1 sont résolues au niveau indiqué. Restent ouverts : contrôle exhaustif des choix CE2 standard, seuils des autres exercices CE1/CM1, propriétés psychométriques et causalité des erreurs. Aucune norme transférée vers ICARIS. Revue primaire ciblée effectuée par l'assistant ; revue humaine non acquise. NEEDS_REVIEW maintenu.
