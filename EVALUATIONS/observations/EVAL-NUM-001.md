@@ -32,3 +32,24 @@ Vérifier pertinence des consignes en français, couverture de chaque dimension 
 
 ## Historique
 - 2026-10-08 — CREATE : prototype documentaire soumis à revue humaine.
+
+
+## Matrice compétence × tâches × capacités mobilisées — revue 2026-10-09
+
+Les exemples suivants sont **des propositions originales non validées**, pas des items repris d'un test étalonné. Une même compétence est observée sous plusieurs formats ; les capacités auxiliaires sont consignées pour limiter les inférences abusives.
+
+| Dimension ciblée | Tâche A | Tâche B | Capacités auxiliaires / limites |
+|---|---|---|---|
+| Valeur positionnelle | Dire ce que vaut le 4 dans 243 | Construire 243 avec centaines, dizaines et unités puis justifier | Langage oral, connaissance du matériel, lecture du nombre |
+| Équivalence et échange | Montrer pourquoi 43 = 3 dizaines + 13 unités | Produire une autre décomposition de 53 et expliquer l'équivalence | Manipulation, mémoire de travail, expression symbolique |
+| Usage des échanges en calcul | Expliquer une procédure possible pour 28 + 7 | Comparer 38 + 7 et 38 + 2, avec justification | Faits arithmétiques, stratégie alternative, attention ; pas mesure pure de l'échange |
+
+**Règle de conception :** plusieurs tâches par dimension et plusieurs dimensions par dossier ; ne pas supposer qu'une tâche complexe mesure exclusivement la compétence ciblée. La couverture conceptuelle ne constitue ni une validation psychométrique ni un diagnostic. Aucun seuil de réussite inventé.
+
+## Grille d'examen des preuves de mesure publiées
+
+Avant de reprendre un instrument existant, documenter : population et langue ; objectif et usage prévu ; validité de contenu ; processus de réponse ; structure interne si pertinente ; fidélité/test-retest/accord inter-évaluateurs ; erreur de mesure ; normes et échantillon d'étalonnage si disponibles ; sensibilité au changement ; limites de transfert et conditions d'administration. Pour chaque rubrique : **RAPPORTÉ ET CONTRÔLÉ / RAPPORTÉ NON CONTRÔLÉ / NON RAPPORTÉ / NON APPLICABLE**.
+
+Cadre de référence : [Standards for Educational and Psychological Testing — AERA/APA/NCME](https://www.apa.org/science/programs/testing/standards.html) ; [NCME — Validity and Educational Testing](https://ncme.org/resources/professional-learning/items/validity-and-educational-testing/). Les checklists COSMIN, conçues principalement pour des instruments de santé, ne sont pas appliquées telles quelles aux tests scolaires.
+
+**Frontière :** nous pouvons vérifier ce que les auteurs ont étudié et justifié ; nous ne certifions pas la validité scientifique de nos tâches, ni ne transférons un étalonnage à une autre population ou une version modifiée. Une évaluation pédagogique exploratoire et un instrument diagnostique validé sont deux catégories distinctes.
