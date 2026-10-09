@@ -122,3 +122,21 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 - **NUM-06 calcul** : distinguer maîtrise du résultat, stratégie employée et recours à un échange ; un score de calcul mental ne mesure pas exclusivement l'échange.
 
 **Décision scientifique : CONTINUE_TARGETED** pour guides des scores DEPP et tables Rasch ; **STOP_PROVISIONAL** sur les propriétés publiques ZAREKI-R tant que le manuel reste inaccessible. **Décision documentaire : ENRICH**, pas de nouvelle fiche. **Statut : NEEDS_REVIEW ; aucune validation empirique revendiquée.**
+
+## Complément DEPP 2025 — extraction documentaire (2026-10-09)
+
+**Source et version :** guides des scores nationaux CE1 et CM1, édition 2025. Les seuils ci-dessous concernent uniquement les exercices officiels cités ; ils ne sont pas transposables à ICARIS ni à une autre année sans vérification.
+
+| Compétence rapprochée | Exercice du guide | Items | À besoins | Fragile | Au-dessus | Réserve |
+|---|---|---:|---:|---:|---:|---|
+| NUM-02 | CE1, écrire des nombres dictés | 10 | 0–4 | 5–7 | 8–10 | Transcodage oral-écrit, langage et notation ; pas une mesure isolée de la position |
+| NUM-02 | CM1, écrire des nombres dictés | 12 | 0–8 | 9–10 | 11–12 | Mémoire, langue et écriture contribuent |
+| NUM-03 | CM1, reconnaître une décomposition additive | 8 | 0–2 | 3–4 | 5–8 | Recomposition décimale ; la réussite ne prouve pas isolément les échanges non canoniques |
+| NUM-06 | CE1, additions en ligne | 8 | 0–3 | 4–5 | 6–8 | Score de calcul, pas observation directe de stratégie |
+| NUM-06 | CE1, soustractions en ligne | 7 | 0–1 | 2–3 | 4–7 | Score de calcul, pas observation directe de stratégie |
+
+**Références à conserver et revérifier par page et item :** guides des scores CE1 et CM1 2025 sur éduscol, rubrique Évaluations nationales. Les intitulés et seuils proviennent de l'extraction précédente ; les cahiers d'items ne sont pas encore codés individuellement. Les valeurs restent **RAPPORTÉES, À RECONTRÔLER DANS LES GUIDES** avant approbation humaine.
+
+**Interprétation :** distinguer résultat correct, compréhension conceptuelle, stratégie observée et capacité auxiliaire. Les seuils officiels ne constituent pas une validation de nos tâches originales. Prochain contrôle ciblé : cahiers CE1/CM1 et guides CE2/CM2, item par item, sans reproduire les contenus protégés.
+
+**Statut : NEEDS_REVIEW. Décision : ENRICH. Validation empirique propre : NON ÉTABLIE.**
