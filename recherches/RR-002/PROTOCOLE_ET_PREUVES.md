@@ -714,7 +714,7 @@ RR-002 : IN_PROGRESS / HUMAN_REVIEW_REQUIRED. Lot 12 sauvegardé n'est pas une v
 ## Lot 13 — Consolidation transversale : cardinalité, décomposition, calcul et problèmes (2026-10-09)
 
 Usage : préciser les compétences et la portée des interventions avant conception ICARIS.
-Nature : revue documentaire ciblée de huit publications ; niveaux d'accès hétérogènes. Huit publications examinées ne signifie ni huit essais indépendants ni huit preuves intégrales. La revue Give-N 2025 est une synthèse méthodologique, pas un essai supplémentaire.
+Nature : huit entrées d'études R13-01 à R13-08, dont une actualisation de Fuchs 2021 déjà enregistrée au lot 12, plus une revue méthodologique R13-METH. Ce décompte n'est ni un nombre d'essais indépendants ni un nombre de textes intégraux audités. La revue Give-N 2025 n'est pas un essai supplémentaire.
 Décision : ENRICH / REFINE ; STOP_PROVISIONAL pour cadrage ; CONTINUE_TARGETED sur précision, validité et transfert. RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED.
 
 ### R13-01 — Paliwal & Baroody (2018), enseignement de la cardinalité
@@ -790,3 +790,29 @@ Conséquence : documenter consigne, collections, répétitions, aides et cotatio
 | Réussite immédiate / maintien / transfert | Mesures distinctes et horizons explicites | Maîtrise durable sur un seul post-test |
 
 Prochaine passe : récupérer textes intégraux et IC de Croset/Fuchs ; auditer validité des mesures de cardinalité ; qualifier convergence et recouvrement ; comparer aux attentes françaises déjà documentées. Pas de nouvelle collecte exhaustive sans question décisionnelle. Aucun seuil, diagnostic, algorithme ou activité validé ; WORK et application ICARIS non modifiés.
+
+## Lot 14 — Analyse du corpus et consolidation des trois fiches (2026-10-09)
+
+**Méthode :** rapprochement documentaire de RR-002 lots 01–13 avec NUM-DEC-001, EVAL-NUM-001 et PED-NUM-001. Aucune nouvelle recherche documentaire, lecture primaire, estimation statistique ou validation empirique dans cette passe.
+
+### Résolutions et limites
+
+| Écart constaté | Résolution documentaire | Reste ouvert |
+| --- | --- | --- |
+| Fiches rattachées uniquement à RR-001 | Ajouter la provenance RR-002 dans les trois fiches | Validation humaine |
+| Jensen présenté comme contrôle de tableaux non consigné | Rattacher K1 au lot 04 et à ses passages | Diagnostic, invariance, ordre d'apprentissage non établis |
+| Fuchs 2008 encore formulé comme critère à vérifier | Rattacher K3b au contrôle RESULTS du lot 03 | IC et audit exhaustif non acquis |
+| Tempier 2016 voisin d'un texte effectivement contrôlé | Séparer référence à réconcilier et Houdement & Tempier 2023 directement lu au lot 05 | Identification exacte de Tempier 2016 |
+| Changements intra-condition Osana risquant de devenir classement | Expliciter différence pré/post versus supériorité entre conditions | Séquence optimale universelle non établie |
+| Domaines nouveaux assimilables aux échanges | Relier cardinalité/problèmes comme domaines connexes | Fiches dédiées à qualifier ultérieurement si nécessaire |
+| Lot 13 : décompte introductif ambigu | Huit entrées d'études dont une actualisation, plus une revue méthodologique | Recouvrement global primaire/méta-analyses non reconstruit |
+
+### Décision d'usage
+
+- **Suffisant provisoirement** pour distinguer compétences, mesures et limites dans les trois fiches.
+- **Insuffisant** pour prescrire remédiation individuelle, seuil, durée ou progression obligatoire.
+- **STOP_PROVISIONAL** pour cette passe d'analyse ; aucune relance générale de collecte.
+- **ENRICH / REFINE / LINK** des objets existants ; aucune nouvelle fiche concurrente.
+- RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; les trois fiches restent NEEDS_REVIEW.
+
+Prochaine analyse autorisée dans le corpus existant : registre des affirmations par compétence, avec population, mesure, contraste, horizon et indépendance. Une nouvelle recherche ne sera utile que si une lacune précise change la conclusion ou l'usage. Application, plugin et WORK inchangés.
