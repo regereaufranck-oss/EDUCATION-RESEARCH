@@ -105,8 +105,8 @@ La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) conserve le
 
 | Identifiant | Document | Nature et périmètre | État |
 | --- | --- | --- | --- |
-| RR-002-PREUVES | [Protocole et preuves](../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) | Numération C1/C2/C3 ; mécanismes ; extension ciblée petits nombres, calcul et problèmes GS–CP–CE1 ; lots 01–17 | IN_PROGRESS / HUMAN_REVIEW_REQUIRED |
-| RR-002-REPRISE | [Sauvegarde et reprise](../recherches/RR-002/SAUVEGARDE_ET_REPRISE_2026-10-09.md) | Index de continuité, conclusions provisoires et lacunes ; pas preuve indépendante | Actualisé après lots 15–17 |
+| RR-002-PREUVES | [Protocole et preuves](../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) | Numération C1/C2/C3 ; mécanismes ; extension ciblée petits nombres, calcul et problèmes GS–CP–CE1 ; lots 01–18 | IN_PROGRESS / HUMAN_REVIEW_REQUIRED |
+| RR-002-REPRISE | [Sauvegarde et reprise](../recherches/RR-002/SAUVEGARDE_ET_REPRISE_2026-10-09.md) | Index de continuité, conclusions provisoires et lacunes ; pas preuve indépendante | Actualisé après lot 18 |
 
 Consolidation ENRICH / REFINE. Trois fiches canoniques provisoires conservent NEEDS_REVIEW ; aucune promotion ni nouvelle fiche canonique. Le lot 12 distingue lecture intégrale ciblée (Ramani, Miller), résumé/passages indexés (Fuchs 2013) et plan expérimental seulement (Fuchs 2021). Priorité : dénombrement/cardinalité et résultats des problèmes verbaux. Sources et limites dans RR-002.
 
@@ -121,3 +121,7 @@ RR-002 et les fiches NUM-DEC-001, EVAL-NUM-001, PED-NUM-001 ont été rapproché
 ## Gros lot d'analyse 15–17 — 2026-10-09
 
 [RR-002](../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) : matrice par compétence, comparaison des interventions et contrôle des recouvrements, qualité des mesures et suffisance par usage. Corpus existant seulement ; aucune nouvelle source, fiche canonique ou validation empirique. IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; fiches NEEDS_REVIEW. ENRICH / REFINE / LINK ; STOP_PROVISIONAL pour cadrage et orientations conditionnelles, insuffisant pour prescriptions individuelles.
+
+## Clôture de la première passe analytique — lot 18
+
+Trois fiches existantes enrichies des conclusions classées par usage. Passe documentaire terminée avec réserves ; RR-002 IN_PROGRESS / HUMAN_REVIEW_REQUIRED, fiches NEEDS_REVIEW. STOP_PROVISIONAL, aucune promotion. Le lot 18 expose traçabilité, indépendance, couverture limitée et conditions de réouverture ; reprise et index actualisés.
