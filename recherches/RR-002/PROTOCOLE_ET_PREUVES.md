@@ -644,3 +644,69 @@ RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED. Sauvegardé ne signifie pas sc
 | Mesures | Séparer acquisition, fluidité, transfert et maintien | Aucun seuil de maîtrise ni diagnostic dérivé |
 
 Reprise : (1) réconcilier versions et données accessibles ; (2) rapprochement des études primaires sans double comptage ; (3) recherche ciblée par compétence et sous-domaine GS–CP–CE1 ; (4) revue humaine avant recommandations promues. Ne pas prolonger les tentatives d'accès identiques sans nouvelle voie utile.
+
+## Lot 12 — Compétences proches de GS–CP–CE1 : petits nombres, calcul et problèmes (2026-10-09)
+
+Question : quelles preuves portent sur des compétences réellement proches des âges visés, et quelles mesures distinguer avant conception ICARIS ?
+Usage : cadrer le référentiel scientifique, sans prescrire une intervention individuelle ni modifier l'application.
+Décision documentaire : ENRICH du dossier existant. Décision de recherche : STOP_PROVISIONAL pour cette passe ; CONTINUE_TARGETED sur dénombrement/cardinalité et problèmes verbaux.
+
+### R12-01 — Ramani & Siegler (2008), petits nombres
+
+DOI https://doi.org/10.1111/j.1467-8624.2007.01131.x
+Texte intégral des auteurs : https://siegler.tc.columbia.edu/wp-content/uploads/2019/02/Ram-Sieg2008.pdf
+Passages vérifiés : expérience 1, méthode pp. 378–379 ; résultats pp. 380–385 ; discussion p. 386 (pagination de revue).
+
+- 124 enfants ayant terminé l'expérience, recrutés dans 10 centres Head Start ; assignation individuelle dans chaque centre au jeu numérique (68) ou jeu de couleurs (56). Douze enfants supplémentaires prétestés n'ont pas terminé ; exclusions et attrition à conserver dans l'appréciation.
+- Méthode : âge moyen 4 ans 9 mois, plage 4 ans 1 mois–5 ans 5 mois. Le résumé indique 5,4 ans : divergence interne à réconcilier ; ne pas reprendre ce nombre comme âge certain de l'expérience 1.
+- Quatre séances de 15–20 minutes sur deux semaines, interaction individuelle avec adulte ; suivi neuf semaines après.
+- Mesures : identification des chiffres 1–10 ; comparaison 1–9 ; récitation de 1 à 10 jusqu'à première erreur ; placement estimé sur ligne 0–10.
+- Progrès rapportés sur les quatre tâches, maintenus au suivi, par contraste avec le jeu de couleurs. Identification : moyennes 7→8,2→8,7 pour jeu numérique et 6,1→6,3→6,6 pour couleurs (pré/post/suivi).
+- Les d pré/post internes au groupe ne doivent pas être présentés comme effets intergroupes.
+- Ne mesure pas directement le dénombrement d'une collection ni la cardinalité. Ne démontre pas l'efficacité d'une adaptation numérique sans adulte, ni la valeur positionnelle ou les échanges.
+- Population américaine à faibles revenus, tâche et langue spécifiques ; proximité d'âge utile, transfert français conditionnel.
+Statut : FULL_TEXT_TARGETED_METHOD_AND_RESULTS_CHECKED ; ATTRITION_AND_VERSION_RESERVATIONS ; DIGITAL_TRANSFER_NOT_ESTABLISHED.
+
+### R12-02 — Fuchs et al. (2013), calcul et formes de pratique
+
+DOI https://doi.org/10.1037/a0030127
+Sources primaires : https://pubmed.ncbi.nlm.nih.gov/24065865/ ; https://pmc.ncbi.nlm.nih.gov/articles/PMC3779611/
+- Résumé original et passages indexés consultés ; ouverture intégrale ultérieure bloquée par contrôle d'accès. Aucun audit complet des tableaux revendiqué.
+- Première année américaine, élèves à risque ; groupes rapportés : pratique rapide 195, non rapide 190, contrôle sans tutorat 206.
+- Tutorat trois fois par semaine pendant 16 semaines ; connaissances numériques avec une courte composante de pratique.
+- Résumé : les deux tutorats surpassent le contrôle sur quatre résultats ; pratique rapide supérieure en arithmétique et calcul à deux chiffres, mais effets comparables sur connaissances numériques et problèmes verbaux.
+- Pratique rapide accompagnée de connaissances numériques, stratégies de comptage efficaces et correction ; ne justifie pas un chronomètre isolé ou des contraintes de vitesse universelles.
+- IC, attrition détaillée, mesures, maintien et mécanismes à auditer.
+Statut : PRIMARY_ABSTRACT_AND_INDEXED_PASSAGES_CHECKED ; COMPREHENSIVE_TABLE_AUDIT_PENDING.
+
+### R12-03 — Fuchs et al. (2021), problèmes verbaux et langage
+
+DOI https://doi.org/10.1037/edu0000467
+Source primaire : https://pubmed.ncbi.nlm.nih.gov/33776137/ ; texte identifié https://pmc.ncbi.nlm.nih.gov/articles/PMC7989819/
+- Résumé indexé : 391 enfants, âge moyen 6,53 ans ; quatre conditions randomisées : problèmes par schémas avec langage, sans langage, connaissances numériques, contrôle ; 45 séances de 30 minutes.
+- Résultats détaillés, IC, attrition et suivi NON audités dans cette passe ; texte intégral bloqué. Les résumés secondaires ne sont pas utilisés pour promouvoir une conclusion d'efficacité.
+- Piste pertinente pour distinguer compréhension du texte, représentation du problème et exécution du calcul.
+Statut : PRIMARY_DESIGN_ABSTRACT_CHECKED ; RESULTS_AND_FULL_TEXT_PENDING.
+
+### R12-04 — Miller et al. (2025), dosage des interventions précoces
+
+Source primaire intégrale : https://link.springer.com/article/10.1007/s10648-025-10070-y
+- 24 études expérimentales/quasi expérimentales, 164 effets, kindergarten–grade 3 ; élèves avec difficultés ou à risque.
+- Effet agrégé β=0,61, IC95 % [0,29 ; 0,92]. L'association brute dosage/effet (+0,03 unité d'effet par heure) n'est plus significative après prise en compte des modérateurs.
+- Proximité de la mesure et taille du groupe influencent les résultats ; interprétation causale du dosage non établie par cette comparaison entre études.
+- Limites explicites : interventions informatisées exclues, littérature grise exclue, pas d'intervention au-delà de 45 heures dans ce corpus.
+- Aucun optimum individuel ni validation des séances ICARIS de 5–10 minutes. Fuchs 2013 figure dans les références ; audit exact de l'inclusion/recouvrement encore nécessaire avant tout cumul des preuves.
+Statut : FULL_TEXT_TARGETED_ABSTRACT_AND_LIMITATIONS_CHECKED ; DIGITAL_AND_INDIVIDUAL_DOSAGE_TRANSFER_NOT_ESTABLISHED.
+
+### Matrice de compétence à retenir
+
+| Dimension | Couverture de cette passe | Action décisive restante |
+| --- | --- | --- |
+| Reconnaître les chiffres, comparer, situer de petits nombres | Étude primaire proche de l'âge, méthode et résultats ciblés vérifiés | Vérifier convergence indépendante et adaptation française |
+| Réciter la suite numérique | Mesuré dans Ramani | Ne pas assimiler à dénombrer une collection |
+| Dénombrement et cardinalité | Non directement établis par ces nouvelles sources | Recherche ciblée |
+| Calcul exact et fluidité | Essai première année, résumé vérifié | Auditer mesures/IC et maintien |
+| Problèmes verbaux | Plan expérimental pertinent identifié | Contrôler résultats et rôle du langage |
+| Durée des séances | Synthèse utile, conditions et limites vérifiées | Aucun dosage individuel ou numérique déduit |
+
+RR-002 : IN_PROGRESS / HUMAN_REVIEW_REQUIRED. Lot 12 sauvegardé n'est pas une validation des fiches ou des activités.
