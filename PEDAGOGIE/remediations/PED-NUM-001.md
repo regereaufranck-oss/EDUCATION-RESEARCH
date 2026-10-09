@@ -65,3 +65,17 @@ Faire expliciter les relations dizaines/unités ; relier représentation, langag
 
 Décision : ENRICH / REFINE ; STOP_PROVISIONAL pour cette synthèse d'usage. Aucun dosage, support optimal, ordre universel ou aiguillage individuel établi. Statut NEEDS_REVIEW maintenu.
 - 2026-10-09 — consolidation des preuves existantes et actualisation de leur portée, sans promotion.
+
+## Conclusion de la première passe analytique — 2026-10-09
+
+Référence : RR-002, lot 18, C18-03/06/08/09/11/12.
+
+| Classement d'usage | Conclusion |
+| --- | --- |
+| UTILISABLE, conditionnel | Expliciter les relations entre unités, représentations et écritures, avec la portée didactique indiquée |
+| UTILISABLE, conditionnel | Contextualiser guidage et ordre des représentations ; Osana ne fixe pas de séquence universelle |
+| HYPOTHÈSE DE TRANSFERT | Adapter guidage, pratique ou mécanismes généraux aux tâches d'échange ; efficacité de l'adaptation non établie |
+| INSUFFISAMMENT ÉTAYÉ | Choisir traitement optimal par erreur, durée, chronométrage ou progression automatique |
+| INSUFFISAMMENT ÉTAYÉ | Affirmer l'efficacité d'une activité originale ou d'une adaptation numérique autonome |
+
+Les résultats sur cardinalité, parties–tout et problèmes restent des liens vers RR-002, pas des essais directs de cette remédiation. Une intervention composite ne prouve pas l'efficacité de chacun de ses composants. La passe d'analyse est terminée documentairement ; fiche NEEDS_REVIEW et efficacité individuelle non établie.
