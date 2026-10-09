@@ -139,3 +139,62 @@ Aucune étude n'est qualifiée de « validée par le projet » ; seuls les point
 - **BLOCKED_FOR_CLAIM** : efficacité comparative d'une activité originale, hiérarchie de prérequis obligatoire, remédiation individualisée prouvée.
 
 Le présent lot n'autorise ni publication d'une règle pédagogique comme « validée scientifiquement », ni intégration technique. Il constitue une base pour une revue de littérature plus exhaustive, sans confondre volume de documents et solidité des preuves.
+
+## Lot 03 — Contrôle direct : textes officiels français et essai randomisé (2026-10-09)
+
+**Méthode :** consultation directe des pages officielles et de l'article intégral indexé, sans extrapolation vers les activités originales. Le PDF officiel cycle 2 a été consulté au niveau des passages cités ; l'annexe cycle 1 a été identifiée mais ses attendus détaillés restent à extraire. Cette passe complète, mais ne clôt pas, RR-002.
+
+### RR02-O01 — Programme français cycle 2, version applicable depuis la rentrée 2025
+
+- Autorité : arrêté du 22 octobre 2024, BO n°41 du 31 octobre 2024 ; annexe 4, 38 pages.
+- Page officielle : https://www.education.gouv.fr/bo/2024/Hebdo41/MENE2415135A
+- PDF officiel : https://www.education.gouv.fr/sites/default/files/document/Annexe%204%20%E2%80%93%20Programme%20de%20math%C3%A9matiques%20du%20cycle%202-403821.pdf
+- **Pages PDF 2–3** : progression du concret à l'abstrait, représentation imagée, verbalisation ; la manipulation réussie ne prouve pas à elle seule la compréhension ; ne pas imposer le matériel à l'élève qui n'en a pas besoin pour une tâche donnée.
+- **Pages PDF 3–4** : CP, entiers jusqu'à 100 ; aspects décimal et positionnel abordés dès la période 1 ; jusqu'à 59 au plus tard période 2, jusqu'à 100 au plus tard période 3. Comparaison et dénombrement de collections en dizaines et unités, représentations multiples, valeur du chiffre selon sa position.
+- **Page PDF 5** : CP, additions et soustractions, additions posées introduites période 4 ou 5 ; exemples d'addition avec plusieurs termes.
+- **Pages PDF 5–6** : distinguer faits numériques, calcul fondé sur la numération et procédures ; autoriser l'écrit pour les étapes intermédiaires lorsque nécessaire.
+- **Pages PDF 2–3** : des évaluations courtes et fréquentes servent à ajuster l'enseignement ; elles ne valident pas un seuil automatique ICARIS.
+- Statut : OFFICIAL_PRIMARY_TEXT_CHECKED sur ces passages ; extraction exhaustive des attendus CE1 et de chaque période encore à compléter.
+
+### RR02-O02 — Programme français cycle 1, version applicable depuis la rentrée 2025
+
+- Source officielle : https://www.education.gouv.fr/sites/default/files/document/Annexe%202%20%E2%80%93%20Programme%20d%E2%80%99enseignement%20pour%20l%E2%80%99acquisition%20des%20premiers%20outils%20math%C3%A9matiques%20du%20cycle%201-403815.pdf
+- Page de présentation : https://eduscol.education.gouv.fr/4674/acquerir-les-premiers-outils-mathematiques-cycle-1
+- Domaine : premiers outils mathématiques, jeu, manipulation, résolution de problèmes et organisation de collections.
+- Statut : OFFICIAL_SOURCE_IDENTIFIED ; extraction détaillée des objectifs de grande section encore PENDING. Ne pas attribuer C1/C2/C3 à la GS sur cette seule base.
+
+### RR02-V04 — Fuchs, Powell, Hamlett & Fuchs (2008) : résultats différenciés
+
+- Article : https://pmc.ncbi.nlm.nih.gov/articles/PMC3121170/ ; DOI 10.1080/19345740701692449.
+- Méthode : essai randomisé en troisième année américaine, quatre conditions (récupération de faits, procédures/estimation, combinaison, contrôle lecture) ; 127 élèves analysés, difficultés mathématiques seules ou associées à difficultés en lecture.
+- **Section RESULTS / Procedural Computation Skill** : effet principal du traitement non significatif, F(3,121) < 1, p > .05. Les conditions entraînant les procédures n'ont pas surpassé les autres sur le critère composite de calcul procédural.
+- **Section RESULTS / Computational Estimation Skill** : effet de condition significatif, F(3,121) = 11.19, p < .0001 ; les conditions d'entraînement ciblant l'estimation surpassent certains comparateurs, sans avantage généralisable à toutes les mesures.
+- **Section RESULTS / Story Problems et Math Concepts** : effets principaux de condition non significatifs ; pas de généralisation statistiquement détectée sur ces mesures non alignées.
+- **Discussion** : les auteurs envisagent notamment un problème de transfert entre apprentissage informatique et évaluation papier ; c'est une explication hypothétique, non une cause démontrée.
+- **Précautions** : durée des interventions et composantes différentes selon les groupes ; intervention multicomposante ; pas de preuve d'inefficacité générale du numérique, ni d'un transfert impossible.
+- Statut : PRIMARY_FULL_TEXT_SECTIONS_CHECKED, TABLE_EXHAUSTIVENESS_PENDING.
+
+### RR02-P15 — WWC (2021) : recommandations institutionnelles
+
+- Guide : https://ies.ed.gov/ncee/wwc/PracticeGuide/26
+- Recommandations 1–3 : enseignement systématique, langage mathématique clair et précis, représentations concrètes et semi-concrètes bien choisies. La page officielle attribue Strong Evidence à chacune.
+- Autres recommandations du guide : ligne numérique, problèmes verbaux, activités chronométrées pour fluence ; le classement Strong Evidence concerne aussi ces recommandations selon la page officielle.
+- **Limite** : niveau de preuve d'une recommandation de guide américain K–6 ≠ validation empirique des six activités ICARIS ; ne pas prescrire de chronométrage généralisé hors contexte.
+- Statut : OFFICIAL_GUIDE_RECOMMENDATIONS_CHECKED ; audit des études constitutives et adéquation aux âges français PENDING.
+
+### Matrice d'impact sur les cartes candidates
+
+| Compétence | Nouvelle assise documentaire | Précaution |
+| --- | --- | --- |
+| C1 | CP officiel : unités/dizaines, valeur selon position, représentations multiples | La réussite avec matériel seule n'atteste pas compréhension ; GS non tranché |
+| C2 | CP officiel : collections partiellement organisées (p. 4) ; regroupements et échanges à approfondir dans attendus CE1 | Une décomposition non canonique proposée dans une étude n'est pas un attendu universel à chaque période |
+| C3 | CP officiel : calcul par étapes, utilisation des connaissances de numération ; Fuchs : effets de formation spécifiques et transfert limité | Ne pas confondre calcul mental, calcul posé, estimation et maîtrise conceptuelle |
+
+### Questions ouvertes pour lot 04
+
+1. Extraire précisément les attendus GS et CE1 de leurs annexes officielles, et les croiser avec C1/C2/C3.
+2. Vérifier les tableaux de Jensen et Osana ainsi que les sources didactiques françaises Tempier/Houdement.
+3. Définir un protocole de mesure du transfert proche/lointain et maintien différé, sans inventer de seuil.
+4. Étendre progressivement le référentiel à l'ensemble des domaines mathématiques, au-delà du pilote de numération.
+
+**Statut : RR-002 IN_PROGRESS.** Aucun document de WORK/ICARIS n'est promu au statut scientifiquement validé et aucun changement applicatif n'est autorisé.
