@@ -937,3 +937,56 @@ Les lots 15–17 livrent dix affirmations par compétence, huit comparaisons pé
 Résultat : les conclusions utilisables et les interdictions d'inférence sont explicites. La suite utile est de compléter la traçabilité au niveau des passages manquants disponibles, puis examiner les contenus non encore couverts du corpus. Aucune collecte générale relancée. Une nouvelle recherche ne se justifie qu'avec une décision et une lacune précises.
 
 **Statut : RR-002 IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; fiches NEEDS_REVIEW ; ENRICH / REFINE / LINK ; aucune promotion, modification de plugin, d'application ou de WORK.**
+
+## Lot 18 — Clôture de la première passe analytique (2026-10-09)
+
+**Périmètre :** numération décimale et domaines connexes petits nombres, cardinalité, calcul et problèmes, avec mécanismes et mesures. Clôture documentaire de la passe d'analyse, pas clôture scientifique de RR-002 ni couverture exhaustive des mathématiques ou d'ICARIS.
+
+**Méthode :** rapprochement des extractions lots 01–17 et des trois fiches existantes. Aucune collecte, nouvelle lecture primaire, réanalyse ou validation empirique. Le classement « utilisable » désigne un usage documentaire provisoire sous les réserves indiquées, pas un label d'efficacité.
+
+### Conclusions de référence pour cette passe
+
+| ID | Conclusion retenue | Classement pour le référentiel | Trace déjà disponible / limite |
+| --- | --- | --- | --- |
+| C18-01 | Distinguer position, équivalence par échanges et usage dans le calcul | UTILISABLE — structuration conceptuelle | Jensen : lot 04, §§3.1–3.2, tableau 1, figure 3 ; profils descriptifs, pas ordre nécessaire |
+| C18-02 | Rattacher les attentes à la classe et à la tâche sans assimiler classe et compétence individuelle | UTILISABLE — cadrage curriculaire | Lots 03–04 : cycle 1 pp.5–6, cycle 2 CP pp.3–4, CE1 pp.10–11 ; exemples non canoniques CE1, pas attendu général GS |
+| C18-03 | Les unités de numération explicitent les équivalences | UTILISABLE — argument didactique | Lot 05, Houdement/Tempier 2023, sections unités/tableau ; pas preuve causale, référence Tempier 2016 non réconciliée |
+| C18-04 | Exactitude, procédure, explication, transfert et maintien sont des critères à séparer | UTILISABLE — règle de lecture des résultats | Lots 03–05, 12–13 : mesures et effets différents ; cadre original d'observation non étalonné |
+| C18-05 | Récitation, réponse au total, production de collection et reconnaissance de quantités ne sont pas des mesures équivalentes | UTILISABLE — frontière de mesure | R12-01 : tâches de Ramani ; R13-03/METH : extraits/résumé/introduction seulement ; détails de validité ouverts |
+| C18-06 | Ordre des représentations et guidage doivent être contextualisés | UTILISABLE — réserve pédagogique | Osana, lot 04, tableaux 2–5 ; changements intra-condition ≠ classement des conditions |
+| C18-07 | L'espacement a un appui moyen positif dans la synthèse mathématique étudiée | UTILISABLE — résultat borné au corpus | Murray lot 10, thèse ch.2 méthodes pp.42–51/résultats pp.52–64 ; aucun calendrier ni estimation directe GS–CP–CE1 |
+| C18-08 | Rappel actif, entrelacement, vitesse et supports ne constituent pas des prescriptions universelles | UTILISABLE — limitation de portée | Lots 07–13 et 16 ; comparateurs, âges, contenus et composantes diffèrent |
+| C18-09 | Une progression graduée, les liens parties–tout et le langage du problème sont des pistes à contextualiser | HYPOTHÈSE DE TRANSFERT / PISTE | R13-04 : n=14, résumé ; R13-05 : étude multicomposante ; R13-08 : résumé de Fuchs. Ne pas convertir en verrou individuel |
+| C18-10 | Une erreur isolée ne désigne pas sa cause et une réussite isolée n'établit pas une maîtrise durable | UTILISABLE — prudence d'interprétation | Explications concurrentes consignées ; aucune règle diagnostic→remédiation établie |
+| C18-11 | Seuil, dosage optimal, calendrier individuel et aiguillage automatique | INSUFFISAMMENT ÉTAYÉ | Lots 15–17 ; aucune norme ni effet individuel déduit |
+| C18-12 | Efficacité d'une activité originale ou de sa version numérique autonome | INSUFFISAMMENT ÉTAYÉ | Transposition non testée ; revue documentaire et approbation humaine ne la démontrent pas |
+
+### Résultat du contrôle de traçabilité
+
+Les conclusions C18-01/02/03/06/07 disposent de repères de passages ou tableaux consignés. Les conclusions transversales C18-04/05/08/09/10 sont reliées aux entrées et à leur granularité d'accès ; les extraits ou résumés ne sont pas promus au rang de texte intégral audité. Il ne serait pas exact de déclarer un contrôle exhaustif de chaque passage de chaque étude. Les paramètres C18-11/12 restent ouverts sans chiffres inventés.
+
+### Indépendance et convergence
+
+Le registre du lot 16 demeure applicable : Fuchs 2021, Rohrer/WWC, Jensen et reproductions Murray ne sont pas cumulés comme confirmations indépendantes. Les inclusions exactes dans les méta-analyses restent UNKNOWN lorsque non reconstruites. Aucune force de convergence chiffrée n'est attribuée. La proximité thématique des études cardinales ne suffit pas à qualifier des réplications.
+
+### Couverture et limites du chantier
+
+| Couvert dans cette passe | Limite |
+| --- | --- |
+| Position, échanges, calcul ; petits nombres, cardinalité, parties–tout, problèmes | Profondeur inégale, trois fiches centrées sur NUM-DEC |
+| Représentations, guidage, espacement, rappel, entrelacement, feedback | Beaucoup d'appuis indirects ou hors GS–CP–CE1 |
+| Observation et qualité des mesures | Pas d'instrument original validé |
+
+La couverture du programme complet, notamment géométrie, grandeurs/mesures et autres disciplines, n'est pas établie par RR-002. La couverture des besoins de l'application n'est pas mesurée : son inventaire actuel n'a pas été audité dans cette mission. Ne pas attribuer de pourcentage de couverture.
+
+### Décision de clôture et prochaine transition
+
+- **PASSE_ANALYTIQUE_1 : terminée documentairement**, avec réserves explicites.
+- **RR-002 : IN_PROGRESS / HUMAN_REVIEW_REQUIRED**, inchangé.
+- **Fiches : NEEDS_REVIEW / READY_FOR_HUMAN_REVIEW**, aucune promotion.
+- **STOP_PROVISIONAL** pour cette question et cet usage ; fin des lots répétant la même synthèse.
+- **ENRICH / REFINE / LINK** : reporter les conclusions propres à chaque objet dans les trois fiches.
+- Prochaine étape utile : revue documentaire des trois fiches et cadrage des objets connexes nécessaires. Réouverture scientifique seulement pour un usage précis modifiant une conclusion ; pas de nouvelle collecte générale.
+- Les lacunes de versions, IC, accès et normes restent conservées, mais ne déclenchent pas automatiquement une nouvelle mission.
+
+Application, plugin et WORK inchangés. Aucun diagnostic, seuil, recette optimale ou efficacité empirique originale établi.
