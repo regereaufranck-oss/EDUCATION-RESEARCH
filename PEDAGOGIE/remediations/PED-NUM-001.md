@@ -79,3 +79,9 @@ Référence : RR-002, lot 18, C18-03/06/08/09/11/12.
 | INSUFFISAMMENT ÉTAYÉ | Affirmer l'efficacité d'une activité originale ou d'une adaptation numérique autonome |
 
 Les résultats sur cardinalité, parties–tout et problèmes restent des liens vers RR-002, pas des essais directs de cette remédiation. Une intervention composite ne prouve pas l'efficacité de chacun de ses composants. La passe d'analyse est terminée documentairement ; fiche NEEDS_REVIEW et efficacité individuelle non établie.
+
+## Revue documentaire de cohérence — 2026-10-09
+
+Les propositions sont séparées des effets publiés ; les études multicomposantes ne déterminent pas un traitement individuel. Fuchs 2008 est un appui sur la spécificité des résultats, pas un essai direct des tâches 43/28+7. Ho & Cheng et Fuson restent des appuis provisoires avec contrôle limité. Osana ne justifie pas un classement matériel/symboles universel. Aucun ajout de dosage ou de progression.
+
+Verdict : cohérence documentaire sous réserves, adéquate à une présentation conditionnelle des preuves ; efficacité d'une remédiation individuelle non établie. NEEDS_REVIEW maintenu, aucune revue humaine présumée.
