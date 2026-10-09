@@ -63,3 +63,17 @@ La consolidation porte sur les contrôles déjà consignés, pas sur une nouvell
 Les relations C1→C2 et C2→C3 restent SOUTIEN_POSSIBLE, sans prérequis bloquant. Cardinalité, petits nombres et problèmes (lots 12–13) sont des domaines liés, pas des preuves directes des échanges décimaux. K3a/Fuson et Tempier 2016 restent ouverts. NEEDS_REVIEW et absence de validation humaine sont maintenus.
 
 - 2026-10-09 — REFINE / LINK : rapprochement des contrôles RR-002, correction des états de vérification, sans promotion.
+
+## Conclusion de la première passe analytique — 2026-10-09
+
+Référence : RR-002, lot 18, C18-01 à C18-04 et C18-10.
+
+| Classement d'usage | Conclusion |
+| --- | --- |
+| UTILISABLE, provisoire | Définir trois dimensions distinctes : position, équivalence par échanges, mobilisation en calcul |
+| UTILISABLE, provisoire | Ancrage CP/CE1 selon tâche ; ne pas imposer les échanges non canoniques comme attendu général GS |
+| UTILISABLE, didactique | Expliquer les conversions entre unités ; Houdement/Tempier 2023, sans attribution causale |
+| HYPOTHÈSE | Relations de soutien entre dimensions ; aucun ordre d'acquisition obligatoire |
+| INSUFFISAMMENT ÉTAYÉ | Déduire maîtrise, cause d'erreur ou remédiation individuelle d'une réponse |
+
+Jensen soutient une distinction descriptive ; les programmes fixent des attendus ; les textes didactiques proposent des interprétations. Ces autorités ne se substituent pas l'une à l'autre. Tempier 2016 et Fuson restent sous leurs réserves. La passe d'analyse est terminée documentairement ; fiche NEEDS_REVIEW, revue humaine non acquise.
