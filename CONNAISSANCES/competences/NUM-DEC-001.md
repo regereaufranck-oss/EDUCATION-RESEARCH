@@ -34,3 +34,15 @@ Sources K1–K3 : identifiants et liens originaux dans [RR-001/BIBLIOGRAPHIE](..
 
 ## Historique
 - 2026-10-08 — CREATE : fiche provisoire issue du regroupement NUM-02/03/06, sans validation humaine.
+
+
+## Matrice de traçabilité des affirmations — revue 2026-10-09
+
+| ID | Affirmation bornée | Source et point de contrôle | État de vérification |
+|---|---|---|---|
+| K1 | Position et regroupement peuvent donner lieu à des profils de réponse différents | V01 Jensen et al. (2024), sept tâches de transcription, n=100 ; DOI 10.1007/s13138-024-00234-8 ; vérifier tableaux, critères et interprétation | Étude identifiée ; contrôle de chaque tableau non consigné dans cette fiche |
+| K2 | Les écritures en unités de numération servent à analyser composition et décomposition | S01 Tempier (2016), Grand N 98, p. 67–90 ; S02 Houdement & Tempier (2023), Au fil des maths 549 | Argument didactique ; pas d'effet causal revendiqué |
+| K3a | Des progrès ont été rapportés avec un enseignement associant blocs et symboles | V07 Fuson & Briars (1990) ; tableaux, sous-groupes et dénominateurs à vérifier avant citation quantitative | Progrès descriptifs ; attribution causale isolée NON ÉTABLIE |
+| K3b | Une intervention multicomposante n'a pas montré d'effet significatif sur un critère de calcul procédural | V04 Fuchs et al., essai randomisé ; vérifier critère exact, contraste et intervalle | Résultat limité à ce critère ; ne prouve pas absence générale d'effet |
+
+**Règle :** une référence ou un DOI ne remplace pas un passage probant. Toute statistique non reliée à son tableau et à son dénominateur reste NON VÉRIFIÉE. Le verdict scientifique porte sur une affirmation et un usage, jamais sur la « validation » globale d'une étude par le projet.
