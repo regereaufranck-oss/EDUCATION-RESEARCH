@@ -125,3 +125,9 @@ RR-002 et les fiches NUM-DEC-001, EVAL-NUM-001, PED-NUM-001 ont été rapproché
 ## Clôture de la première passe analytique — lot 18
 
 Trois fiches existantes enrichies des conclusions classées par usage. Passe documentaire terminée avec réserves ; RR-002 IN_PROGRESS / HUMAN_REVIEW_REQUIRED, fiches NEEDS_REVIEW. STOP_PROVISIONAL, aucune promotion. Le lot 18 expose traçabilité, indépendance, couverture limitée et conditions de réouverture ; reprise et index actualisés.
+
+## Revue documentaire des trois fiches — 2026-10-09
+
+Corrections dans NUM-DEC-001 : Tempier 2016 non présenté comme source vérifiée ; Fuchs 2008 ne mesure pas directement nos tâches d'échange. EVAL-NUM-001 : exemple 43, extension 243 selon acquis ; réserve explicite sur la correspondance structure/item/page des tableaux DEPP. PED-NUM-001 : portée des essais et caractère conditionnel rappelés. Aucun nouveau lot de recherche, aucune nouvelle source ou fiche ; NEEDS_REVIEW maintenu. Revue humaine non réalisée.
+
+Prochain examen prioritaire : qualité documentaire des trois fiches, avec contrôle précis des tableaux DEPP avant approbation de ce volet. Les détails non vérifiés peuvent rester exclus de l'usage opérationnel sans bloquer la définition des compétences ni les principes prudents d'observation.
