@@ -31,3 +31,7 @@ Lot 18 : première passe analytique terminée avec réserves. Conclusions d'usag
 Corrections dans NUM-DEC-001 : Tempier 2016 non présenté comme source vérifiée ; Fuchs 2008 ne mesure pas directement nos tâches d'échange. EVAL-NUM-001 : exemple 43, extension 243 selon acquis ; réserve explicite sur la correspondance structure/item/page des tableaux DEPP. PED-NUM-001 : portée des essais et caractère conditionnel rappelés. Aucun nouveau lot de recherche, aucune nouvelle source ou fiche ; NEEDS_REVIEW maintenu. Revue humaine non réalisée.
 
 Prochain examen prioritaire : qualité documentaire des trois fiches, avec contrôle précis des tableaux DEPP avant approbation de ce volet. Les détails non vérifiés peuvent rester exclus de l'usage opérationnel sans bloquer la définition des compétences ni les principes prudents d'observation.
+
+## Contrôle ciblé DEPP 2025 — 2026-10-09
+
+EVAL-NUM-001 : huit questions et 24 distracteurs CM1 contrôlés dans le cahier standard, exercice 18 pp.36–38 ; structures CE2 contrôlées dans le guide, exercice 7 p.24 ; passations standard confirmées. Matrice structurale corrigée (ordre des unités, milliers CM1, conversions). Contrôle exhaustif des 24 choix CE2 standard et autres seuils non acquis. Interprétations des distracteurs provisoires ; NEEDS_REVIEW maintenu. Aucune nouvelle fiche ni activité validée.
