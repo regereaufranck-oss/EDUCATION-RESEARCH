@@ -710,3 +710,83 @@ Statut : FULL_TEXT_TARGETED_ABSTRACT_AND_LIMITATIONS_CHECKED ; DIGITAL_AND_INDIV
 | Durée des séances | Synthèse utile, conditions et limites vérifiées | Aucun dosage individuel ou numérique déduit |
 
 RR-002 : IN_PROGRESS / HUMAN_REVIEW_REQUIRED. Lot 12 sauvegardé n'est pas une validation des fiches ou des activités.
+
+## Lot 13 — Consolidation transversale : cardinalité, décomposition, calcul et problèmes (2026-10-09)
+
+Usage : préciser les compétences et la portée des interventions avant conception ICARIS.
+Nature : revue documentaire ciblée de huit publications ; niveaux d'accès hétérogènes. Huit publications examinées ne signifie ni huit essais indépendants ni huit preuves intégrales. La revue Give-N 2025 est une synthèse méthodologique, pas un essai supplémentaire.
+Décision : ENRICH / REFINE ; STOP_PROVISIONAL pour cadrage ; CONTINUE_TARGETED sur précision, validité et transfert. RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED.
+
+### R13-01 — Paliwal & Baroody (2018), enseignement de la cardinalité
+DOI https://doi.org/10.1016/j.ecresq.2018.03.012
+Résumé original institutionnel : https://experts.illinois.edu/en/publications/how-best-to-teach-the-cardinality-principle/
+49 enfants de 2–5 ans, randomisés entre nommer puis compter, compter avec accent sur le dernier mot puis nommer, et compter seul. Au post-test différé, le résumé rapporte une meilleure efficacité de compter puis expliciter le total sur la tâche cible et une tâche de transfert. Effets exacts, durée du délai, attrition et tableaux non audités.
+Statut : PRIMARY_ABSTRACT_CHECKED ; aucune supériorité universelle ni calendrier prescrit.
+
+### R13-02 — O'Rear & McNeil (2019), quantités et cardinalité
+DOI https://doi.org/10.1111/desc.12819
+Résumé original : https://onlinelibrary.wiley.com/doi/10.1111/desc.12819
+106 enfants, âge moyen 4 ans 8 mois, trois conditions randomisées sur six semaines : compter/nommer des collections structurées, nommer d'abord puis compter/nommer, contrôle de langage écrit. Le résumé rapporte dans les deux conditions numériques un effet indirect via l'amélioration de la reconnaissance des quantités ; un effet direct supplémentaire pour compter/nommer. La médiation n'est pas une manipulation indépendante du médiateur, donc ne prouve pas seule le mécanisme causal.
+Statut : PRIMARY_ABSTRACT_CHECKED ; texte NSF identifié mais ouverture échouée ; IC, maintien et attrition à auditer.
+
+### R13-03 — O'Rear, Kirkland & Purpura, mesures de cardinalité
+DOI https://doi.org/10.1016/j.ecresq.2023.08.010 ; Early Childhood Research Quarterly 66, 61–74.
+Extraits originaux éditeur : https://www.sciencedirect.com/science/article/pii/S0885200623001151
+Les analyses rapportées distinguent reconnaissance immédiate de quantités, réponse « combien ? » et production « donne N ». Les tâches ne sont pas interchangeables ; Give-N est plus difficile dans les conditions étudiées. Effectif et analyses complets non récupérés ; date de mise en ligne et date de volume à réconcilier, sans adopter une date ResearchGate comme date de publication.
+Statut : PRIMARY_PUBLISHER_EXCERPTS_CHECKED ; FULL_METHOD_PENDING.
+
+### R13-04 — Baroody, Clements & Sarama (2024), progression graduée
+DOI https://doi.org/10.1016/j.jmathb.2024.101178
+Résumé original : https://experts.illinois.edu/en/publications/does-use-of-a-hypothetical-learning-progression-promote-learning-/
+14 enfants randomisés, prétest/post-test différé ; progression hypothétique de cardinalité comparée à un contrôle actif enseignant directement la cible après une autre compétence numérique. Résumé favorable à la progression graduée sur concepts et compétences cibles.
+Limites : très petit échantillon, autre contenu préalable dans le contrôle, effets précis et délai non audités. Ne démontre ni une hiérarchie générale ni des prérequis bloquants ICARIS.
+Statut : PRIMARY_ABSTRACT_CHECKED / SMALL_SAMPLE_CAUTION.
+
+### R13-05 — Kullberg et al. (2020), relations parties–tout
+DOI https://doi.org/10.1007/s10649-019-09927-1
+Texte intégral éditeur : https://link.springer.com/article/10.1007/s10649-019-09927-1
+Méthodes §§4.1–4.5 ; résultats §§5.1–5.2.
+103 enfants suédois : 65 dans cinq établissements d'intervention, 38 dans quatre contrôles ; âge moyen proche de 5 ans 3–4 mois. Huit mois d'activités et accompagnement des enseignants, suivi un an après. Assignation aléatoire non établie dans la description consultée.
+Score sur huit items : intervention 1,69→4,97→6,32 ; contrôle 1,61→3,18→5,42. Les mêmes items sont repris aux trois temps. Certaines tâches non présentées sont codées incorrectes ; règles de passation à conserver dans l'interprétation.
+Différences plus persistantes sur certaines relations parties–tout que sur additions/soustractions directes. Formation des enseignants, temps d'accompagnement et activités diffèrent : aucune efficacité isolée des doigts démontrée. Analyses de regroupement par établissement et IC à approfondir.
+Statut : FULL_TEXT_TARGETED_METHOD_RESULTS_CHECKED ; CAUSAL_COMPONENT_ISOLATION_NOT_ESTABLISHED.
+
+### R13-06 — Clarke et al. (2020), ROOTS
+DOI https://doi.org/10.1086/710041
+Résumé éditeur : https://www.journals.uchicago.edu/doi/10.1086/710041
+1 251 enfants à risque dans 138 classes, randomisés par blocs entre groupes de deux, groupes de cinq et contrôle. Programme de 50 leçons ; mesures proches/distales, pré/post et suivi en première année.
+Résumé : avantage au post-test, g de 0,09 à 0,81 selon la mesure ; pas de variation détectée de l'impact selon la taille du groupe. Cette plage n'est pas un effet unique ; résultats du suivi non établis par le résumé lu.
+Statut : PRIMARY_ABSTRACT_CHECKED ; TABLES_AND_FOLLOWUP_PENDING. Recouvrement possible avec Miller 2025 à auditer ; ne pas cumuler comme confirmations indépendantes.
+
+### R13-07 — Croset et al. (2024), problèmes en grande section française
+DOI https://doi.org/10.1007/s10212-024-00861-2
+Résumé éditeur : https://link.springer.com/article/10.1007/s10212-024-00861-2
+Texte auteur identifié : https://hal.science/hal-04652839v1/document ; accès refusé.
+101 enfants de 5–6 ans d'écoles françaises défavorisées ; rituels de configurations de doigts et sept séances d'environ vingt minutes sur quatre semaines. Résumé : effet positif au post-test sur problèmes de transformation ciblés, autres bénéfices rapportés, mais aucun effet détecté sur la tâche d'addition. Bénéfices plus grands chez les moins performants au prétest, selon les auteurs.
+Assignation, IC, attrition, comparateur détaillé, analyses et maintien non audités. Le résultat nul en addition n'est pas preuve d'effet exactement nul.
+Statut : PRIMARY_ABSTRACT_CHECKED ; CONTEXT_PROXIMITY_HIGHER / FULL_TEXT_PENDING. Ne pas transformer proximité française en validation individuelle ou numérique.
+
+### R13-08 — Fuchs et al. (2021), actualisation du lot 12
+Même étude R12-03 : https://pubmed.ncbi.nlm.nih.gov/33776137/ ; DOI https://doi.org/10.1037/edu0000467
+Le résumé original indexé complète le plan déjà enregistré : les deux interventions spécifiques aux problèmes surpassent connaissances numériques et contrôle sur les problèmes ; ajout du langage supérieur à la condition sans langage. Les trois interventions améliorent l'arithmétique par rapport au contrôle ; connaissances numériques seules sans avantage détecté sur les problèmes.
+Passages indexés de discussion : enseigner vocabulaire et syntaxe dans la structure complète du problème, plutôt que des mots déclenchant mécaniquement une opération.
+Statut actualisé : PRIMARY_DESIGN_AND_RESULTS_ABSTRACT_CHECKED ; FULL_TABLE_AUDIT_PENDING. Une seule étude, pas nouvelle preuve indépendante du lot 12.
+
+### R13-METH — Revue Give-N 2025
+Wege, Bourque, Merkley & Cheung, Thirty Years of the Give-N Task, DOI https://doi.org/10.5964/jnc.10577
+Texte : https://jnc.psychopen.eu/index.php/jnc/article/download/10577/10577.html?inline=1
+Résumé et introduction vérifiés : variations d'administration et de cotation, limites des classifications de niveaux. Revue méthodologique ; effectifs exacts de la revue et résultats complets non extraits.
+Conséquence : documenter consigne, collections, répétitions, aides et cotation ; aucun seuil standard propre à ICARIS déduit.
+
+### Consolidation pour le référentiel
+
+| Observation distincte | Usage prudent | Ce qui n'est pas établi |
+| --- | --- | --- |
+| Réciter, pointer les objets, annoncer le total | Distinguer chaîne verbale, correspondance et cardinalité | Diagnostic individuel par erreur isolée |
+| Répondre « combien ? » / produire une collection demandée | Conserver deux tâches, consignes et résultats séparés | Équivalence des scores |
+| Reconnaître une quantité / décomposer un tout | Observer représentations et relations | Ordre universel d'acquisition |
+| Calculer / représenter et résoudre un problème | Séparer critères et transfert | Amélioration automatique de l'un par l'autre |
+| Doigts, objets, dessins, symboles | Représentations candidates avec guidage documenté | Support unique optimal |
+| Réussite immédiate / maintien / transfert | Mesures distinctes et horizons explicites | Maîtrise durable sur un seul post-test |
+
+Prochaine passe : récupérer textes intégraux et IC de Croset/Fuchs ; auditer validité des mesures de cardinalité ; qualifier convergence et recouvrement ; comparer aux attentes françaises déjà documentées. Pas de nouvelle collecte exhaustive sans question décisionnelle. Aucun seuil, diagnostic, algorithme ou activité validé ; WORK et application ICARIS non modifiés.
