@@ -436,3 +436,58 @@ RR-002 reste IN_PROGRESS.
 5. Préparer une revue des études à effets nuls ou contradictoires sur ces mêmes mécanismes pour limiter le biais de confirmation.
 
 **Verdict lot 07 :** PRIMARY_ABSTRACT_CHECKED sur six références ; TABLE_LEVEL_PENDING ; TRANSFER_TO_ICARIS_NOT_ESTABLISHED. Aucune activité, règle de moteur ou seuil autorisé. RR-002 reste IN_PROGRESS.
+
+## Lot 08 — Audit contradictoire et matrice transversale des mécanismes (2026-10-09)
+
+**Périmètre de vérification :** résumés de publications scientifiques, notice universitaire d'une méta-analyse publiée et notice d'un document de travail actualisé ; pas d'audit intégral des tableaux ni d'estimation nouvelle. Les résultats ne portent pas nécessairement sur GS–CP–CE1.
+
+### M08-01 — Méta-analyse mathématiques : espacement et rappel actif
+
+- Murray, Horner & Göbel (2025), *Educational Psychology Review*, 37, article 75, DOI https://doi.org/10.1007/s10648-025-10035-1.
+- Notices officielles : https://eprints.whiterose.ac.uk/id/eprint/229807/ ; https://eric.ed.gov/?id=EJ1478558.
+- Espacement versus pratique massée : **27 études, 53 tailles d'effet, g = 0,28** ; apprentissage isolé **g = 0,43** (10 études) et intégré au cours **g = 0,24** (17 études). Ces sous-groupes ne prouvent pas causalement que le seul contexte explique leur différence.
+- Récupération/test versus réétude : **7 études, 32 tailles d'effet, g = 0,18** ; IC95 % englobant zéro. La synthèse ne conclut pas à un effet robuste du rappel actif sur l'apprentissage mathématique.
+- Une étude primaire positive de récupération de tables de multiplication (RR02-M01) reste compatible avec cette conclusion globale plus prudente.
+- **Statut : PUBLISHED_META_ANALYSIS_ABSTRACT_CHECKED ; sous-groupes par âge, biais et dépendance des effets à auditer.**
+
+### M08-02 — Espacement : contre-exemple de résultat nul
+
+- Article accessible via notice éditeur : https://www.sciencedirect.com/science/article/pii/S2211368120300759.
+- Le résumé consulté rapporte **absence d'effet principal de l'espacement**, des exemples résolus et de leur interaction ; analyses bayésiennes cohérentes avec ces résultats. Les connaissances préalables et l'aptitude mathématique prédisaient la performance.
+- **Attention :** titre exact, population, comparateurs, horizon et statistiques doivent être réconciliés depuis l'article complet avant toute quantification ou attribution à un niveau scolaire. Ce résultat ne réfute pas à lui seul la méta-analyse de Murray.
+- **Statut : ORIGINAL_PUBLISHER_EXCERPT_CHECKED ; BIBLIOGRAPHY_AND_METHOD_PENDING.**
+
+### M08-03 — Entrelacement : bénéfice fort en collège américain
+
+- Rohrer et al. (2020), *Journal of Educational Psychology*, DOI https://doi.org/10.1037/edu0000367.
+- Essai préenregistré randomisé par 54 classes de grade 7 ; test différé d'un mois : **61 % versus 38 %, d=0,83**. Revue WWC : https://ies.ed.gov/ncee/wwc/Study/88770 ; 787 élèves, standards satisfaits sans réserve pour l'étude évaluée.
+- **Portée :** bénéfice crédible pour les conditions étudiées, pas taille d'effet transposable à GS–CP–CE1.
+- **Statut : PRIMARY_ABSTRACT_AND_WWC_REVIEW_CHECKED.**
+
+### M08-04 — Entrelacement : effet à court terme sans gain cumulatif final
+
+- Kremer, Gray-Lobe, de Laat & van der Haar, *A Year of Desirable Difficulties: The Impact of Interleaving Math Practice in Nigeria*, NBER Working Paper 31853, version révisée février 2026, DOI https://doi.org/10.3386/w31853 ; https://www.nber.org/papers/w31853.
+- Expérimentation de terrain pendant un an dans des écoles primaires nigérianes : **+0,28 écart-type au test à court terme**, mais **aucun effet détecté à l'évaluation cumulative de fin d'année** ; gains concentrés chez les élèves initialement les plus faibles.
+- **Précaution :** document de travail, version révisée ; vérifier le protocole, l'attrition, les mesures et l'éventuelle publication évaluée par les pairs avant qualification définitive. « Aucun effet détecté » ne signifie pas démonstration d'un effet nul exact.
+- **Statut : WORKING_PAPER_ABSTRACT_CHECKED ; FULL_METHOD_PENDING.**
+
+### Matrice transversale — force des conclusions selon l'usage
+
+| Mécanisme | Appui vérifié | Réserve / contre-exemple | Décision pour référentiel |
+| --- | --- | --- | --- |
+| Espacement | Méta-analyse mathématique 2025 : g=0,28 moyen | Hétérogénéité ; au moins un essai sans effet détecté | EVIDENCE_SUPPORTED_WITH_CONDITIONS ; aucun calendrier universel |
+| Rappel actif | Étude ciblée favorable sur faits multiplicatifs | Méta-analyse mathématique : g=0,18, IC croise zéro | MIXED / INSUFFICIENT_FOR_GENERAL_RULE |
+| Entrelacement | Essai grade 7 favorable et revue WWC | Expérimentation primaire nigériane : pas de gain cumulatif final | CONTEXT_DEPENDENT ; distinguer test immédiat et cumulatif |
+| Feedback | Associations observationnelles et synthèse qualitative | Absence de comparaison causale robuste directement vérifiée ici pour ICARIS | CAUSAL_EVIDENCE_PENDING |
+| Représentations / manipulation | Programme français, Osana et analyses didactiques | Séquence optimale universelle non établie | CONDITIONAL_SUPPORT, non prescription automatique |
+| Transfert | Dissociations entre tâches et contextes dans le corpus RR-001 | Effets de transfert spécifiques à la mesure ; maintien rarement contrôlé dans ce lot | DISTINCT_OUTCOME_REQUIRED |
+
+### Conséquences pour les recherches suivantes
+
+1. Extraire les **intervalles de confiance, critères et durées** des travaux retenus.
+2. Distinguer résultats **intra-tâche**, **transfert proche**, **transfert lointain** et **maintien**.
+3. Faire une revue par **âge, compétence mathématique, langue et niveau scolaire** ; ne pas appliquer aux jeunes enfants les tailles d'effet de collège.
+4. Rechercher systématiquement les résultats nuls ou défavorables, avec une grille de risque de biais.
+5. Documenter les éventuels chevauchements entre études primaires et méta-analyses ; ne pas compter deux fois une même preuve.
+
+**Verdict :** CONTRADICTION_AUDIT_PARTIAL ; MATRIX_CREATED ; RR-002 IN_PROGRESS. Aucune autorisation d'intégration ou de modification du moteur ICARIS.
