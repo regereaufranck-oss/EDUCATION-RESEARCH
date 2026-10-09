@@ -97,3 +97,45 @@ Aucune observation isolée ne prouve une cause, un diagnostic ou un profil stabl
 - [PED-NUM-001](../../PEDAGOGIE/remediations/PED-NUM-001.md)
 
 Aucune étude n'est qualifiée de « validée par le projet » ; seuls les points effectivement relus sont marqués vérifiés.
+
+## Lot 02 — Audit de transférabilité, contre-exemples et hiérarchie des preuves (2026-10-09)
+
+**Nature de la passe :** analyse critique du corpus documentaire RR-001 existant ; aucun nouveau texte intégral primaire n'a été audité dans cette passe. Les affirmations ci-dessous sont donc des conclusions de TRI DOCUMENTAIRE, pas des résultats indépendamment revérifiés.
+
+### Matrice des sources à auditer prioritairement
+
+| Référence RR-001 | Question | Niveau de vérification acquis | Risque | Action documentaire |
+| --- | --- | --- | --- | --- |
+| V04 Fuchs et al. (2008) | Intervention multicomposante et calcul procédural | Résultat non significatif rapporté par RR-001 ; critère exact non revérifié ici | Confondre absence de significativité et inefficacité universelle | Extraire critère, contraste, IC et conditions |
+| V06 Ho & Cheng (1997) | Entraînement valeur positionnelle → addition | Résumé favorable documenté ; effectif et effet non vérifiés | Surévaluer la causalité ou le transfert | Lire méthode, groupes, résultats et suivi |
+| V07 Fuson & Briars (1990) | Blocs base dix + symboles | Progrès descriptifs ; extraction historique chiffrée non revérifiée | Attribuer l'effet aux blocs seuls | Relever tableaux et cohortes exactes |
+| S01 Tempier (2016) | Composition/décomposition dans la numération française | Analyse didactique identifiée ; passages non vérifiés ici | Généralisation CE2–5e vers GS–CP | Extraire définitions, tâches et limites d'âge |
+| S02 Houdement & Tempier (2023) | Écritures en unités de numération | Analyse didactique identifiée ; non essai | Présenter une recommandation comme effet causal | Extraire exemples, portée et réserves |
+| P15 WWC (2021) | Enseignement systématique, langage et représentations | Guide officiel identifié dans RR-001 | Transposer le niveau de preuve à une activité ICARIS | Contrôler chaque recommandation et son assise |
+| P14 Banerjee et al. (2025) | Transfert entre contexte appliqué et scolaire | Résultats contextuels rapportés par RR-001 | Dire que tout transfert est impossible | Vérifier mesures et contrastes exacts |
+| P17–P23 | Individualisation selon difficultés | Pistes à auditer ; plusieurs métadonnées non réconciliées | Revendiquer un aiguillage automatique validé | Trier essais, études de cas et méta-analyses |
+
+### Épreuves méthodologiques à préparer
+
+- **C1** : opposer identification de la valeur du chiffre, représentation concrète et explication. Un succès sur l'une ne remplace pas les autres.
+- **C2** : comparer reconnaissance et production de décompositions, conservation et réversibilité ; varier le format de réponse.
+- **C3** : dissocier exactitude, stratégie spontanée et justification ; observer aussi des stratégies correctes sans échange.
+- **Langue** : pour les dizaines françaises 70–99, varier oral, écrit et matériel sans attribuer les erreurs à un seul facteur.
+- **Transfert** : distinguer performance dans une activité, transfert proche à un autre nombre, transfert à une autre représentation, transfert scolaire et maintien différé.
+- **Accessibilité** : noter consigne, aide, lecture, matériel et fatigue ; ne pas utiliser ces facteurs comme diagnostics.
+
+### Critères de promotion des relations
+
+1. Une relation conceptuelle peut être documentée comme ASSOCIATION ou SOUTIEN_POSSIBLE.
+2. Pour qualifier PREREQUIS_FORT, exiger une justification explicite de nécessité pour une tâche définie, des alternatives examinées et une revue humaine.
+3. Un résultat corrélationnel ou une réussite dans une seule tâche ne suffit pas à verrouiller une progression.
+4. Aucune règle de décision individuelle ou seuil d'acquisition n'est inféré de cette passe.
+
+### Décision documentaire
+
+- **PASS** : couverture des questions C1/C2/C3 et repérage des risques de confusion.
+- **PASS_WITH_RESERVATIONS** : identification d'études positives, non significatives, didactiques et de transfert à comparer.
+- **OPEN** : audit primaire de V04/V06/V07/S01/S02/P15 et programmes officiels français.
+- **BLOCKED_FOR_CLAIM** : efficacité comparative d'une activité originale, hiérarchie de prérequis obligatoire, remédiation individualisée prouvée.
+
+Le présent lot n'autorise ni publication d'une règle pédagogique comme « validée scientifiquement », ni intégration technique. Il constitue une base pour une revue de littérature plus exhaustive, sans confondre volume de documents et solidité des preuves.
