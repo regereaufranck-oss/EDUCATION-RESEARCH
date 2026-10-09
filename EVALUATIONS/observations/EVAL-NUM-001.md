@@ -162,3 +162,27 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 **Limites :** aucune analyse des distracteurs item par item n'est encore achevée ; une mauvaise réponse ne prouve pas une cause unique. Les seuils DEPP publiés concernent les scores globaux des exercices et ne sont pas des seuils validés pour les sous-groupes de trois items. Ne pas transférer les items, barèmes ou normes à ICARIS.
 
 **Prochaine action :** contrôler chaque distracteur dans les cahiers CE2 et CM1 2025, relever les confusions plausibles et les compétences auxiliaires, puis soumettre cette matrice à revue humaine. Statut documentaire : NEEDS_REVIEW ; décision : ENRICH ; validation empirique : NON ÉTABLIE.
+
+
+## Audit complémentaire des distracteurs et de la passation — 2026-10-09
+
+**Objet :** capitaliser les exemples d'erreurs évoqués dans la recherche DEPP CE2 et les précautions de passation CM1, sans présenter ces exemples comme une transcription exhaustive des distracteurs des 16 items. **Nature de preuve :** revue documentaire et hypothèses didactiques ; **pas** de diagnostic validé.
+
+| Réponse erronée évoquée | Réponse attendue | Hypothèse à examiner | Dimension candidate |
+|---|---|---|---|
+| 207 | 27 | Juxtaposition de segments numériques / transcription | NUM-02 |
+| 68 | 86 | Ordre ou position des chiffres | NUM-02 |
+| 36 | 306 | Omission du zéro de position | NUM-02 |
+| 520 | 70 | Regroupement des dizaines non effectué ou mauvaise recomposition | NUM-03 |
+| 137 | 173 | Conversion ou placement incorrect des unités | NUM-02 / NUM-03, ambigu |
+| 50 ou 5 | 500 | Valeur relative des unités de numération | NUM-02 / NUM-03, ambigu |
+
+**Traçabilité :** exemples relevés lors de la passe documentaire précédente à partir d'une fiche institutionnelle CE2 ; **page, item exact et contexte des réponses restent à rattacher individuellement à la source primaire** avant d'utiliser ce tableau comme preuve. Ces exemples ne sont **pas** une liste exhaustive de distracteurs CE2–CM1, ni une correspondance certaine item→erreur.
+
+**Conditions de passation :** la version CM1 adaptée évoquée lors de la recherche autorise lecture/répétition des propositions et temps supplémentaire, à distinguer de la passation collective ordinaire (huit questions en quatre minutes, selon le guide consulté). **À contrôler** dans les versions officielles et consigner pour chaque analyse : édition, cahier standard/adapté, lecture orale, répétition, durée, réponse absente versus erronée. Une comparaison de scores sans tenir compte de ces différences n'est pas justifiée.
+
+**Règle d'interprétation :** une même réponse peut provenir de mécanismes différents (compréhension des groupements, langage, attention, traitement visuel, stratégie). Pour chaque erreur, rechercher une **tâche de confirmation indépendante** et documenter ce qu'elle élimine ou n'élimine pas. Ne pas déduire un diagnostic individuel, une cause unique ou un seuil NUM-02/NUM-03 à partir d'un seul distracteur.
+
+**Suite ciblée :** (1) relier chaque exemple à son passage officiel ; (2) relever les quatre propositions de chacun des 16 items sans les reproduire dans le dépôt ; (3) qualifier chaque distracteur « spécifique plausible / ambigu / non interprétable » ; (4) distinguer erreurs et non-réponses et les modalités de passation ; (5) revue humaine.
+
+**Décision : CONTINUE_TARGETED ; consolidation : ENRICH ; statut : NEEDS_REVIEW ; validation empirique : NON ÉTABLIE.**
