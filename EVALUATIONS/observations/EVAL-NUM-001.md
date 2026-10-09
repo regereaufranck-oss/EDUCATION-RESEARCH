@@ -285,3 +285,13 @@ Verdict : principes d'observation cohérents ; détails DEPP encore à vérifier
 - **Versions :** documents explicitement marqués 2025. Les pages de présentation générales désormais relatives à 2026 ne sont pas utilisées pour attribuer une édition 2025.
 
 Les demandes antérieures de rattachement des structures et du relevé CM1 sont résolues au niveau indiqué. Restent ouverts : contrôle exhaustif des choix CE2 standard, seuils des autres exercices CE1/CM1, propriétés psychométriques et causalité des erreurs. Aucune norme transférée vers ICARIS. Revue primaire ciblée effectuée par l'assistant ; revue humaine non acquise. NEEDS_REVIEW maintenu.
+
+## Résolution du contrôle CE2 — 2026-10-09
+
+Source primaire : [cahier standard CE2 2025, 25CE2E](https://eduscol.education.gouv.fr/sites/default/files/document/25ce2epdf-112179.pdf), exercice 7, pages imprimées 17–19 / pages PDF 20–22. Lecture des décompositions et des quatre choix par item.
+
+**Résultat :** les huit résultats attendus et les 24 autres propositions concordent avec l'inventaire CE2 déjà consigné. Aucun changement des valeurs nécessaire. Rattachement : items 1–3 p.17, items 4–6 p.18, items 7–8 p.19.
+
+Le contrôle exhaustif des propositions **CE2 et CM1** est donc acquis pour ces deux exercices de l'édition 2025. Les anciennes réserves de transcription correspondantes sont résolues ; les réserves sur les autres exercices et seuils restent ouvertes. Les 48 distracteurs sont des choix vérifiés, pas 48 causes d'erreur démontrées.
+
+STOP_PROVISIONAL pour ce contrôle documentaire. Classement didactique, pouvoir diagnostique et tâches originales restent non validés ; NEEDS_REVIEW maintenu. Prochaine étape : revue des fiches, sans prolonger la collecte des mêmes items.
