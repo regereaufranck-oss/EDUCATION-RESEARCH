@@ -310,3 +310,59 @@ Pour chaque mesure : documenter la tâche, l'âge/niveau, les aides, la procédu
 - **NOT_AUTHORIZED :** modification des exercices, moteur, adaptation automatique ou déploiement.
 
 RR-002 demeure IN_PROGRESS. Ce lot enrichit le référentiel scientifique et méthodologique avant toute production applicative.
+
+## Lot 06 — Mécanismes d'apprentissage, mémorisation et transfert : cadre d'examen (2026-10-09)
+
+**Provenance et niveau de vérification :** lot méthodologique fondé sur les sources déjà capitalisées dans RR-001/RR-002. Aucun nouveau texte primaire ou tableau d'effet n'a été consulté pour cette passe. Les recommandations ci-dessous sont des HYPOTHÈSES DE CONCEPTION DE RECHERCHE, non des résultats expérimentaux vérifiés dans ce lot.
+
+### Carte des mécanismes à distinguer
+
+| Mécanisme | Question testable | Confusion à éviter | Niveau actuel |
+| --- | --- | --- | --- |
+| Encodage initial | La connaissance est-elle accessible immédiatement après explication ? | Réussite avec aide = acquisition autonome | PROPOSED |
+| Récupération en mémoire | L'élève retrouve-t-il sans indice une relation déjà travaillée ? | Vitesse = compréhension | PROPOSED |
+| Espacement | Les observations espacées améliorent-elles le maintien par rapport à une pratique massée comparable ? | Effet de dose ou de difficulté confondu avec calendrier | EVIDENCE_REVIEW_PENDING |
+| Variabilité des exemples | Une variation contrôlée des nombres/supports favorise-t-elle le transfert ? | Changer plusieurs facteurs simultanément | EVIDENCE_REVIEW_PENDING |
+| Explication et verbalisation | Une justification révèle-t-elle une procédure, sans être une condition nécessaire ? | Aisance langagière = maîtrise mathématique | PROPOSED |
+| Feedback | Quel retour aide à corriger l'erreur sans fournir directement la solution ? | Performance guidée = transfert | EVIDENCE_REVIEW_PENDING |
+| Manipulation / représentation | Quand le matériel facilite-t-il une relation unité–valeur ? | Usage du matériel = preuve de compréhension | SUPPORTED_AS_CAUTION_BY_OFFICIAL_PROGRAM |
+| Consolidation | Une relation est-elle réutilisée à distance et sous un format nouveau ? | Retest identique = transfert | PROPOSED |
+
+### Plan d'analyse des études (lot scientifique à venir)
+
+Pour chaque mécanisme, rechercher et consigner : définition opérationnelle ; âge et langue ; domaine mathématique précis ; randomisation et comparateur ; dose et durée ; prétest et post-test ; maintien différé ; transfert proche/lointain ; taille d'effet et incertitude ; attrition ; biais ; conditions où l'effet n'apparaît pas. **Ne pas agréger des tailles d'effet de critères différents.**
+
+### Architecture du futur référentiel, sans production d'exercices
+
+- **Fiche CONNAISSANCE** : définition, contre-exemples, niveau et source officielle, représentations possibles, relations conceptuelles.
+- **Fiche MÉCANISME** : hypothèse cognitive, preuves favorables/défavorables, conditions et limites, tests de transfert.
+- **Fiche OBSERVATION** : tâche, réponse, procédure visible, aides, explications alternatives, degré d'incertitude.
+- **Fiche INTERVENTION** : question, population, comparateur, durée, effets mesurés, maintien, transférabilité ; ne pas transformer directement en prescription.
+- **Fiche DÉCISION** : accepté comme fait documentaire, hypothèse à tester, non démontré ou réfuté dans une condition précise.
+
+### Risques méthodologiques à prévenir
+
+1. **Confusion acquisition/fluence/transfert/maintien** : quatre construits et critères distincts.
+2. **Effet du support** : ne pas attribuer à l'ordinateur ce qui relève du contenu, du guidage ou de la dose.
+3. **Erreur unique** : ne pas inférer une cause individuelle stable d'un seul item.
+4. **Âge et programme** : ne pas extrapoler une étude maternelle ou américaine directement à un attendu français CE1.
+5. **Recherche de confirmation** : inclure études sans effet détecté, effets adverses, interventions multicomposantes et échecs de transfert.
+6. **Dépendance des synthèses** : repérer études primaires communes aux méta-analyses avant toute comparaison quantitative.
+
+### Sources candidates pour vérification primaire au lot 07
+
+- WWC 2021, recommandations et études sous-jacentes : https://ies.ed.gov/ncee/wwc/PracticeGuide/26
+- Osana et al. 2017, interactions guidage/ordre : https://doi.org/10.3390/educsci7020052
+- Fuchs et al. 2008, transfert calcul/estimation : https://pmc.ncbi.nlm.nih.gov/articles/PMC3121170/
+- Pellegrini et al. 2021, programmes mathématiques élémentaires : https://doi.org/10.1177/2332858420986211
+- Skene et al. 2022, jeu guidé : https://doi.org/10.1111/cdev.13730
+- Banerjee et al. 2025, transfert contexte appliqué/scolaire : https://doi.org/10.1038/s41586-024-08502-w
+
+### Verdict
+
+- **DONE** : taxonomie méthodologique des mécanismes et des critères de preuve ; structure de fiches réutilisables.
+- **OPEN** : lecture indépendante de travaux expérimentaux sur espacement, rappel actif, feedback, transfert et maintien en mathématiques GS–CP–CE1.
+- **NO CLAIM** : aucune efficacité quantitative nouvelle, aucune règle de progression et aucun dosage recommandé sur cette seule base.
+- **SCOPE** : recherche scientifique/pédagogique uniquement, aucun changement WORK/ICARIS ou moteur applicatif.
+
+RR-002 reste IN_PROGRESS.
