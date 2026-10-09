@@ -34,3 +34,16 @@ Faire expliciter les relations dizaines/unités ; relier représentation, langag
 
 ## Historique
 - 2026-10-08 — CREATE : synthèse provisoire, sans validation d'efficacité ni validation humaine.
+
+
+## Traçabilité et portée — revue 2026-10-09
+
+| Source | Question examinée | Conclusion autorisée | Non autorisé |
+|---|---|---|---|
+| V02 Osana et al. (2017), DOI 10.3390/educsci7020052 | Guidage et séquence matériel/symboles, n=87 | Effets conditionnels dans le dispositif étudié | Ordre optimal universel |
+| V04 Fuchs et al., [texte intégral](https://pmc.ncbi.nlm.nih.gov/articles/PMC3121170/) | Intervention multicomposante et calcul procédural | Résultat non significatif sur le critère concerné | Inefficacité générale des remédiations |
+| V06 Ho & Cheng (1997), [notice PubMed](https://pubmed.ncbi.nlm.nih.gov/9356185/) | Valeur positionnelle et addition | Résultat favorable mentionné au résumé | Taille d'effet, suivi, effectif et généralisation non vérifiés |
+| V07 Fuson & Briars (1990) | Blocs en base dix, symboles et calcul | Progrès descriptifs, populations et mesures distinctes | Effet causal isolé des blocs ; pourcentages sans relecture des tableaux |
+| P15 WWC (2021), [guide officiel](https://ies.ed.gov/ncee/wwc/PracticeGuide/26) | Recommandations générales en mathématiques | Orientations contextualisées selon le guide | Preuve directe pour un outil ou une remédiation individualisée de ce dossier |
+
+**Statuts de revue :** nous pouvons vérifier l'adéquation entre une affirmation et les preuves publiées, non homologuer une étude, certifier une méthode ou attribuer une validité empirique à nos tâches. La décision humaine approuve la qualité documentaire et le respect des réserves, pas une efficacité scientifique nouvelle.
