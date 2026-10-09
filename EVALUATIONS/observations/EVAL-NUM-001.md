@@ -4,9 +4,11 @@
 - Question : comment observer trois dimensions sans inférer une cause à partir d'une seule réponse ?
 - Maturité documentaire : NEEDS_REVIEW (version provisoire)
 - Porte de publication : READY_FOR_HUMAN_REVIEW (validation humaine non acquise)
-- Date : 2026-10-08
+- Date de création : 2026-10-08
+- Dernière consolidation documentaire : 2026-10-09
 - Périmètre : école primaire CP–CM2 ; adéquation à la compétence avant la classe
 - Origine : [RR-001 regroupement NUM-02/03/06](../../recherches/RR-001/REGROUPEMENT-NUMERATION.md) et [bibliographie](../../recherches/RR-001/BIBLIOGRAPHIE.md)
+- Consolidation : [RR-002 — protocole et preuves](../../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) ; analyse du corpus existant, sans nouvelle collecte.
 - Verdict scientifique : NEED_MORE_INFORMATION sur validité, fidélité et pouvoir diagnostique de cette proposition.
 
 ## Résumé accessible
@@ -222,3 +224,25 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 **Modalités :** CE2 oral, huit items à 20 secondes chacun selon le guide consulté ; CM1 lecture autonome, quatre minutes pour huit items en passation standard. La version adaptée peut différer. Les non-réponses doivent être séparées des erreurs.
 
 **Suite hors collecte :** revue humaine du relevé et des passages officiels ; classement prudent de chaque distracteur en hypothèse spécifique plausible / ambiguë / non interprétable ; confrontation des conclusions des trois fiches NUM-DEC-001, EVAL-NUM-001 et PED-NUM-001. Réouverture REOPEN uniquement en présence d'une contradiction, d'un nouvel usage ou d'une lacune bloquante. **Validation empirique : NON ÉTABLIE.**
+
+## Consolidation des interprétations de mesure — RR-002, 2026-10-09
+
+Cette passe analyse les documents déjà enregistrés. Elle ne réadministre aucun test et n'établit aucune propriété psychométrique nouvelle.
+
+| Observation | Ce qu'elle renseigne | Inférence à éviter |
+| --- | --- | --- |
+| Récitation de la suite | Chaîne verbale, selon la tâche | Dénombrement ou cardinalité automatiquement acquis |
+| Réponse « combien ? » après comptage | Réponse au total dans cette condition | Score équivalent à la production « donne N » |
+| Production d'une collection demandée | Construction d'une quantité selon consigne et cotation | Seuil standard transférable sans validation |
+| Décomposition canonique/non canonique | Reconnaissance ou production d'une équivalence | Preuve de réversibilité générale sur un item |
+| Calcul réussi et procédure rapportée | Exactitude et stratégie observée, distinctes | Échange nécessairement utilisé |
+| Résolution d'un problème | Texte, représentation et calcul, selon la mesure | Bénéfice automatiquement expliqué par le calcul |
+| Nouvelle réussite différée | Maintien dans les conditions du retest | Transfert établi si les items restent identiques |
+
+Provenance : RR-002 lot 04 (Jensen/Osana), lot 05 (cadre de transfert proposé), lot 12 (mesures Ramani), lot 13 (cardinalité, problèmes, revue Give-N). Niveaux résumé/extraits/texte intégral ciblé conservés dans le dossier. Ramani ne mesure pas directement la cardinalité ; Fuchs 2021 des lots 12 et 13 est une seule étude.
+
+Les observations cardinales et les problèmes dépassent l'objet NUM-DEC de cette fiche : cette table précise les frontières et ne crée pas un instrument élargi. Pour chaque observation, consigner cible, consigne, support, aide, réponse, procédure et moment de mesure. Cette grille est une proposition du projet.
+
+La cohérence interne, l'ajustement factoriel, l'étalonnage d'une batterie et les seuils institutionnels restent des propriétés distinctes. Les chiffres DEPP historiquement relevés et marqués À RECONTRÔLER ne sont pas promus par cette consolidation. Les items originaux restent non étalonnés, sans seuil de maîtrise ni pouvoir diagnostique établi.
+
+- 2026-10-09 — ENRICH / LINK : rapprochement des dimensions de mesure et des limites RR-002 ; NEEDS_REVIEW maintenu.
