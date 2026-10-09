@@ -135,3 +135,7 @@ Prochain examen prioritaire : qualité documentaire des trois fiches, avec contr
 ## Contrôle ciblé DEPP 2025 — 2026-10-09
 
 EVAL-NUM-001 : huit questions et 24 distracteurs CM1 contrôlés dans le cahier standard, exercice 18 pp.36–38 ; structures CE2 contrôlées dans le guide, exercice 7 p.24 ; passations standard confirmées. Matrice structurale corrigée (ordre des unités, milliers CM1, conversions). Contrôle exhaustif des 24 choix CE2 standard et autres seuils non acquis. Interprétations des distracteurs provisoires ; NEEDS_REVIEW maintenu. Aucune nouvelle fiche ni activité validée.
+
+## Contrôle CE2 terminé — 2026-10-09
+
+EVAL-NUM-001 : inventaire des huit items et 24 distracteurs confirmé dans le cahier standard 25CE2E, exercice 7 pp.17–19. Avec CM1, les deux relevés (16 items, 48 distracteurs) sont contrôlés ; aucun diagnostic ou sous-score validé. Ancienne réserve de transcription résolue pour ces exercices seulement. STOP_PROVISIONAL ; NEEDS_REVIEW maintenu. Revue des fiches comme prochaine étape.
