@@ -84,3 +84,7 @@ Le document [REGROUPEMENT-NUMERATION.md](../recherches/RR-001/REGROUPEMENT-NUMER
 ## Audit des méthodes d'évaluation — 2026-10-09
 
 La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) a été **enrichie**, sans nouveau doublon, d'une comparaison de cinq familles d'instruments : Lenz & Wittmann 2026, modèle turc Rasch 2021, Jensen et al. 2024, ZAREKI-R et évaluations DEPP. Sources, métriques publiées, limites de transfert, droits et vérifications restantes sont distingués. **Statut inchangé : NEEDS_REVIEW ; validation empirique des tâches propres au projet : NON ÉTABLIE.** Décision de recherche : CONTINUE_TARGETED ; décision documentaire : ENRICH.
+
+## Consolidation de l'audit DEPP — 2026-10-09
+
+La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) inclut désormais un complément documentaire sur cinq exercices des guides de scores DEPP CE1 et CM1 2025, rapprochés des dimensions NUM-02, NUM-03 et NUM-06. Les seuils sont propres aux exercices officiels ; les items exacts restent à contrôler dans les cahiers et aucun transfert vers ICARIS n'est autorisé. Statut : NEEDS_REVIEW ; décision : ENRICH ; validation empirique : NON ÉTABLIE.
