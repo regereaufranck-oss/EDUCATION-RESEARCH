@@ -491,3 +491,63 @@ RR-002 reste IN_PROGRESS.
 5. Documenter les éventuels chevauchements entre études primaires et méta-analyses ; ne pas compter deux fois une même preuve.
 
 **Verdict :** CONTRADICTION_AUDIT_PARTIAL ; MATRIX_CREATED ; RR-002 IN_PROGRESS. Aucune autorisation d'intégration ou de modification du moteur ICARIS.
+
+## Lot 09 — Audit de robustesse et clôture documentaire du cycle de lots (2026-10-09)
+
+### Périmètre, méthode et traçabilité
+
+Vérification directe le 9 octobre 2026 de trois ressources : notice ERIC de la méta-analyse publiée Murray et al. (2025), revue WWC de l'essai Rohrer et al. (2020), notice NBER du document de travail Kremer et al. (version révisée février 2026). Un PDF intégral de Murray et al. a été repéré, mais l'ouverture par l'outil de lecture a échoué (HTTP 502) : **ne pas prétendre à un audit de ses tableaux, intervalles exacts, modèles ou annexes**. La vérification porte sur les notices et la fiche WWC, pas sur une méta-analyse refaite.
+
+### R09-01 — Murray, Horner & Göbel (2025) : taille de corpus et incertitude
+
+- DOI : https://doi.org/10.1007/s10648-025-10035-1 ; notice ERIC https://eric.ed.gov/?id=EJ1478558 ; manuscrit repéré https://www.aidanhorner.org/papers/Murrayetal_EdPsychReview_2025.pdf .
+- Espacement vs pratique massée : **27 études, 53 tailles d'effet, g = 0,28** ; isolé : 10 études, 27 tailles d'effet, g = 0,43 ; intégré au cours : 17 études, 26 tailles d'effet, g = 0,24.
+- Rappel actif vs réétude : **7 études, 32 tailles d'effet, g = 0,18** ; **IC à 95 % incluant zéro**, donc absence de conclusion robuste de bénéfice systématique. L'intervalle numérique exact n'a pas été récupéré.
+- Les **53 tailles d'effet ne sont pas 53 études indépendantes** ; la gestion statistique de leur dépendance doit être vérifiée dans le texte intégral.
+- Les sous-groupes « isolé » et « intégré au cours » ne constituent pas une comparaison randomisée de ces deux contextes ; aucune causalité de la différence entre g=0,43 et g=0,24 n'est inférée.
+- **Statut : ABSTRACT_VERIFIED ; EXACT_CI, HETEROGENEITY, PUBLICATION_BIAS, AGE_MODERATORS, MODEL_SPECIFICATION = NOT_VERIFIED.**
+
+### R09-02 — Rohrer et al. (2020) : contrôle indépendant WWC
+
+- Fiche officielle : https://ies.ed.gov/ncee/wwc/Study/88770 ; DOI https://doi.org/10.1037/edu0000367 .
+- WWC : essai randomisé par grappes ; **787 élèves de grade 7**, 54 classes dans l'étude originale ; satisfait les standards WWC **sans réserve**, avec faible attrition au niveau des grappes et faible non-réponse individuelle.
+- Contraste principal selon la fiche WWC : **62,17 vs 37,60**, mesure « author-developed 7th grade math test », délai de **43 jours** ; le test est conçu par les auteurs.
+- Les groupes ont travaillé les **mêmes problèmes**, mais en ordre entrelacé versus bloqué, sur huit feuilles pendant 103 jours, avec une révision commune. C'est une comparaison plus ciblée que des interventions pédagogiques entièrement différentes.
+- **Limite :** test spécifique et niveau collège ; aucun effet sur compréhension des échanges décimaux en CP ou CE1 n'est démontré. Ne pas confondre indice d'amélioration WWC (31 points de rang percentile attendus) avec différence de points de score ou taille d'effet.
+- **Statut : WWC_METHOD_AND_FINDINGS_VERIFIED ; exact confidence intervals and subgroup moderators NOT_VERIFIED.**
+
+### R09-03 — Kremer et al. : durée et généralisation
+
+- Source primaire de diffusion : https://www.nber.org/papers/w31853 ; DOI https://doi.org/10.3386/w31853 ; document de travail paru novembre 2023, **révisé février 2026** selon NBER.
+- Expérience de terrain d'un an dans des écoles primaires nigérianes : **+0,28 écart-type au test à court terme**, **aucun effet détecté sur l'évaluation cumulative de fin d'année** ; bénéfices concentrés chez les élèves initialement moins performants.
+- « Aucun effet détecté » ne prouve pas l'absence d'effet exact ; vérifier puissance, précision et mesure avant de conclure.
+- Ne pas comparer directement ce +0,28 à **g=0,28** de Murray : mécanismes, mesures, plans, unités et populations distincts.
+- **Statut : NBER_ABSTRACT_AND_VERSION_VERIFIED ; RANDOMIZATION_DETAILS, ATTRITION, CI, TEST_VALIDITY = NOT_VERIFIED.**
+
+### R09-04 — Contrôle de cohérence du corpus
+
+- **Versioning :** les chiffres du résumé publié Murray 2025 (27 études / 53 effets ; 7 / 32) priment sur les chiffres d'un préprint différent. Ne pas mélanger les versions.
+- **Double comptage :** la revue WWC du même essai Rohrer n'est pas une deuxième expérience indépendante. Une méta-analyse et ses études primaires ne sont pas deux confirmations indépendantes si elles se recouvrent.
+- **Comparabilité :** l'espacement, le rappel actif et l'entrelacement ne sont pas une seule intervention ; les effets moyens ne forment pas un classement direct d'efficacité.
+- **Causalité :** les études randomisées autorisent une inférence causale pour leur contraste et leur population ; les synthèses observationnelles de feedback n'autorisent pas cette inférence.
+- **Transférabilité :** distinguer solidité interne de l'étude, proximité des tâches et adéquation au programme français GS/CP/CE1.
+
+### Matrice de robustesse — décision scientifique provisoire
+
+| Mécanisme | Preuve contrôlée | Réserve principale | Transfert ICARIS | Verdict |
+| --- | --- | --- | --- | --- |
+| Espacement | Méta-analyse publiée 2025, effet moyen positif | IC exact, hétérogénéité, âges et modérateurs non extraits | À tester par tâche et âge | APPUI GENERAL, NON-PRESCRIPTIF |
+| Rappel actif | Méta-analyse publiée 2025, IC englobant zéro ; étude primaire ciblée favorable | Petit corpus, tâches hétérogènes | Ne pas imposer comme règle de maîtrise conceptuelle | INCERTAIN |
+| Entrelacement | Essai randomisé WWC sans réserve, effet positif sur test spécifique | Grade 7 ; contraste nigérian sans gain final | Aucune taille d'effet directement transférable | CONTEXTUEL |
+| Feedback | Étude observationnelle + synthèse qualitative (lot 07) | Pas d'essai causal spécifique CP/CE1 vérifié | Règles de feedback non établies | OUVERT |
+| Représentations | Programme français, Osana, Houdement/Tempier | Efficacité dépend des conditions ; études différentes | Cadre conceptuel utilisable, séquence non fixée | CONDITIONNEL |
+| Transfert et maintien | Plusieurs dissociations immédiat/différé et entre critères | Protocoles, horizons et mesures très différents | Nécessite des mesures distinctes | PRIORITÉ MÉTHODOLOGIQUE |
+
+### Sauvegarde et reprise
+
+- Le présent document est la **sauvegarde scientifique des lots RR-002 01 à 09** sur la branche par défaut d'EDUCATION-RESEARCH ; chaque lot conserve ses limites et références.
+- **Fin de lot 09 ≠ clôture scientifique de RR-002**. État : IN_PROGRESS, avec cycle de recherche consolidé et points de reprise explicites.
+- Reprise recommandée : (1) extraire texte intégral et annexes de Murray 2025 ; (2) auditer IC, biais, âges, dépendance des effets ; (3) vérifier version et méthodologie NBER ; (4) revue par sous-domaines mathématiques GS/CP/CE1 ; (5) revue humaine avant toute promotion de règle.
+- Aucun changement des dépôts WORK ou ICARIS, aucun moteur ni activité modifiés.
+
+**Statut de sauvegarde : LOT_09_RECORDED ; RR-002_IN_PROGRESS ; APPLICATION_UNCHANGED.**
