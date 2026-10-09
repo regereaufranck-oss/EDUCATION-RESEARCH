@@ -366,3 +366,73 @@ Pour chaque mécanisme, rechercher et consigner : définition opérationnelle ; 
 - **SCOPE** : recherche scientifique/pédagogique uniquement, aucun changement WORK/ICARIS ou moteur applicatif.
 
 RR-002 reste IN_PROGRESS.
+
+## Lot 07 — Vérification primaire : espacement, récupération, entrelacement et feedback (2026-10-09)
+
+**Méthode :** consultation de résumés originaux (éditeurs, portail universitaire, ERIC et WWC), et non lecture exhaustive de tous les textes intégraux. Conserver cette granularité dans toute citation secondaire. L'objectif est d'évaluer des mécanismes et leurs conditions, pas d'inférer une recette universelle.
+
+### RR02-M01 — Récupération en mémoire de faits multiplicatifs
+
+- Ophuis-Cox, Catrysse & Camp (2023), *Applied Cognitive Psychology*, DOI https://doi.org/10.1002/acp.4141 ; source éditeur https://onlinelibrary.wiley.com/doi/10.1002/acp.4141 .
+- 48 élèves de deuxième année primaire ; comparaison intra-sujets de récupération via cartes et réétude par récitation, avec deux jeux de tables contrebalancés ; trois séances de pratique espacées par stratégie ; mesures à cinq minutes et une semaine.
+- Le résumé rapporte un gain supérieur en fluidité de rappel des faits multiplicatifs dans la condition récupération aux deux échéances.
+- **Ne démontre pas** un bénéfice sur compréhension de la valeur positionnelle, échanges décimaux ou transfert lointain.
+- Statut : PRIMARY_ABSTRACT_CHECKED ; statistiques, protocole détaillé et suivi > 1 semaine à auditer.
+
+### RR02-M02 — Espacement en mathématiques selon niveau
+
+- Barzagar Nazari & Ebersbach (2019), *Applied Cognitive Psychology*, DOI https://doi.org/10.1002/acp.3485 ; https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3485 .
+- N=213, troisième et septième années ; trois séries de pratique en une journée (massé) versus une série par jour durant trois jours consécutifs (distribué), puis tests à une et six semaines.
+- Le résumé indique avantage distribué en septième année aux deux échéances ; en troisième année, avantage étayé uniquement à une semaine.
+- **Ne démontre pas** un intervalle universel optimal, ni un effet robuste de six semaines pour la troisième année.
+- Statut : PRIMARY_ABSTRACT_CHECKED ; répartition par niveau et effets exacts à auditer.
+
+### RR02-M03 — Entrelacement de stratégies de soustraction au primaire
+
+- Étude allemande de troisième année, *Learning and Instruction* (2021), DOI https://doi.org/10.1016/j.learninstruc.2020.101354 ; source éditeur https://doi.org/10.1016/J.LEARNINSTRUC.2020.101354 .
+- 236 élèves, assignés à pratique entrelacée ou bloquée ; 14 leçons portant sur stratégies fondées sur les nombres et algorithme écrit.
+- Le résumé rapporte meilleure exactitude et plus grande adaptation des stratégies dans le groupe entrelacé, l'effet sur exactitude étant médié par l'adaptation stratégique.
+- **Limite importante :** les groupes diffèrent aussi dans la nature des comparaisons de stratégies suscitées ; ne pas isoler un effet pur de l'ordre des exercices.
+- Statut : PRIMARY_ABSTRACT_CHECKED ; effectifs, taille d'effet, fidélité et maintien à vérifier.
+
+### RR02-M04 — Entrelacement : essai plus large, mais élèves plus âgés
+
+- Rohrer, Dedrick, Hartwig & Cheung (2020), *Journal of Educational Psychology*, DOI https://doi.org/10.1037/edu0000367 ; notice https://eric.ed.gov/?id=EJ1237752 ; évaluation WWC https://ies.ed.gov/ncee/wwc/Study/88770 .
+- Essai préenregistré randomisé par 54 classes de septième année sur quatre mois ; test non annoncé un mois après une révision commune.
+- Résumé original : moyenne 61 % entrelacé contre 38 % bloqué, d=0,83. WWC : 787 élèves, essai satisfaisant les standards sans réserve selon sa revue de 2020.
+- **Limite de transfert :** grade 7 américain, contenus et maturité distincts de GS–CP–CE1 ; ne pas transférer d=0,83 comme estimation d'effet en CP.
+- Statut : PRIMARY_ABSTRACT_AND_WWC_REVIEW_CHECKED ; données d'hétérogénéité à auditer.
+
+### RR02-M05 — Feedback et raisonnement : étude observationnelle
+
+- *Learning and Instruction* 86 (2023), DOI https://doi.org/10.1016/j.learninstruc.2023.101777 ; https://www.sciencedirect.com/science/article/pii/S0959475223000464 .
+- 804 élèves de 44 classes de cinquième et sixième années primaires ; analyse de dialogues filmés, feedback perçu et questionnaires.
+- Le résumé rapporte une association entre feedback formatif perçu et raisonnement mathématique, et entre qualité des dialogues et sentiment d'efficacité pour expliquer, **sans effet causal isolé démontré**.
+- **Limite :** ne démontre ni forme optimale de feedback numérique ni efficacité pour la numération CP.
+- Statut : PRIMARY_ABSTRACT_CHECKED ; analyses de modèles et contrôles à auditer.
+
+### RR02-M06 — Feedback : synthèse qualitative
+
+- Santos (2022), *Revemop*, DOI https://doi.org/10.33532/revemop.e202210 ; https://periodicos.ufop.br/revemop/en/article/view/5276 .
+- Méta-analyse **qualitative** de 18 études portugaises sur feedback en mathématiques ; modèle de quatre composantes : propriétés du feedback, caractéristiques des élèves, contexte, défis enseignants.
+- **Ne pas présenter** comme une méta-analyse quantitative avec effet moyen.
+- Statut : ORIGINAL_ABSTRACT_CHECKED ; critères et études incluses à auditer.
+
+### Matrice de décision documentaire
+
+| Mécanisme | Résultat appuyé par la source consultée | Ce qui reste non démontré pour ICARIS |
+| --- | --- | --- |
+| Rappel actif | Fluidité de récupération de faits multiplicatifs à une semaine, dans une petite étude primaire | Échanges décimaux, compréhension conceptuelle, calendrier optimal |
+| Espacement | Effet dépendant du niveau et de l'horizon de test dans une étude scolaire | Généralisation GS–CP–CE1, fréquence/dose universelle |
+| Entrelacement | Résultats favorables sur choix de stratégies et tests mathématiques dans deux études de niveaux différents | Effet indépendant de la comparaison des stratégies ; ordre idéal pour jeunes élèves |
+| Feedback | Associations et cadre conceptuel multidimensionnel | Forme causale optimale du feedback d'application et effets de maintien |
+
+### Conséquences pour la recherche
+
+1. Séparer **faits mémorisés** (fluence) et **relations conceptuelles** (valeur positionnelle, conservation, échange).
+2. Considérer l'espacement comme un paramètre à étudier selon l'âge, la compétence, la durée et le critère, non comme un rythme prescrit.
+3. Tester le choix adaptatif entre stratégies avec mesures dédiées ; ne pas conclure sur la seule exactitude.
+4. Pour le feedback, distinguer correction, explication, indice, guidage et interaction ; comparer les conditions avant de promouvoir une pratique.
+5. Préparer une revue des études à effets nuls ou contradictoires sur ces mêmes mécanismes pour limiter le biais de confirmation.
+
+**Verdict lot 07 :** PRIMARY_ABSTRACT_CHECKED sur six références ; TABLE_LEVEL_PENDING ; TRANSFER_TO_ICARIS_NOT_ESTABLISHED. Aucune activité, règle de moteur ou seuil autorisé. RR-002 reste IN_PROGRESS.
