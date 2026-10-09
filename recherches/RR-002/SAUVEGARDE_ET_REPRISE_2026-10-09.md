@@ -4,7 +4,7 @@
 
 - Dossier : [PROTOCOLE_ET_PREUVES.md](./PROTOCOLE_ET_PREUVES.md)
 - Dépôt : EDUCATION-RESEARCH, branche par défaut
-- Couverture : lots 01 à 12, vérifiés présents le 2026-10-09
+- Couverture : lots 01 à 13, vérifiés présents le 2026-10-09
 - État : **RR-002 IN_PROGRESS** ; les lots 10 à 12 sont enregistrés, pas de clôture scientifique.
 
 ## Ce qui est capitalisé
@@ -56,3 +56,9 @@ Ce fichier est un index de reprise, **pas** une nouvelle preuve scientifique. Co
 Recherche ciblée par compétence : Ramani/Siegler (petits nombres), Fuchs 2013 (calcul et formes de pratique), Fuchs 2021 (problèmes et langage), Miller 2025 (dosage). Niveaux de lecture distincts, limites et divergences conservés dans le dossier de preuves.
 
 Priorité suivante : dénombrement/cardinalité et audit intégral des problèmes verbaux ; ne pas confondre récitation, dénombrement, calcul et compréhension. RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; aucune validation des activités ICARIS.
+
+## Delta lot 13 — consolidation et sauvegarde
+
+Cardinalité, tâches combien/Give-N, relations parties–tout, ROOTS et problèmes verbaux : résultats et limites consolidés. Fuchs 2021 enrichit R12-03, sans double comptage. Étude Croset 2024 en contexte français ajoutée ; absence d'effet détecté sur addition conservée. Revue Give-N 2025 comme appui méthodologique, non essai supplémentaire.
+
+Priorité : IC et textes intégraux Croset/Fuchs, validité des tâches cardinales et convergence indépendante. STOP_PROVISIONAL pour cadrage ; RR-002 IN_PROGRESS / HUMAN_REVIEW_REQUIRED. Autorisation utilisateur : « consolide et ensuite enregistre », 2026-10-09.
