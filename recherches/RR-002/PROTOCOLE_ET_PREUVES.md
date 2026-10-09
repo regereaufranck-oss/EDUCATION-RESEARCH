@@ -816,3 +816,124 @@ Prochaine passe : récupérer textes intégraux et IC de Croset/Fuchs ; auditer 
 - RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; les trois fiches restent NEEDS_REVIEW.
 
 Prochaine analyse autorisée dans le corpus existant : registre des affirmations par compétence, avec population, mesure, contraste, horizon et indépendance. Une nouvelle recherche ne sera utile que si une lacune précise change la conclusion ou l'usage. Application, plugin et WORK inchangés.
+
+## Lot 15 — Analyse par compétence : ce que les mesures permettent de conclure (2026-10-09)
+
+**Nature :** analyse transversale des extractions déjà présentes dans RR-002 ; aucune nouvelle source ni lecture primaire dans cette passe. Les conclusions héritent du niveau d'accès de chaque extraction, sans le promouvoir. Objectif : distinguer couverture documentaire, utilité pour le référentiel et preuve d'efficacité.
+
+### Matrice affirmation–population–mesure–usage
+
+| ID d'analyse | Cible / affirmation bornée | Preuve capitalisée et population | Mesure / résultat documenté | Usage et réserve |
+| --- | --- | --- | --- | --- |
+| A15-01 | Reconnaissance des chiffres et récitation sont des tâches distinctes | R12-01 Ramani/Siegler, préscolaire américain, 124 participants complets | Chiffres, comparaison, récitation, ligne numérique ; post et suivi neuf semaines | Distinguer les critères ; ni cardinalité directement mesurée ni effet sur les dizaines |
+| A15-02 | « Combien ? » et « donne N » ne sont pas interchangeables | R13-03, extraits éditeur ; R13-METH, résumé/introduction | Différences de tâches et variations d'administration/cotation | Séparer consignes et résultats ; effectifs/statistiques complets non extraits, aucun seuil repris |
+| A15-03 | Expliciter le total après comptage est une pratique candidate | R13-01, n=49, 2–5 ans, résumé primaire | Contraste pédagogique favorable au différé et sur tâche de transfert selon résumé | Piste bornée ; précision, délai et attrition non contrôlés |
+| A15-04 | Reconnaissance de quantités et cardinalité peuvent être liées | R13-02, n=106, moyenne 4 ans 8 mois, résumé primaire | Effets directs/indirects selon les conditions | Association de médiation rapportée ; mécanisme nécessaire non établi |
+| A15-05 | Relations parties–tout et calcul direct doivent être distingués | R13-05 Kullberg, n=103, préscolaire suédois ; lecture intégrale ciblée | Huit items repris à trois temps ; maintien différent selon les tâches | Conserver résultats par tâche ; intervention avec accompagnement enseignant, assignation aléatoire non établie |
+| A15-06 | Position et regroupement présentent des profils différents | Lot 04 Jensen, n=100, troisième année allemande | Sept tâches de transcription ; profils et codes d'erreur partiellement chevauchants | Grille descriptive ; ni indépendance universelle ni diagnostic |
+| A15-07 | Les écritures non canoniques ont une assise scolaire CE1 | Lot 04, programme français, cycle 2 pp. 10–11 | Exemples officiels en unités de numération | Attendu curriculaire ; ne démontre pas l'efficacité d'une méthode ou un niveau individuel |
+| A15-08 | Calcul exact, fluence et connaissances numériques ne forment pas un critère unique | R12-02 Fuchs 2013, première année à risque ; résumé/passages indexés | Effets différenciés selon les résultats et formes de pratique | Décomposer les objectifs ; ne pas attribuer les résultats à un chronomètre isolé |
+| A15-09 | Entraîner le calcul ne garantit pas le transfert aux problèmes | R12-03/R13-08 Fuchs 2021, n=391 ; résumé primaire | Connaissances numériques : avantage arithmétique, pas d'avantage détecté sur problèmes ; interventions spécifiques aux problèmes favorables | Une seule étude ; dissociation compatible avec des compétences distinctes, sans preuve d'absence exacte de transfert |
+| A15-10 | La proximité française ne suffit pas à établir tous les transferts | R13-07 Croset, n=101, GS française ; résumé primaire | Bénéfice rapporté en problèmes de transformation, pas d'effet détecté sur addition | Pertinence de contexte accrue ; mesures, assignation, IC et maintien restent ouverts |
+
+### Relations conceptuelles : décisions provisoires
+
+- Récitation → dénombrement : **ne pas confondre les mesures** ; nécessité d'une relation causale ou ordre d'acquisition non établie par Ramani.
+- Reconnaissance de quantités → cardinalité : **SOUTIEN_POSSIBLE** ; la médiation O'Rear ne justifie pas un verrou.
+- Parties–tout → calcul : **SOUTIEN_POSSIBLE** ; éviter de convertir les résultats Kullberg en condition nécessaire.
+- C1 position → C2 échange → C3 calcul : trois dimensions à relier et observer ; **aucun prérequis bloquant**.
+- Calcul → problèmes : **transfert à observer séparément** ; Fuchs et Croset n'établissent pas une impossibilité générale.
+- Langage ↔ résolution : exigences et intervention langagière à documenter ; aucun diagnostic linguistique par erreur de problème.
+
+### Résultat de l'analyse
+
+Le corpus est provisoirement suffisant pour **définir les dimensions à distinguer et borner les affirmations**. Il ne suffit pas pour construire une hiérarchie obligatoire, des seuils individuels ou un protocole d'intervention optimal. Les études positives de cardinalité apportent des pistes convergentes au niveau du domaine, mais des populations, tâches et comparateurs différents empêchent de les déclarer réplications du même effet.
+
+STOP_PROVISIONAL pour ce cadrage ; ENRICH du dossier. Aucune nouvelle fiche canonique.
+
+## Lot 16 — Interventions, contradictions apparentes et indépendance des preuves (2026-10-09)
+
+**Nature :** rapprochement critique du corpus existant, sans méta-analyse nouvelle ni reconstruction complète des données d'inclusion.
+
+### Comparaisons admissibles et non admissibles
+
+| Objet | Résultats déjà consignés | Explication documentaire de l'écart | Verdict d'usage |
+| --- | --- | --- | --- |
+| Rappel actif | Murray g=0,184, IC incluant zéro ; Yang sous-groupe maths/statistiques g=0,433, IC positif | Périmètres et comparateurs différents ; sous-groupe Yang pas propre au CP | Contradiction directe non établie ; ni efficacité universelle ni inefficacité |
+| Espacement | Murray effet moyen positif ; étude Nazari/Ebersbach dépendante du niveau et de l'horizon ; contre-exemple M08-02 incomplet | Moyenne ≠ bénéfice garanti dans chaque situation ; M08-02 insuffisamment identifié pour comparaison précise | Orientation à considérer ; calendrier optimal inconnu |
+| Entrelacement | Rohrer favorable au différé ; Kremer court terme favorable, cumulatif incertain | Âges, contenus, tests et interventions différents ; Kremer combine ordre et espacement | Pas de réfutation directe ; pas de taille d'effet CP |
+| Matériel et symboles | Osana : effets conditionnels ; Fuson : progrès multicomposants | Contrastes et attribution des composantes diffèrent | Aucun ordre unique ni effet isolé du matériel établi |
+| Doigts et relations numériques | Kullberg et Croset rapportent des bénéfices sur certaines tâches | Dispositifs incluent activités, guidage et/ou accompagnement | Support candidat ; mécanisme causal des doigts non isolé |
+| Pratique rapide | Fuchs 2013 : avantages sur certains critères | Intervention associe connaissances, stratégies et correction | Pas de justification d'une contrainte de vitesse générale |
+| Taille du groupe et dosage | ROOTS : variation d'impact non détectée entre deux/cinq ; Miller : associations de modérateurs | Comparaison randomisée interne versus comparaison entre études | Pas de contradiction établie ; optimum individuel non inféré |
+| Feedback | Observation de dialogues et synthèse qualitative dans lot 07 | Pas de contraste causal numérique CP directement contrôlé | Cadre descriptif ; efficacité précise ouverte |
+
+**Point de contrôle :** un IC englobant zéro ne démontre pas l'équivalence. Une différence entre deux effets publiés n'est pas elle-même une différence statistiquement établie. Une absence d'effet détecté entre groupes de taille différente ne prouve pas qu'ils sont interchangeables dans tous les usages.
+
+### Registre minimal des recouvrements
+
+| Référence / groupe | Apparitions ou liens | État d'indépendance |
+| --- | --- | --- |
+| Fuchs 2021, DOI 10.1037/edu0000467 | R12-03 et R13-08 | Doublon documentaire confirmé : une étude enrichie |
+| Rohrer 2020, DOI 10.1037/edu0000367 | Lots 07–09 et revue WWC | Une étude ; la revue WWC est un contrôle, pas un second essai |
+| Murray 2025, DOI 10.1007/s10648-025-10035-1 | Notices, article et chapitre de thèse ; lots 08–11 | Une synthèse ; reproduction textuelle pas confirmation indépendante |
+| Kremer, NBER 31853 | Notices NBER/SSRN et PDF auteurs | Même projet de travail ; identité des versions non réconciliée, aucun cumul |
+| Jensen 2024 | RR-001 V01/P24, RR-002, EVAL-NUM-001 | Même publication ; plusieurs usages documentaires |
+| Fuchs 2013 / Miller 2025 | Étude primaire citée dans la synthèse | Inclusion exacte/effets communs non vérifiés |
+| ROOTS / Miller 2025 | Essai et méta-analyse de domaine voisin | Recouvrement possible non vérifié |
+| Ophuis-Cox / Murray ; Murray / Yang | Étude et synthèses de récupération | Recouvrement non reconstruit ; présence/absence non déduite d'une recherche de nom |
+| Give-N 2025 / études cardinales | Revue méthodologique et études primaires | Inclusion précise non auditée ; revue utilisée pour questions de mesure, pas confirmation indépendante d'efficacité |
+
+**Décision :** aucun total de « preuves indépendantes », aucun total global de participants ni effet global calculé. Les nombres de lots, entrées et tailles d'effet ne représentent pas le nombre d'études indépendantes.
+
+### Conclusion pédagogique bornée
+
+Conserver comme orientations à examiner : enseignement explicite, liens entre représentations, mesures de maintien et transfert, analyse du texte du problème. Leur utilité documentaire est supérieure à la précision disponible pour prescrire une dose, un rythme ou une remédiation individualisée. Ne pas choisir une méthode en classant directement les g de corpus différents.
+
+STOP_PROVISIONAL pour cette comparaison. Les questions d'accès/version restent des lacunes documentaires ; elles ne bloquent pas toutes les distinctions conceptuelles.
+
+## Lot 17 — Qualité des mesures, suffisance et priorisation des lacunes (2026-10-09)
+
+**Nature :** analyse d'usage des extraits RR-002 et des contrôles déjà consignés dans EVAL-NUM-001 ; pas de certification ni d'audit psychométrique complet.
+
+### Séparer les propriétés et les usages
+
+| Élément publié | Ce qu'il peut soutenir | Ce qu'il ne suffit pas à établir |
+| --- | --- | --- |
+| Cohérence interne et modèle factoriel, Lenz/Wittmann, dans EVAL-NUM-001 | Cohérence/structure pour les scores, items et population étudiés | Test-retest, normes françaises, diagnostic ou sensibilité au changement |
+| Difficultés d'items dans un modèle Rasch turc | Examen d'un ordre de difficulté dans cette population | Acquisition individuelle dans cet ordre, invariance française ou prérequis obligatoire |
+| Typologie Jensen | Description de réponses et distinction de principes | Classification clinique ou score individuel normé |
+| Seuils DEPP | Groupes définis pour exercices et usage institutionnels précis | Seuils des items originaux ICARIS |
+| Étalonnage ZAREKI-R annoncé par l'éditeur | Existence de normes de batterie pour un usage professionnel | Validation de notre sous-compétence échanges ; propriétés non extraites du manuel |
+| Réussite au post-test | Performance au critère observé | Maintien, transfert ou compréhension stable |
+| Reprise des mêmes items à distance | Performance différée dans ce format | Généralisation à de nouvelles représentations |
+| Effet d'une intervention composite | Efficacité du contraste étudié, selon la qualité du plan | Efficacité de chacune de ses composantes ou d'une adaptation numérique |
+
+### Lacunes hiérarchisées par décision
+
+| Lacune | Décision susceptible de changer | Priorité et action |
+| --- | --- | --- |
+| Affirmation sans mesure, contraste ou horizon précis | Conclusion réellement admissible | Prioritaire : compléter à partir des extractions existantes ; laisser UNKNOWN si absent |
+| Attribution d'un effet à une composante non isolée | Recommandation de matériel, doigts, vitesse ou ordre | Prioritaire : borner l'affirmation dès maintenant ; nouvelles sources pas nécessaires pour retirer une attribution injustifiée |
+| Recouvrement études/synthèses | Force d'une convergence ou calcul futur | Prioritaire avant toute quantification ; identité DOI déjà exploitable, listes d'inclusion encore ouvertes |
+| Fuchs/Croset : IC, attrition et maintien non extraits | Précision d'une recommandation interventionnelle | Bloquant pour une prescription forte ; pas pour distinguer calcul et problèmes |
+| Mesures cardinales : administration, cotation, précision | Choix d'un outil et interprétation individuelle | Bloquant avant usage formel ou seuil ; cadrage exploratoire possible |
+| Tempier 2016 non réconcilié | Attribution à cette publication | Ne pas citer comme texte vérifié ; appui 2023 disponible avec sa portée |
+| Identité des versions Kremer et divergences Murray | Reproductibilité et chiffres finaux | À traiter avant nouvelle quantification ; orientations provisoires restent bornées |
+| Transposition français, âge, contexte, numérique autonome | Validité d'une activité ICARIS | Bloquant avant promotion applicative ; non résolu par simple adaptation de consigne |
+
+### Suffisance par résultat attendu
+
+- **Définir les objets et distinguer les observations : STOP_PROVISIONAL.** Appui suffisant pour un référentiel provisoire, sans progression obligatoire.
+- **Documenter orientations pédagogiques conditionnelles : STOP_PROVISIONAL.** Conserver populations, tâches et incertitudes.
+- **Comparer précisément l'efficacité de méthodes pour GS–CP–CE1 : insuffisant.** Une comparaison doit partager une question, un critère et un contraste pertinents.
+- **Fixer seuil, dosage, diagnostic ou aiguillage individuel : insuffisant.** Aucun de ces paramètres ne découle du corpus actuel.
+- **Promouvoir une activité originale ICARIS : insuffisant.** La qualité des documents et la validité empirique de l'activité sont des étapes distinctes.
+
+### Bilan et critère d'arrêt du gros lot
+
+Les lots 15–17 livrent dix affirmations par compétence, huit comparaisons pédagogiques, un registre de neuf familles de recouvrement, huit distinctions de mesure et huit lacunes reliées à une décision. Ces décomptes décrivent le travail documentaire, pas la quantité de preuves indépendantes.
+
+Résultat : les conclusions utilisables et les interdictions d'inférence sont explicites. La suite utile est de compléter la traçabilité au niveau des passages manquants disponibles, puis examiner les contenus non encore couverts du corpus. Aucune collecte générale relancée. Une nouvelle recherche ne se justifie qu'avec une décision et une lacune précises.
+
+**Statut : RR-002 IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; fiches NEEDS_REVIEW ; ENRICH / REFINE / LINK ; aucune promotion, modification de plugin, d'application ou de WORK.**
