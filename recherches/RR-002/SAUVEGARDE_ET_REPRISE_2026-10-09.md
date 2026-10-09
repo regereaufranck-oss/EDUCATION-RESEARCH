@@ -4,8 +4,8 @@
 
 - Dossier : [PROTOCOLE_ET_PREUVES.md](./PROTOCOLE_ET_PREUVES.md)
 - Dépôt : EDUCATION-RESEARCH, branche par défaut
-- Couverture : lots 01 à 17, vérifiés présents le 2026-10-09
-- État : **RR-002 IN_PROGRESS** ; les lots 01 à 14 sont enregistrés, pas de clôture scientifique.
+- Couverture : lots 01 à 18, vérifiés présents le 2026-10-09
+- État : **RR-002 IN_PROGRESS** ; les lots 01 à 18 sont enregistrés, pas de clôture scientifique.
 
 ## Ce qui est capitalisé
 
@@ -74,3 +74,9 @@ Aucune nouvelle collecte ni nouvelle lecture primaire. Les trois fiches sont rel
 Lot 15 : dix affirmations bornées par compétence, population, mesure et usage. Lot 16 : huit comparaisons pédagogiques et registre des recouvrements confirmés ou inconnus. Lot 17 : propriétés de mesure, suffisance par usage et lacunes reliées aux décisions. Analyse des documents existants ; aucune nouvelle lecture primaire ni collecte. Résultats détaillés et réserves dans le dossier de preuves.
 
 Reprise : compléter les passages manquants disponibles et examiner les contenus existants non encore couverts. Pas de nouvelle recherche générale. Réouverture ciblée seulement si une lacune change une décision. Aucun effet global ni nombre global de preuves indépendantes calculé ; statuts provisoires inchangés.
+
+## État courant après lot 18 — clôture de passe
+
+Première passe analytique terminée documentairement. Conclusions classées utilisable sous réserves / hypothèse / insuffisamment étayé, puis reportées dans les trois fiches. Traçabilité ciblée et limites d'accès conservées ; audit exhaustif et recouvrement global non réalisés. RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; fiches NEEDS_REVIEW.
+
+**NEXT courant :** revue documentaire des trois fiches et cadrage des objets connexes nécessaires, sans prolonger les lots de synthèse identiques. STOP_PROVISIONAL pour le périmètre étudié ; nouvelle recherche seulement si une lacune change une décision précise. Couverture globale d'ICARIS et des programmes non établie ; aucun changement applicatif.
