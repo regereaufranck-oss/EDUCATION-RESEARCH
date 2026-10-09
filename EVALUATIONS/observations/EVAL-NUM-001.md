@@ -90,3 +90,35 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 **CONTINUE_TARGETED** : (a) récupérer les tableaux complets de l'étude turque, (b) examiner les annexes DEPP concernant la numération et les échanges, (c) rechercher dans les documents accessibles les propriétés des sous-épreuves ZAREKI-R, sans contourner les droits. **STOP_PROVISIONAL** pour la comparaison de ces cinq familles à ce niveau de preuve.
 
 **DOCUMENT_CONSOLIDATION_GATE : ENRICH** cette fiche existante, sans créer de doublon canonique. Les tâches originales de la matrice précédente restent **non étalonnées**. Aucun statut HUMAN_REVIEWED ni validation empirique attribué.
+
+
+## Audit ciblé complémentaire — 2026-10-09 : DEPP, Rasch, ZAREKI-R
+
+**Méthode** : consultation de pages institutionnelles et de l'article éditeur ; accès au PDF intégral du modèle turc non obtenu pendant cette passe. Les résultats ci-dessous distinguent donc ce qui a été directement constaté de ce qui reste à extraire.
+
+### DEPP / éduscol — documentation accessible
+- [Repères CP 2025 — DEPP](https://www.education.gouv.fr/depp/evaluations-2025-reperes-cp-467681) : publication décrivant la méthodologie de conception et de fixation des seuils par compétence ; échantillon national CP 2025 annoncé à 776 000 élèves. La taille de la cohorte nationale n'est **pas** la taille d'un échantillon d'étalonnage indépendant de chaque sous-test.
+- [Repères CE2 2025 — DEPP](https://www.education.gouv.fr/depp/evaluations-2025-reperes-ce2-467893) et [Repères CM1 2025 — DEPP](https://www.education.gouv.fr/depp/evaluations-2025-reperes-cm1-467896) : documents techniques par niveau sur conception et seuils.
+- [Éduscol CE1](https://eduscol.education.gouv.fr/5289/evaluations-des-acquis-et-besoins-des-eleves-au-ce1) et [CM1](https://eduscol.education.gouv.fr/5280/evaluations-des-acquis-et-besoins-des-eleves-au-cm1) : le **guide des scores** indique par exercice consigne, justification didactique, nombre d'items, critères de réussite, seuils et groupes. Cela permet de reconstruire une **matrice officielle exercice × compétence × critère**, à condition de lire les guides eux-mêmes.
+- [Point d'étape CP 2026 — DEPP](https://www.education.gouv.fr/sites/default/files/document/%C3%89ducation%20nationale%20DEPP%20Point%20d%26%23039%3B%C3%A9tape%20CP%20R%C3%A9sultats%20nationaux%202026.pdf-515603.pdf) : les seuils de 2025 ont été repris pour les épreuves inchangées en 2026 ; **ceci n'autorise pas** à reprendre les seuils pour des items différents.
+- **NON CONTRÔLÉ** : coefficients de fidélité par sous-test, erreurs standards, analyses de fonctionnement différentiel, correspondance exacte des exercices « échange » / « valeur positionnelle » dans chaque guide. Ne pas affirmer leur présence ni leur absence sans lire les annexes.
+
+### Modèle Rasch — Sari, Herzog, Olkun & Fritz (2021)
+- [Article original et résumé](https://www.iejme.net/article/validation-of-a-model-of-sustainable-place-value-understanding-in-turkey-11295.html), DOI [10.29333/iejme/11295](https://doi.org/10.29333/iejme/11295).
+- **437 élèves turcs**, grades 2–4 ; collection d'items traduits depuis un modèle allemand de compréhension de la valeur positionnelle en **cinq niveaux hiérarchiques**.
+- Les auteurs rapportent que **la plupart** des difficultés d'items suivent l'ordre prédit, que le niveau hiérarchique prédit les difficultés dans une régression et que les scores présentent des corrélations substantielles avec un autre test turc.
+- **NON EXTRAIT / NON VÉRIFIÉ** : coefficients numériques Rasch (infit/outfit), fiabilité personnes/items, valeurs des corrélations, écarts à l'ordre prévu, fonctionnement différentiel, tables et intervalles. L'accès au PDF complet a échoué lors de cette passe ; **ne pas transformer « la plupart » en « tous »**.
+- Transfert au français, aux nombres 70–99 et à un outil ICARIS : **non démontré**.
+
+### ZAREKI-R — contrôle documentaire éditeur
+- [Notice officielle Pearson](https://www.pearsonclinical.fr/zareki-r-batterie-pour-levaluation-du-traitement-des-nombres-et-du-calcul-chez-lenfant) et [présentation des 12 épreuves](https://www.pearsonclinical.fr/mwdownloads/download/link/id/679).
+- Population annoncée : **6–11 ans**, étalonnage français **250 enfants** en ZEP et hors ZEP, notes par épreuve, composante et globales, durée 40–50 minutes. Les épreuves incluent dictée/lecture de nombres, calcul mental, comparaison et positionnement sur une échelle, sans constituer un sous-test explicitement dédié aux échanges de dizaines dans les informations publiques vérifiées.
+- **NON VÉRIFIÉ** : fidélité par épreuve, sensibilité/spécificité de dépistage, erreur de mesure, répartition exacte de l'échantillon, stabilité temporelle et étalonnage actualisé. Le manuel professionnel n'a pas été consulté.
+- Aucune reproduction d'items, de normes ou de matériel protégé.
+
+### Conséquence pour la matrice de compétences
+- **NUM-02 valeur positionnelle** : rapprocher des exercices DEPP sur nombres et des familles de tâches du modèle développemental, **sans** équivalence psychométrique présumée.
+- **NUM-03 échanges** : vérifier si les items officiels exigent réellement une **décomposition non canonique** ; la simple lecture d'un nombre ne suffit pas.
+- **NUM-06 calcul** : distinguer maîtrise du résultat, stratégie employée et recours à un échange ; un score de calcul mental ne mesure pas exclusivement l'échange.
+
+**Décision scientifique : CONTINUE_TARGETED** pour guides des scores DEPP et tables Rasch ; **STOP_PROVISIONAL** sur les propriétés publiques ZAREKI-R tant que le manuel reste inaccessible. **Décision documentaire : ENRICH**, pas de nouvelle fiche. **Statut : NEEDS_REVIEW ; aucune validation empirique revendiquée.**
