@@ -551,3 +551,96 @@ Vérification directe le 9 octobre 2026 de trois ressources : notice ERIC de la 
 - Aucun changement des dépôts WORK ou ICARIS, aucun moteur ni activité modifiés.
 
 **Statut de sauvegarde : LOT_09_RECORDED ; RR-002_IN_PROGRESS ; APPLICATION_UNCHANGED.**
+
+## Lot 10 — Textes intégraux, précision et limites méthodologiques (2026-10-09)
+
+Nature : CRITICAL_EVIDENCE_APPRAISAL documentaire ciblée ; aucune réanalyse des données ni validation empirique ICARIS. Les réserves des lots précédents sont actualisées uniquement sur les points explicitement vérifiés ci-dessous.
+
+### R10-01 — Murray, Horner & Göbel (2025)
+
+Sources :
+- Article publié : https://doi.org/10.1007/s10648-025-10035-1
+- Texte intégral reproduit dans la thèse de Murray, chapitre 2, avec déclaration de reproduction autorisée par Springer : https://etheses.whiterose.ac.uk/id/eprint/38200/1/Murray_203019759_CorrectedThesisClean.pdf
+- Données et code annoncés : https://osf.io/qtfcu/ ; accès échoué lors de cette passe.
+
+Passages : chapitre 2, méthodes pp. 42–51, résultats pp. 52–64, discussion/conclusion pp. 65–71 ; pagination imprimée de la thèse.
+
+| Contraste | Résultat des sections Résultats | Portée |
+| --- | --- | --- |
+| Espacement / pratique massée | 27 études, 53 effets ; g=0,282 ; IC95 % [0,188 ; 0,376] | Effet moyen positif dans le corpus |
+| Matériel isolé | 10 études, 27 effets ; g=0,427 ; IC95 % [0,179 ; 0,675] | Sous-groupe descriptif ; ne démontre pas un avantage causal du contexte isolé |
+| Intégré au cours | 17 études, 26 effets ; g=0,240 ; IC95 % [0,155 ; 0,324] | Effet moyen positif dans ces conditions |
+| Rappel actif / réétude | 7 études, 32 effets ; g=0,184 ; IC95 % [-0,069 ; 0,436] | Incertitude ; ni bénéfice systématique établi ni inefficacité démontrée |
+
+Contrôles méthodologiques :
+- Modèle correlated hierarchical effects avec estimation robuste de variance ; les effets multiples ne sont pas traités comme autant d'études indépendantes. Corrélation intra-individuelle supposée r=0,5 lorsqu'elle manque.
+- Comparaison isolé/intégré : p=0,0952 ; différence statistiquement non établie.
+- Analyses de modérateurs réduites à des modèles univariés, contrairement au plan multivarié préenregistré, faute d'effectifs suffisants. Résultats exploratoires, aucun facteur optimal démontré.
+- Contrôle Egger : p=0,312 pour isolé, p=0,025 pour intégré au cours. L'absence de signal n'est pas preuve d'absence de biais ; le sous-groupe cours présente un signal à examiner.
+- Recherche actualisée au 25 février 2025. Échantillons surtout scolaires plus âgés et universitaires ; aucune estimation directe pour les compétences C1/C2/C3 en GS–CP–CE1.
+- Certaines études de fluidité chronométrée sont exclues par le choix de mesure de rétention ; cette synthèse ne couvre pas toutes les définitions de performance mathématique.
+- Des chiffres de Discussion divergent des Résultats (notamment 9/35 contre 10/27 pour isolé, 6/20 contre 7/32 pour rappel). Divergences éditoriales/versionnelles non réconciliées ; retenir les Résultats concordant avec le résumé publié et conserver la réserve. Cela ne démontre pas à soi seul une analyse erronée.
+
+Statut : FULL_TEXT_TARGETED_CHECKED ; EXACT_CI_AND_DEPENDENCE_MODEL_CHECKED ; DATA_CODE_REPRODUCTION_NOT_DONE ; VERSION_DISCREPANCIES_OPEN.
+
+### R10-02 — Kremer et al., A Year of Desirable Difficulties
+
+Sources :
+- Notice NBER : https://www.nber.org/papers/w31853 ; révision indiquée février 2026.
+- Diffusion des auteurs : https://dil.uchicago.edu/working-papers/a-year-of-desirable-difficulties/
+- PDF intégral lu : https://dil.uchicago.edu/wp-content/uploads/2026/02/Desirable-difficulties.pdf ; date de première page 16 décembre 2025.
+
+Passages : description intervention et échantillon ; analyses/attrition ; tableau 3 (PDF p. 34), tableau A5 (PDF p. 44).
+
+- Grade 5 au Nigeria ; 62 écoles assignées initialement, 59 dans l'échantillon descriptif après exclusions documentées ; âge moyen proche de 9,8 ans.
+- Court terme : estimation +0,28 écart-type. Cumulatif : +0,03 ; IC95 % conventionnel [-0,28 ; 0,34].
+- Robustesse wild cluster bootstrap, tableau A5 : court terme IC95 % [0,01 ; 0,61], p=0,04 ; cumulatif [-0,43 ; 0,43], p=0,89.
+- L'incertitude finale autorise des effets négatifs ou positifs substantiels : ne pas conclure à un effet exactement nul.
+- L'intervention combine ordre des problèmes et distribution temporelle ; ne pas attribuer le résultat à un entrelacement pur.
+- L'évaluation cumulative mélange contenus récents et anciens ; ce n'est pas une mesure isolée de rétention à délai identique.
+- Les auteurs n'éliminent pas entièrement le risque d'attrition sélective. L'inférence pour sous-groupes et transfert CP/CE1 reste limitée.
+- Document de travail ; identité exacte du PDF lu avec la révision NBER non établie.
+
+Statut : FULL_METHOD_AND_TABLES_TARGETED_CHECKED ; VERSION_IDENTITY_OPEN ; TRANSFER_TO_ICARIS_NOT_ESTABLISHED.
+
+## Lot 11 — Comparateurs, couverture et contrôle des versions (2026-10-09)
+
+### R11-01 — Pourquoi les synthèses de rappel actif diffèrent
+
+Sources :
+- Murray, thèse chapitre 2, tableau PICOS pp. 72–73 et discussion générale pp. 146–147 : lien intégral ci-dessus.
+- Yang, Luo, Vadillo, Yu & Shanks (2021), Testing (quizzing) boosts classroom learning: A systematic and meta-analytic review, DOI https://doi.org/10.1037/bul0000309
+- Texte original des auteurs consulté via copie PDF : https://gwern.net/doc/psychology/spaced-repetition/2021-yang.pdf ; méthodes PDF p. 11, tableau 2 PDF p. 15, comparateurs PDF p. 16.
+
+Vérifié :
+- Murray retient rappel actif versus réétude. L'auteur indique que Yang inclut 12 autres articles avec d'autres comparateurs ; c'est une déclaration d'auteur, pas un rapprochement indépendant de toutes les lignes de données.
+- Yang couvre 222 études et plusieurs disciplines ; sous-groupe mathématiques/statistiques : g=0,433 ; IC95 % [0,193 ; 0,674]. Ne pas assimiler ce sous-groupe à CP/CE1 ni à la numération décimale.
+- Yang utilise des modèles multiniveaux pour prendre en compte plusieurs effets par étude.
+- Toutes disciplines confondues, comparateur sans activité/activité de remplissage : g=0,610 ; réétude : g=0,330. Ces chiffres ne sont pas des estimations spécifiques aux mathématiques.
+- Les comparateurs et périmètres différents rendent une contradiction directe non établie. Une réconciliation étude par étude reste nécessaire avant toute conclusion sur indépendance et recouvrement.
+- La présence ou l'absence d'Ophuis-Cox (2023) dans les données incluses de Murray n'a pas été établie ; absence de nom dans le texte recherché ne suffit pas à conclure à son exclusion.
+
+Statut : COMPARATOR_SCOPE_DIFFERENCE_VERIFIED ; OVERLAP_AUDIT_PARTIAL ; INDEPENDENT_STUDY_COUNTS_NOT_RECONSTRUCTED.
+
+### R11-02 — Versions et accès
+
+- NBER affiche révision février 2026.
+- SSRN affiche dernière révision 15 juillet 2026 : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631018
+- Métadonnée SSRN récupérée par recherche ; ouverture directe échouée (403). La date affichée ne prouve pas un changement substantiel du texte.
+- PDF des auteurs daté décembre 2025 et diffusé février 2026 ; comparaison binaire/textuelle avec versions NBER/SSRN non réalisée.
+- OSF Murray inaccessible lors de la passe ; annexes de données et code non audités. Bloqué techniquement ne signifie pas preuve scientifique absente.
+
+### Consolidation et arrêt
+
+Décision documentaire : ENRICH / REFINE du dossier RR-002 existant ; aucune nouvelle fiche canonique concurrente.
+STOP_GATE : STOP_PROVISIONAL pour cette passe de consolidation ; CONTINUE_TARGETED si un accès aux données/versions permet de résoudre les questions ouvertes.
+RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED. Sauvegardé ne signifie pas scientifiquement validé.
+
+| Objet | Conclusion utilisable | Frontière |
+| --- | --- | --- |
+| Espacement | Appui moyen mathématique positif et précision vérifiée | Aucun calendrier individuel ou effet GS–CP–CE1 prescrit |
+| Rappel actif | Pratique candidate ; effet dépend du contraste examiné | Aucun bénéfice conceptuel universel démontré |
+| Entrelacement | Résultats dépendants des conditions et horizons | Ne pas isoler ordre et espacement lorsque combinés |
+| Mesures | Séparer acquisition, fluidité, transfert et maintien | Aucun seuil de maîtrise ni diagnostic dérivé |
+
+Reprise : (1) réconcilier versions et données accessibles ; (2) rapprochement des études primaires sans double comptage ; (3) recherche ciblée par compétence et sous-domaine GS–CP–CE1 ; (4) revue humaine avant recommandations promues. Ne pas prolonger les tentatives d'accès identiques sans nouvelle voie utile.
