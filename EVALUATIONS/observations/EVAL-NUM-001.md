@@ -15,7 +15,7 @@
 Proposition de tâches **non étalonnées, non validées psychométriquement**, destinées à guider une observation pédagogique prudente. Aucun score, seuil, diagnostic ou assignation automatique de remédiation n'est autorisé par cette fiche.
 
 ## Tâches proposées (exemples originaux à examiner)
-1. **Position** : « Dans 243, que représente le 4 ? Pourquoi ? » Varier nombres et positions ; observer si l'élève distingue chiffre et valeur.
+1. **Position** : « Dans 43, que représente le 4 ? Pourquoi ? » ; extension à 243 lorsque les centaines sont déjà travaillées. Varier nombres et positions ; observer si l'élève distingue chiffre et valeur. Le choix du nombre dépend des acquis et du périmètre scolaire, sans seuil inventé.
 2. **Échange** : « 43 peut-il s'écrire 3 dizaines et 13 unités ? Montre ou explique. » Faire vérifier l'équivalence dans les deux sens.
 3. **Calcul** : « Calcule 28 + 7, puis explique comment tu as procédé. » Comparer à un exemple sans échange, varier supports et nombres.
 
@@ -259,3 +259,11 @@ Référence : RR-002, lot 18, C18-04/05/10/11.
 | INSUFFISAMMENT ÉTAYÉ | Score de maîtrise, fidélité, normes et pouvoir diagnostique des tâches originales |
 
 Les éléments cardinaux/problèmes délimitent des mesures connexes, sans élargissement automatique de cet instrument. Les classements didactiques et chiffres DEPP à recontrôler gardent leur statut historique de travail. Aucun seuil externe transféré. La passe d'analyse est terminée documentairement ; fiche NEEDS_REVIEW, non étalonnée.
+
+## Revue documentaire de cohérence — 2026-10-09
+
+Le premier exemple de position utilise désormais 43 ; 243 reste une extension selon les acquis. Les exemples plus complexes de la matrice ne sont pas des attentes générales CP. Les tâches sont originales, exploratoires et non étalonnées.
+
+**Réserve précise à résoudre avant approbation du volet DEPP :** la matrice structurale décrit des compositions d'items, tandis que l'inventaire de réponses ne fournit pas les énoncés ni leurs pages. Une réponse attendue seule ne permet pas de reconstruire la structure ou de confirmer le classement NUM-02/NUM-03. Les deux tableaux sont donc des relevés de travail à confronter aux mêmes pages/version du cahier ; aucun classement item par item confirmé dans cette revue. Consignes, seuils et temps de passation restent sous leurs réserves existantes. Aucune nouvelle vérification des PDF officiels revendiquée.
+
+Verdict : principes d'observation cohérents ; détails DEPP encore à vérifier avant usage opérationnel. NEEDS_REVIEW maintenu ; revue humaine et validation empirique non réalisées.
