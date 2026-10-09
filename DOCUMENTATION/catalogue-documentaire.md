@@ -100,3 +100,12 @@ La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) inclut dés
 ## Clôture provisoire de la collecte DEPP CE2–CM1 — 2026-10-09
 
 La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) conserve le relevé de travail des 16 items et 48 distracteurs des exercices DEPP 2025. Décision **STOP_PROVISIONAL** pour la collecte documentaire seulement. Transcription et interprétations à contrôler humainement ; fiches NUM-DEC-001, EVAL-NUM-001 et PED-NUM-001 maintenues **NEEDS_REVIEW** ; validation empirique **NON ÉTABLIE**. Réouverture seulement en cas de contradiction, lacune bloquante ou nouvel usage.
+
+## Recherche RR-002 — inventaire actualisé le 2026-10-09
+
+| Identifiant | Document | Nature et périmètre | État |
+| --- | --- | --- | --- |
+| RR-002-PREUVES | [Protocole et preuves](../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) | Numération C1/C2/C3 ; mécanismes ; extension ciblée petits nombres, calcul et problèmes GS–CP–CE1 ; lots 01–12 | IN_PROGRESS / HUMAN_REVIEW_REQUIRED |
+| RR-002-REPRISE | [Sauvegarde et reprise](../recherches/RR-002/SAUVEGARDE_ET_REPRISE_2026-10-09.md) | Index de continuité, conclusions provisoires et lacunes ; pas preuve indépendante | Actualisé après lot 12 |
+
+Consolidation ENRICH / REFINE. Trois fiches canoniques provisoires conservent NEEDS_REVIEW ; aucune promotion ni nouvelle fiche canonique. Le lot 12 distingue lecture intégrale ciblée (Ramani, Miller), résumé/passages indexés (Fuchs 2013) et plan expérimental seulement (Fuchs 2021). Priorité : dénombrement/cardinalité et résultats des problèmes verbaux. Sources et limites dans RR-002.
