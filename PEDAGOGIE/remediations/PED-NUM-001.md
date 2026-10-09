@@ -4,9 +4,11 @@
 - Question : quelles pratiques ont été étudiées, sur quels résultats et avec quelles limites ?
 - Maturité documentaire : NEEDS_REVIEW (version provisoire)
 - Porte de publication : READY_FOR_HUMAN_REVIEW (validation humaine non acquise)
-- Date : 2026-10-08
+- Date de création : 2026-10-08
+- Dernière consolidation documentaire : 2026-10-09
 - Périmètre : école primaire CP–CM2 ; adéquation à la compétence avant la classe
 - Origine : [RR-001 regroupement NUM-02/03/06](../../recherches/RR-001/REGROUPEMENT-NUMERATION.md) et [bibliographie](../../recherches/RR-001/BIBLIOGRAPHIE.md)
+- Consolidation : [RR-002 — protocole et preuves](../../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) ; analyse du corpus existant, sans nouvelle collecte.
 - Verdict scientifique : NEED_MORE_INFORMATION pour choisir une remédiation individuelle par profil d'erreur.
 
 ## Résumé accessible
@@ -47,3 +49,19 @@ Faire expliciter les relations dizaines/unités ; relier représentation, langag
 | P15 WWC (2021), [guide officiel](https://ies.ed.gov/ncee/wwc/PracticeGuide/26) | Recommandations générales en mathématiques | Orientations contextualisées selon le guide | Preuve directe pour un outil ou une remédiation individualisée de ce dossier |
 
 **Statuts de revue :** nous pouvons vérifier l'adéquation entre une affirmation et les preuves publiées, non homologuer une étude, certifier une méthode ou attribuer une validité empirique à nos tâches. La décision humaine approuve la qualité documentaire et le respect des réserves, pas une efficacité scientifique nouvelle.
+
+## Synthèse courante des preuves — rapprochement RR-002, 2026-10-09
+
+| Affirmation | Passage déjà contrôlé | Portée retenue |
+| --- | --- | --- |
+| L'ordre des représentations interagit avec les conditions d'enseignement | Osana, RR-002 lot 04, tableaux 2–5 | Les changements pré/post de certaines conditions ne prouvent pas leur supériorité entre elles. Petits effectifs, intervention brève, mesures distinctes |
+| Les effets peuvent différer entre critères | Fuchs 2008, RR-002 lot 03, RESULTS | Calcul procédural : F(3,121)<1, p>.05 ; estimation : effet de condition détecté. Ni inefficacité générale ni transfert garanti |
+| Enseignement explicite et représentations sont des orientations documentées | WWC 2021, RR-002 lot 03 | Guide institutionnel américain ; preuve d'une recommandation générale ≠ preuve d'une activité originale |
+| Les conversions d'unités peuvent expliciter les procédures | Houdement & Tempier 2023, RR-002 lot 05 | Argumentation didactique directement contrôlée ; pas essai causal |
+
+**État actuel :** les passages cités Osana/Fuchs et le texte Houdement & Tempier ont déjà été contrôlés au niveau indiqué ; ils ne doivent plus être présentés globalement comme non lus. L'audit exhaustif, les IC manquants et la transférabilité restent ouverts. Ho & Cheng, Fuson & Briars et Tempier 2016 ne sont pas promus.
+
+**Domaines connexes à consulter dans RR-002 :** espacement/rappel/entrelacement (lots 07–11), cardinalité et problèmes (lots 12–13). Les relier plutôt que les traiter comme essais directs d'une remédiation des échanges. La synthèse de dosage excluant les interventions informatisées ne justifie pas une durée ICARIS.
+
+Décision : ENRICH / REFINE ; STOP_PROVISIONAL pour cette synthèse d'usage. Aucun dosage, support optimal, ordre universel ou aiguillage individuel établi. Statut NEEDS_REVIEW maintenu.
+- 2026-10-09 — consolidation des preuves existantes et actualisation de leur portée, sans promotion.
