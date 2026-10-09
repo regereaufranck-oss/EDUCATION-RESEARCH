@@ -96,3 +96,7 @@ La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) inclut dés
 ## Audit distracteurs — 2026-10-09
 
 [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) : exemples d'erreurs et modalités de passation, revue provisoire. Sources à rattacher item par item ; statut NEEDS_REVIEW ; validation empirique non établie.
+
+## Clôture provisoire de la collecte DEPP CE2–CM1 — 2026-10-09
+
+La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) conserve le relevé de travail des 16 items et 48 distracteurs des exercices DEPP 2025. Décision **STOP_PROVISIONAL** pour la collecte documentaire seulement. Transcription et interprétations à contrôler humainement ; fiches NUM-DEC-001, EVAL-NUM-001 et PED-NUM-001 maintenues **NEEDS_REVIEW** ; validation empirique **NON ÉTABLIE**. Réouverture seulement en cas de contradiction, lacune bloquante ou nouvel usage.
