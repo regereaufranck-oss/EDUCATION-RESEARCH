@@ -92,3 +92,7 @@ La fiche [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) inclut dés
 ## Matrice provisoire CE2–CM1 — 2026-10-09
 
 [EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) contient une classification didactique provisoire des huit items de recomposition additive CE2 et CM1 2025 : cinq principalement liés à NUM-02 et trois à NUM-03 dans chaque niveau. La classification n'est pas une preuve d'équivalence des items ni une validation des sous-scores. Distracteurs à auditer ; statut NEEDS_REVIEW ; décision ENRICH ; validation empirique NON ÉTABLIE.
+
+## Audit distracteurs — 2026-10-09
+
+[EVAL-NUM-001](../EVALUATIONS/observations/EVAL-NUM-001.md) : exemples d'erreurs et modalités de passation, revue provisoire. Sources à rattacher item par item ; statut NEEDS_REVIEW ; validation empirique non établie.
