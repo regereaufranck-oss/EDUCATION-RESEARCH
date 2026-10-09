@@ -4,8 +4,8 @@
 
 - Dossier : [PROTOCOLE_ET_PREUVES.md](./PROTOCOLE_ET_PREUVES.md)
 - Dépôt : EDUCATION-RESEARCH, branche par défaut
-- Couverture : lots 01 à 11, vérifiés présents le 2026-10-09
-- État : **RR-002 IN_PROGRESS** ; les lots 10 et 11 sont enregistrés, pas de clôture scientifique.
+- Couverture : lots 01 à 12, vérifiés présents le 2026-10-09
+- État : **RR-002 IN_PROGRESS** ; les lots 10 à 12 sont enregistrés, pas de clôture scientifique.
 
 ## Ce qui est capitalisé
 
@@ -50,3 +50,9 @@ Ce fichier est un index de reprise, **pas** une nouvelle preuve scientifique. Co
 - Consolidation : ENRICH / REFINE du dossier existant.
 - Arrêt de cette passe : STOP_PROVISIONAL ; reprise CONTINUE_TARGETED sur une question et une voie d'accès utiles.
 - Autorisation : sauvegarde des résultats après proposition de consolidation/sauvegarde et réponse utilisateur « go » du 2026-10-09. Aucune promotion scientifique ni intégration applicative.
+
+## Delta lot 12 — enregistré le 2026-10-09
+
+Recherche ciblée par compétence : Ramani/Siegler (petits nombres), Fuchs 2013 (calcul et formes de pratique), Fuchs 2021 (problèmes et langage), Miller 2025 (dosage). Niveaux de lecture distincts, limites et divergences conservés dans le dossier de preuves.
+
+Priorité suivante : dénombrement/cardinalité et audit intégral des problèmes verbaux ; ne pas confondre récitation, dénombrement, calcul et compréhension. RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; aucune validation des activités ICARIS.
