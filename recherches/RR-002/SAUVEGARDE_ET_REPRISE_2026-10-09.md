@@ -4,8 +4,8 @@
 
 - Dossier : [PROTOCOLE_ET_PREUVES.md](./PROTOCOLE_ET_PREUVES.md)
 - Dépôt : EDUCATION-RESEARCH, branche par défaut
-- Couverture : lots 01 à 09, vérifiés présents le 2026-10-09
-- État : **RR-002 IN_PROGRESS** ; le lot 09 est enregistré, pas de clôture scientifique.
+- Couverture : lots 01 à 11, vérifiés présents le 2026-10-09
+- État : **RR-002 IN_PROGRESS** ; les lots 10 et 11 sont enregistrés, pas de clôture scientifique.
 
 ## Ce qui est capitalisé
 
@@ -27,9 +27,9 @@
 
 ## Reprise prioritaire
 
-1. Vérifier les textes intégraux, annexes, intervalles de confiance, biais et modérateurs de la méta-analyse Murray et al. 2025.
-2. Vérifier méthodologie, attrition, puissance et version du document NBER Kremer et al. (version février 2026).
-3. Auditer le chevauchement études primaires / méta-analyses et les études à résultats nuls.
+1. Réconcilier les divergences éditoriales Murray et accéder aux données/code OSF ; les IC exacts et le modèle de dépendance ont été vérifiés dans le texte reproduit en thèse.
+2. Réconcilier les versions Kremer : PDF auteurs daté décembre 2025, notice NBER février 2026, métadonnée SSRN juillet 2026 ; méthodes, attrition et IC du PDF auteurs ont été examinés.
+3. Auditer le chevauchement études primaires / méta-analyses et les études à résultats nuls ; différences de comparateurs Murray/Yang déjà identifiées, rapprochement des données encore ouvert.
 4. Poursuivre l'analyse par sous-domaines des mathématiques GS–CP–CE1, au-delà de la numération décimale.
 5. Prévoir une revue humaine avant de promouvoir des recommandations pédagogiques.
 
@@ -40,3 +40,13 @@ Recherche scientifique, méthodologique et pédagogique d'abord ; conception des
 ## Traçabilité
 
 Ce fichier est un index de reprise, **pas** une nouvelle preuve scientifique. Consulter les sources, les distinctions de statut et les réserves dans PROTOCOLE_ET_PREUVES.md.
+
+## Delta de sauvegarde — lots 10 et 11
+
+- Murray : espacement g=0,282, IC95 % [0,188 ; 0,376] ; rappel/réétude g=0,184, IC95 % [-0,069 ; 0,436]. Modèle robuste tenant compte des effets dépendants vérifié ; réserves de biais, modérateurs et versions conservées.
+- Kremer : résultat cumulatif +0,03, IC95 % [-0,28 ; 0,34] ; analyse wild cluster bootstrap [-0,43 ; 0,43]. Ne pas conclure à un effet exactement nul. Intervention composite et transfert non établi.
+- Yang : sous-groupe mathématiques/statistiques positif, mais comparateurs et périmètres différents de Murray ; contradiction directe non établie.
+- Passage : CRITICAL_EVIDENCE_APPRAISAL documentaire ciblée, pas réanalyse ni validation empirique.
+- Consolidation : ENRICH / REFINE du dossier existant.
+- Arrêt de cette passe : STOP_PROVISIONAL ; reprise CONTINUE_TARGETED sur une question et une voie d'accès utiles.
+- Autorisation : sauvegarde des résultats après proposition de consolidation/sauvegarde et réponse utilisateur « go » du 2026-10-09. Aucune promotion scientifique ni intégration applicative.
