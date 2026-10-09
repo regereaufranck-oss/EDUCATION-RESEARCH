@@ -198,3 +198,59 @@ Le présent lot n'autorise ni publication d'une règle pédagogique comme « val
 4. Étendre progressivement le référentiel à l'ensemble des domaines mathématiques, au-delà du pilote de numération.
 
 **Statut : RR-002 IN_PROGRESS.** Aucun document de WORK/ICARIS n'est promu au statut scientifiquement validé et aucun changement applicatif n'est autorisé.
+
+## Lot 04 — GS, CE1 et audit des tableaux Jensen/Osana (2026-10-09)
+
+**Méthode :** lecture directe des annexes officielles françaises 2025 et des résultats/tableaux accessibles des articles Jensen et Osana. Les constats ci-dessous sont circonscrits à ces sources et à leurs mesures. Les sources didactiques Tempier/Houdement restent à auditer au niveau des passages.
+
+### Source officielle GS : cycle 1, annexe 2
+
+- Texte primaire : https://www.education.gouv.fr/sites/default/files/document/Annexe%202%20%E2%80%93%20Programme%20d%E2%80%99enseignement%20pour%20l%E2%80%99acquisition%20des%20premiers%20outils%20math%C3%A9matiques%20du%20cycle%201-403815.pdf
+- **PDF p. 5–6 (index zéro 4–5)**, rubrique « À partir de 5 ans » : collections jusqu'à dix, voire au-delà ; dénombrement, correspondance quantité–nom–écriture ; compositions et décompositions jusqu'à dix, voire au-delà ; surcomptage, problèmes simples, écriture des nombres de un à dix et comptine jusqu'à trente.
+- **PDF p. 1–2** : le programme distingue fonction cardinale, fonction ordinale et résolution de problèmes ; manipulation et jeu seuls ne garantissent pas l'apprentissage, et l'enseignant explicite les stratégies.
+- **Interprétation ICARIS (pas texte réglementaire)** : ces apprentissages peuvent soutenir ultérieurement C1/C2/C3, mais l'exercice « valeur du 4 dans 43 », les échanges 3 dizaines/13 unités et l'addition 28+7 ne sont pas des attendus généraux de GS établis par ce passage. Les classer comme objectifs CP/CE1 ou tâches avancées à discuter, non comme critères GS.
+
+### Source officielle CE1 : cycle 2, annexe 4
+
+- Texte primaire : https://www.education.gouv.fr/sites/default/files/document/Annexe%204%20%E2%80%93%20Programme%20de%20math%C3%A9matiques%20du%20cycle%202-403821.pdf
+- **PDF p. 10–11 (index zéro 9–10)** : nombres jusqu'à mille ; renforcement des aspects décimal et positionnel introduits au CP ; centaine dès la période 1 ; jusqu'à mille au plus tard période 2 ; groupements de dix et cent, décompositions et représentations multiples.
+- **PDF p. 10** : exemples explicites de collections non canoniques : 17 unités + 8 dizaines + 2 centaines ; 9 dizaines + 23 unités + 4 centaines ; 2 centaines + 27 dizaines + 14 unités. Exemple de commandes multiples totalisant 235.
+- **PDF p. 11** : 635 sous plusieurs formes : 6 centaines 3 dizaines 5 unités, 63 dizaines 5 unités, 635 unités, 5 unités 5 centaines 13 dizaines ; décomposition multiplicative et additive.
+- **Conséquence** : C1 et C2 sont directement reliables à des attendus CE1, sans prétendre que les activités originales ICARIS sont validées. Les stratégies de calcul C3 demandent une vérification séparée des sections calcul et de leurs conditions.
+
+### Jensen, Gasteiger & Bruns (2024) — audit des résultats
+
+- Texte primaire : https://link.springer.com/article/10.1007/s13138-024-00234-8 ; sections 3.1–3.2, tableau 1, figure 3 et typologie.
+- 100 élèves allemands de troisième année, sept tâches de transcription. Réussite moyenne de l'instrument : 57,6 % ; 19/100 sans erreur.
+- Moyenne de réussite par **famille de tâches**, non par enfant : principe positionnel 68,3 % ; regroupement 62,5 % ; combinaison des deux 36,5 %. Les familles n'ont pas nécessairement la même difficulté intrinsèque ; la comparaison ne démontre pas un ordre universel d'apprentissage.
+- 297 réponses incorrectes, dont quatre omissions ; 293 réponses incorrectes analysées qualitativement. 158 erreurs de regroupement et 153 erreurs positionnelles, avec 18 réponses portant les deux codages : les décomptes de codes ne sont pas des enfants distincts ni des réponses indépendantes.
+- Corrélation entre nombre d'erreurs des deux principes : Spearman r_s = 0,161, p = 0,114, N = 100 ; non significative dans cet échantillon, ce qui ne prouve pas une indépendance universelle.
+- Profils rapportés : 7 enfants avec quatre erreurs de regroupement et aucune erreur positionnelle ; 6 avec cinq erreurs positionnelles et aucune erreur de regroupement. Les types décrivent des comportements observés sur les sept tâches, pas un diagnostic transférable tel quel.
+- **Interprétation limitée** : la distinction C1/C2 a un appui descriptif réel ; une règle erreur→cause ou une classification automatique ICARIS ne découle pas de cette étude.
+
+### Osana, Adrien & Duponsel (2017) — audit des tableaux et méthodes
+
+- Texte primaire : https://www.mdpi.com/2227-7102/7/2/52 ; section Méthode, section 3, tableaux 2–5.
+- N=87 élèves de deuxième année ; six conditions de séquence × guidage ; effectifs initiaux par cellule : matériel d'abord guidé 18, non guidé 12 ; symboles d'abord guidé 13, non guidé 16 ; alternance guidée 15, non guidée 13. Certains effectifs de tâches sont inférieurs à ces chiffres ; vérifier données manquantes avant réutilisation.
+- **Tableau 2, CPV (score 0–12)** : matériel d'abord sans guidage 8,25 (pré) → 10,58 (post), test de changement p=0,002 ; symboles d'abord avec guidage 7,31 → 10,85, p<0,001. Ce sont des changements intra-condition, pas une preuve que l'une de ces deux conditions est supérieure à l'autre.
+- **Tableau 3, regroupement avec blocs (RSB)** : effet global du temps F(1,80)=6,44, p=0,013, eta² partiel=0,08 ; moyenne globale pré 0,50 → post 0,60. Ne pas présenter cette hausse comme un effet différentiel de l'ordre de représentation.
+- **Tableaux 3–4** : mesures distinctes de regroupement avec blocs, sommes partielles et évaluations avec blocs/jetons ; les scores et maxima ne sont pas interchangeables.
+- **Tableau 5** : corrélations positives entre cinq mesures au prétest ; cela ne valide pas à lui seul leur séparation psychométrique ni les items ICARIS.
+- **Limite centrale** : étude courte, conditions à petits effectifs, mesures spécifiques, aucun ordre optimal universel démontré.
+
+### Matrice de transfert pédagogique — état après ce lot
+
+| Niveau | Attendus vérifiés dans les programmes | Rapport C1/C2/C3 | Statut |
+| --- | --- | --- | --- |
+| GS | Quantités, compositions jusqu'à dix voire au-delà, surcomptage, représentations | Précurseurs possibles, sans imposer dizaines/échanges comme attendus GS | OFFICIAL_SCOPE_CHECKED |
+| CP | Valeur des chiffres, dizaines/unités, numération jusqu'à 100 et calcul | C1 direct ; C2/C3 à qualifier par tâche et période | OFFICIAL_SCOPE_CHECKED_PARTIAL |
+| CE1 | Numération jusqu'à mille, échanges et écritures non canoniques | C1/C2 directs ; C3 à qualifier dans les sections calcul | OFFICIAL_SCOPE_CHECKED_PARTIAL |
+
+### Verdict et actions suivantes
+
+- **PASS_PRIMARY_CHECK** : attendus GS et CE1 sur nombres ; statistiques et méthodes ciblées Jensen/Osana.
+- **NEEDS_REVIEW** : extrapolation des échantillons allemands/canadiens aux élèves français et à chaque niveau ; validité des activités originales.
+- **OPEN** : analyse directe des textes didactiques français Tempier/Houdement, sections calcul CE1, qualité des outils d'observation, transfert et maintien.
+- **NOT_AUTHORIZED** : diagnostic individuel, seuils, algorithme de progression, intégration ICARIS.
+
+Le corpus RR-002 reste IN_PROGRESS ; les fiches WORK/ICARIS restent des propositions.
