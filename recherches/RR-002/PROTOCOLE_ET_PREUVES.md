@@ -254,3 +254,59 @@ Le présent lot n'autorise ni publication d'une règle pédagogique comme « val
 - **NOT_AUTHORIZED** : diagnostic individuel, seuils, algorithme de progression, intégration ICARIS.
 
 Le corpus RR-002 reste IN_PROGRESS ; les fiches WORK/ICARIS restent des propositions.
+
+## Lot 05 — Didactique française, calcul et mesures de transfert (2026-10-09)
+
+### Source directement consultée : Houdement & Tempier (2023)
+
+Article original : https://afdm.apmep.fr/rubriques/opinions/faites-parler-et-ecrire-les-nombres-en-unites-de-numeration/ ; *Au fil des maths*, 549, 2023.
+
+- Sections « unités de numération » et « tableau de numération » : les auteurs distinguent **LOU** (liste ordonnée des unités : unités, dizaines, centaines...) et **RUC** (relation entre unités consécutives : dix unités d'un rang correspondent à une unité du rang supérieur).
+- Ils soulignent qu'un tableau de numération peut contenir plusieurs chiffres dans une même colonne ou des colonnes vides, lorsqu'il exprime des unités de numération et pas seulement l'écriture canonique d'un nombre. Leur exemple pour 215 accepte notamment 2 centaines et 15 unités, ou 21 dizaines et 5 unités.
+- Leur proposition didactique est de faire discuter des écritures correctes et incorrectes pour éviter de réduire le tableau à « un chiffre par case ».
+- Section « calcul posé » : les conversions entre unités donnent du sens à des étapes opératoires qui pourraient sinon être apprises comme règles de déplacement de chiffres. L'exemple détaillé porte sur une division à quatre chiffres : ne pas le transformer en preuve expérimentale d'une activité d'addition CE1.
+- **Type de source :** argumentation et propositions didactiques fondées sur travaux antérieurs ; pas un essai randomisé des activités proposées dans ce texte.
+- **Portée :** surtout fin cycle 2 et cycles 3–4 ; transposition GS/CP doit rester conditionnelle.
+- **Statut : DIRECT_AUTHOR_TEXT_CHECKED ; underlying cited empirical studies NOT_AUDITED.**
+
+### Tempier (2016) — traçabilité encore ouverte
+
+- La référence Tempier (2016) évoquée dans RR-001 n'est **pas** traitée comme directement vérifiée dans ce lot : il reste à identifier sans ambiguïté la publication exacte, ses pages, sa population et sa méthode.
+- Le texte Houdement & Tempier (2023) renvoie à la thèse de Tempier (2013) et à des publications de 2019, 2020 et 2022. Ces références ne sont pas interchangeables avec une étude « Tempier 2016 ».
+- **Statut : BIBLIOGRAPHIC_RECONCILIATION_PENDING.**
+
+### Programme et ressources officiels
+
+- Page Éduscol : https://eduscol.education.gouv.fr/4746/ressources-d-accompagnement-du-programme-de-mathematiques-au-cycle-2 (mise à jour février 2026).
+- Le programme de cycle 2 est entré en application à la rentrée 2025. La page propose des livrets d'accompagnement CP et CE1 et des situations d'évaluation : calcul mental, écriture des nombres, comparaisons, calcul en ligne, additions/soustractions posées et résolution de problèmes.
+- **Niveau de preuve :** documents institutionnels de cadrage et de conception pédagogique ; les exemples ne sont pas à eux seuls des essais démontrant une efficacité.
+- **Point de vigilance :** ne pas citer le *projet de programme* du 8 avril 2024 comme s'il était le programme réglementaire adopté en octobre 2024.
+
+### Traduction en questions de recherche C1/C2/C3
+
+| Dimension | Question discriminante | Observation à rechercher | Risque de confusion |
+| --- | --- | --- | --- |
+| C1 position | L'élève relie-t-il rang, unité et valeur ? | Même chiffre à deux positions et justification | Nommer la colonne ≠ connaître la valeur |
+| C2 échange | L'élève accepte-t-il et produit-il plusieurs écritures équivalentes ? | Écritures canoniques/non canoniques, conservation | « Un chiffre par colonne » appris comme contrainte absolue |
+| C3 calcul | L'élève peut-il expliquer une transformation utilisée dans un calcul ? | Résultat, procédure, représentation, explication | Exactitude ≠ procédure présumée |
+
+### Cadre méthodologique proposé pour le transfert et le maintien
+
+**Ce cadre est une proposition de recherche, non un protocole validé psychométriquement.**
+
+1. **Réussite immédiate** : même type de tâche et même support, noter aide et consigne.
+2. **Transfert proche** : nouveaux nombres et disposition modifiée, même connaissance visée.
+3. **Transfert de représentation** : passage oral ↔ écrit ↔ unités de numération ↔ matériel, en contrôlant les exigences linguistiques.
+4. **Transfert fonctionnel** : utilisation dans un problème ou un calcul d'une autre forme, sans présumer la stratégie.
+5. **Maintien différé** : nouvelle observation à distance ; calendrier, fidélité et critères à établir dans un protocole d'étude ultérieur.
+
+Pour chaque mesure : documenter la tâche, l'âge/niveau, les aides, la procédure observable, les explications concurrentes et les limites de l'inférence. Ne pas fixer de seuil de maîtrise ou de délai optimal sans preuves supplémentaires.
+
+### Synthèse du lot
+
+- **DIRECT_SOURCE_CHECKED :** Houdement & Tempier (2023), ressource Éduscol cycle 2.
+- **PROPOSED :** cadre d'observation transfert/maintien, distinctions C1/C2/C3.
+- **OPEN :** Tempier (2016) bibliographie exacte, études sous-jacentes, livret CE1 au niveau des pages, études expérimentales de maintien et de transfert.
+- **NOT_AUTHORIZED :** modification des exercices, moteur, adaptation automatique ou déploiement.
+
+RR-002 demeure IN_PROGRESS. Ce lot enrichit le référentiel scientifique et méthodologique avant toute production applicative.
