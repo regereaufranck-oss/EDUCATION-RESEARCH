@@ -80,3 +80,9 @@ Reprise : compléter les passages manquants disponibles et examiner les contenus
 Première passe analytique terminée documentairement. Conclusions classées utilisable sous réserves / hypothèse / insuffisamment étayé, puis reportées dans les trois fiches. Traçabilité ciblée et limites d'accès conservées ; audit exhaustif et recouvrement global non réalisés. RR-002 reste IN_PROGRESS / HUMAN_REVIEW_REQUIRED ; fiches NEEDS_REVIEW.
 
 **NEXT courant :** revue documentaire des trois fiches et cadrage des objets connexes nécessaires, sans prolonger les lots de synthèse identiques. STOP_PROVISIONAL pour le périmètre étudié ; nouvelle recherche seulement si une lacune change une décision précise. Couverture globale d'ICARIS et des programmes non établie ; aucun changement applicatif.
+
+## Revue documentaire des trois fiches — 2026-10-09
+
+Corrections dans NUM-DEC-001 : Tempier 2016 non présenté comme source vérifiée ; Fuchs 2008 ne mesure pas directement nos tâches d'échange. EVAL-NUM-001 : exemple 43, extension 243 selon acquis ; réserve explicite sur la correspondance structure/item/page des tableaux DEPP. PED-NUM-001 : portée des essais et caractère conditionnel rappelés. Aucun nouveau lot de recherche, aucune nouvelle source ou fiche ; NEEDS_REVIEW maintenu. Revue humaine non réalisée.
+
+Prochain examen prioritaire : qualité documentaire des trois fiches, avec contrôle précis des tableaux DEPP avant approbation de ce volet. Les détails non vérifiés peuvent rester exclus de l'usage opérationnel sans bloquer la définition des compétences ni les principes prudents d'observation.
