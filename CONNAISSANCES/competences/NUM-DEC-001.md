@@ -4,9 +4,11 @@
 - Question : distinguer compréhension des positions, équivalence par échanges et utilisation en calcul.
 - Maturité documentaire : NEEDS_REVIEW (version provisoire)
 - Porte de publication : READY_FOR_HUMAN_REVIEW (validation humaine non acquise)
-- Date : 2026-10-08
+- Date de création : 2026-10-08
+- Dernière consolidation documentaire : 2026-10-09
 - Périmètre : école primaire CP–CM2 ; adéquation à la compétence avant la classe
 - Origine : [RR-001 regroupement NUM-02/03/06](../../recherches/RR-001/REGROUPEMENT-NUMERATION.md) et [bibliographie](../../recherches/RR-001/BIBLIOGRAPHIE.md)
+- Consolidation : [RR-002 — protocole et preuves](../../recherches/RR-002/PROTOCOLE_ET_PREUVES.md) ; analyse du corpus existant, sans nouvelle collecte.
 - Verdict scientifique : NEED_MORE_INFORMATION pour remédiation individualisée ; description étayée sous réserves.
 
 ## Résumé accessible
@@ -40,9 +42,24 @@ Sources K1–K3 : identifiants et liens originaux dans [RR-001/BIBLIOGRAPHIE](..
 
 | ID | Affirmation bornée | Source et point de contrôle | État de vérification |
 |---|---|---|---|
-| K1 | Position et regroupement peuvent donner lieu à des profils de réponse différents | V01 Jensen et al. (2024), sept tâches de transcription, n=100 ; DOI 10.1007/s13138-024-00234-8 ; vérifier tableaux, critères et interprétation | Étude identifiée ; contrôle de chaque tableau non consigné dans cette fiche |
-| K2 | Les écritures en unités de numération servent à analyser composition et décomposition | S01 Tempier (2016), Grand N 98, p. 67–90 ; S02 Houdement & Tempier (2023), Au fil des maths 549 | Argument didactique ; pas d'effet causal revendiqué |
+| K1 | Position et regroupement peuvent donner lieu à des profils de réponse différents | Jensen 2024, sections 3.1–3.2, tableau 1, figure 3 ; RR-002 lot 04 | Contrôle ciblé consigné : sept tâches, n=100 ; codes d'erreur chevauchants ; pas de diagnostic ni de hiérarchie d'acquisition démontrée |
+| K2 | Les écritures en unités de numération servent à analyser composition et décomposition | Houdement & Tempier 2023, sections unités/tableau de numération ; RR-002 lot 05 | Texte auteur directement contrôlé ; argument didactique, pas effet causal. Tempier 2016 : identification bibliographique encore à réconcilier, non assise primaire vérifiée |
 | K3a | Des progrès ont été rapportés avec un enseignement associant blocs et symboles | V07 Fuson & Briars (1990) ; tableaux, sous-groupes et dénominateurs à vérifier avant citation quantitative | Progrès descriptifs ; attribution causale isolée NON ÉTABLIE |
-| K3b | Une intervention multicomposante n'a pas montré d'effet significatif sur un critère de calcul procédural | V04 Fuchs et al., essai randomisé ; vérifier critère exact, contraste et intervalle | Résultat limité à ce critère ; ne prouve pas absence générale d'effet |
+| K3b | Aucun effet principal de traitement détecté sur le composite de calcul procédural dans cet essai | Fuchs 2008, RESULTS / Procedural Computation Skill ; RR-002 lot 03 : F(3,121)<1, p>.05 | Passage primaire contrôlé ; audit exhaustif et IC non acquis. L'estimation présente des résultats différents ; aucune inefficacité générale déduite |
 
 **Règle :** une référence ou un DOI ne remplace pas un passage probant. Toute statistique non reliée à son tableau et à son dénominateur reste NON VÉRIFIÉE. Le verdict scientifique porte sur une affirmation et un usage, jamais sur la « validation » globale d'une étude par le projet.
+
+## Synthèse courante après rapprochement RR-002 — 2026-10-09
+
+La consolidation porte sur les contrôles déjà consignés, pas sur une nouvelle lecture des études. Les anciennes demandes de contrôle sont historiques lorsqu'elles sont résolues dans les lignes actualisées ci-dessus.
+
+| Usage | Assise dans RR-002 | Conclusion et frontière |
+| --- | --- | --- |
+| Rattacher position et échanges au programme | Lots 03–04, annexes officielles cycle 2, CP pp. 3–4 et CE1 pp. 10–11 | CP : dizaines/unités ; CE1 : écritures non canoniques explicites. Ne pas faire de 43=3 dizaines+13 unités un attendu général GS |
+| Distinguer position et regroupement | Lot 04, Jensen | Distinction utile pour l'observation ; comparaison des familles de tâches ne démontre pas un ordre nécessaire |
+| Donner du sens aux conversions | Lot 05, Houdement & Tempier | Appui didactique directement lu, avec limites d'âge et de tâche ; pas validation expérimentale de nos exercices |
+| Relier échange et calcul | Lot 03, Fuchs ; tâches proposées dans EVAL-NUM-001 | Résultat, stratégie et explication à consigner séparément ; aucun passage automatique C2→C3 |
+
+Les relations C1→C2 et C2→C3 restent SOUTIEN_POSSIBLE, sans prérequis bloquant. Cardinalité, petits nombres et problèmes (lots 12–13) sont des domaines liés, pas des preuves directes des échanges décimaux. K3a/Fuson et Tempier 2016 restent ouverts. NEEDS_REVIEW et absence de validation humaine sont maintenus.
+
+- 2026-10-09 — REFINE / LINK : rapprochement des contrôles RR-002, correction des états de vérification, sans promotion.
