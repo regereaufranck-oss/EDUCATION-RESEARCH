@@ -4,7 +4,7 @@
 
 - Dossier : [PROTOCOLE_ET_PREUVES.md](./PROTOCOLE_ET_PREUVES.md)
 - Dépôt : EDUCATION-RESEARCH, branche par défaut
-- Couverture : lots 01 à 14, vérifiés présents le 2026-10-09
+- Couverture : lots 01 à 17, vérifiés présents le 2026-10-09
 - État : **RR-002 IN_PROGRESS** ; les lots 01 à 14 sont enregistrés, pas de clôture scientifique.
 
 ## Ce qui est capitalisé
@@ -68,3 +68,9 @@ Priorité : IC et textes intégraux Croset/Fuchs, validité des tâches cardinal
 Aucune nouvelle collecte ni nouvelle lecture primaire. Les trois fiches sont reliées à RR-002 ; contrôles Jensen/Osana/Fuchs et réserves de mesure rapprochés ; référence Tempier 2016 à réconcilier séparée du texte 2023 contrôlé ; décompte lot 13 corrigé. Statuts NEEDS_REVIEW / HUMAN_REVIEW_REQUIRED conservés.
 
 **Priorité courante, remplaçant les anciennes consignes de collecte générale :** poursuivre l'analyse des affirmations par compétence, mesure, comparateur, horizon et indépendance, à partir des documents enregistrés. Accès OSF, versions et textes manquants restent des lacunes ; les rouvrir seulement s'ils changent une conclusion décisionnelle. STOP_PROVISIONAL pour cette consolidation ; aucune activité promue ni modification applicative.
+
+## Delta gros lot — analyses 15 à 17
+
+Lot 15 : dix affirmations bornées par compétence, population, mesure et usage. Lot 16 : huit comparaisons pédagogiques et registre des recouvrements confirmés ou inconnus. Lot 17 : propriétés de mesure, suffisance par usage et lacunes reliées aux décisions. Analyse des documents existants ; aucune nouvelle lecture primaire ni collecte. Résultats détaillés et réserves dans le dossier de preuves.
+
+Reprise : compléter les passages manquants disponibles et examiner les contenus existants non encore couverts. Pas de nouvelle recherche générale. Réouverture ciblée seulement si une lacune change une décision. Aucun effet global ni nombre global de preuves indépendantes calculé ; statuts provisoires inchangés.
