@@ -186,3 +186,39 @@ Cadre de référence : [Standards for Educational and Psychological Testing — 
 **Suite ciblée :** (1) relier chaque exemple à son passage officiel ; (2) relever les quatre propositions de chacun des 16 items sans les reproduire dans le dépôt ; (3) qualifier chaque distracteur « spécifique plausible / ambigu / non interprétable » ; (4) distinguer erreurs et non-réponses et les modalités de passation ; (5) revue humaine.
 
 **Décision : CONTINUE_TARGETED ; consolidation : ENRICH ; statut : NEEDS_REVIEW ; validation empirique : NON ÉTABLIE.**
+
+## Clôture de la collecte documentaire CE2–CM1 — 2026-10-09
+
+**Décision de suffisance : STOP_PROVISIONAL**, pour l'usage limité « inventorier les propositions de réponses des huit items de recomposition additive CE2 et des huit items CM1 (DEPP 2025) ». Ce n'est **ni** une validation humaine des transcriptions **ni** une validation empirique des interprétations, des sous-scores ou d'une intervention. **Maturité : NEEDS_REVIEW ; porte : READY_FOR_HUMAN_REVIEW.** La consigne antérieure CONTINUE_TARGETED est close pour la **collecte** seulement ; les vérifications critiques sont conservées ci-dessous.
+
+### Inventaire de travail — CE2, 8 items et 24 distracteurs
+
+| Item | Bonne réponse | Trois autres propositions |
+|---|---:|---|
+| 1 | 27 | 207 ; 72 ; 9 |
+| 2 | 86 | 68 ; 14 ; 806 |
+| 3 | 325 | 300205 ; 30025 ; 10 |
+| 4 | 634 | 13 ; 346 ; 436 |
+| 5 | 306 | 63 ; 360 ; 36 |
+| 6 | 500 | 50 ; 5000 ; 5 |
+| 7 | 70 | 520 ; 205 ; 25 |
+| 8 | 173 | 38 ; 371 ; 137 |
+
+### Inventaire de travail — CM1, 8 items et 24 distracteurs
+
+| Item | Bonne réponse | Trois autres propositions |
+|---|---:|---|
+| 1 | 968 | 90068 ; 869 ; 23 |
+| 2 | 697 | 22 ; 796 ; 679 |
+| 3 | 3215 | 1532 ; 11 ; 320015 |
+| 4 | 5080 | 5008 ; 58 ; 13 |
+| 5 | 907 | 16 ; 7900 ; 79 |
+| 6 | 624 | 21 ; 5124 ; 516 |
+| 7 | 65 | 29 ; 254 ; 425 |
+| 8 | 165 | 1515 ; 30 ; 15015 |
+
+**Provenance et prudence :** transcription de travail issue des passes de lecture des cahiers officiels DEPP 2025 ; la correspondance page/item et la transcription intégrale doivent être revues humainement sur les PDF primaires avant tout usage opérationnel. Ce relevé de propositions ne certifie pas les mécanismes cognitifs à l'origine des choix. Ne pas republier les énoncés, ni en faire un instrument ICARIS ou un étalonnage autonome. Le présent inventaire facilite l'audit documentaire ; vérifier aussi les droits de réutilisation des questionnaires officiels.
+
+**Modalités :** CE2 oral, huit items à 20 secondes chacun selon le guide consulté ; CM1 lecture autonome, quatre minutes pour huit items en passation standard. La version adaptée peut différer. Les non-réponses doivent être séparées des erreurs.
+
+**Suite hors collecte :** revue humaine du relevé et des passages officiels ; classement prudent de chaque distracteur en hypothèse spécifique plausible / ambiguë / non interprétable ; confrontation des conclusions des trois fiches NUM-DEC-001, EVAL-NUM-001 et PED-NUM-001. Réouverture REOPEN uniquement en présence d'une contradiction, d'un nouvel usage ou d'une lacune bloquante. **Validation empirique : NON ÉTABLIE.**
